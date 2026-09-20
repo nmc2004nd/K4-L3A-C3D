@@ -9,7 +9,7 @@ __pycache__/
 venv/
 env/
 ENV/
-
+analysis.md
 # Packaging / build artifacts
 build/
 dist/

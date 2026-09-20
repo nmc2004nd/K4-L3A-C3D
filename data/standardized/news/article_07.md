@@ -4,8 +4,6 @@
 
 **Crawled:** 2026-09-20T05:25:28.285995+00:00
 
-**Standardization:** clean-v2
-
 ---
 
 Với sự phong phú, đa dạng, hài hòa và tinh tế, ẩm thực đang là một sản phẩm du lịch hấp dẫn đối với du khách. Trong định hướng phát triển du lịch, thì việc phát triển và nâng cao giá trị ẩm thực cũng là một trong những nội dung quan trọng mà tỉnh Hà Giang đang triển khai.

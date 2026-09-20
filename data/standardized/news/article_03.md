@@ -4,8 +4,6 @@
 
 **Crawled:** 2026-09-20T05:25:26.023332+00:00
 
-**Standardization:** clean-v2
-
 ---
 
 Ẩm thực Việt được ví như một “mỏ vàng” để phát triển du lịch. Tuy nhiên, để nâng tầm giá trị ẩm thực thành sản phẩm du lịch cần tạo điểm nhấn trong việc xây dựng, quảng bá tour cũng như món ăn đặc trưng của các vùng miền.

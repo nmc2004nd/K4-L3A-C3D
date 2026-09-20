@@ -4,8 +4,6 @@
 
 **Crawled:** 2026-09-20T05:25:49.236287+00:00
 
-**Standardization:** clean-v2
-
 ---
 
 Sở hữu nền ẩm thực phong phú với nhiều nét đặc sắc, Thừa Thiên Huế có tiềm năng khai thác và phát triển du lịch ẩm thực. Để tạo ra hiệu quả, cần tập trung hơn các trải nghiệm ẩm thực có nguồn gốc địa phương thay vì tham quan, ăn uống đơn thuần.
