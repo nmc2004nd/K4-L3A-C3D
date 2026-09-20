@@ -8,30 +8,30 @@
 
 ## Trang 1
 
-Ký bởi: Cổng Thông tin điện tử Chính phủ
-VGP Email: thongtinchinhphu@chinhphu.vn
-} Thời gian lof 2201.2030 1605:46 +07:00 Wer
-THỦ TUONG CHÍNH PHU CONG HÒA XA HỘI CHỦ NGHĨA VIET NAM
-. TT Độc lập - Tự do - Hạnh phúc
-Số:†4/QĐ-TTg Hà Nội, ngàyA¿ tháng 04 năm 2020
-QUYÉTĐỊNH „
-Phê duyệt Chiến lược phát trién du lịch Việt Nam
-= & x
-CỔNG THONG TIN BIEN TU CHIN PHỦ dén nam 2030
-PGi Cos massee ———=
-ĐỀN ag LUA 2 . „ „
-THỦ TUONG CHÍNH PHU
+THỦ TƯỚNG CHÍNH PHỦ
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Số: 147/QĐ-TTg
+
+Hà Nội, ngày 22 tháng 01 năm 2020
+
+QUYẾT ĐỊNH
+
+Phê duyệt Chiến lược phát triển du lịch Việt Nam đến năm 2030
 
 Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
 
-Căn cứ Luật Du lịch ngày 19 thang 6 năm 2017;
+Căn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;
 
-Xét đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch,
+Xét đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;
 
-QUYÉT ĐỊNH:
+THỦ TƯỚNG CHÍNH PHỦ QUYẾT ĐỊNH:
 
 Điều 1. Phê duyệt “Chiến lược phát triển du lịch Việt Nam đến năm
-2030” với các nội dung sau đây:
+2030” với các nội dung sau đây
 
 I. QUAN DIEM
 
@@ -44,23 +44,23 @@ xanh, tôi đa hóa sự đóng góp của du lịch cho các mục tiêu phát 
 vững của Liên Hợp Quoc; quản lý, sử dụng hiệu quả tài nguyên thiên nhiên,
 bao vệ môi trường và đa dạng sinh học, chủ động thích ứng với biên đôi khí
 
-; hau, bao dam quéc phong, an ninh. ;
+hau, bao dam quéc phong, an ninh.
 
-_ 3. Chú trong phát triển du lich văn hóa, gắn phát triển du lịch với bảo
+3. Chú trong phát triển du lịch văn hóa, gắn phát triển du lịch với bảo
 ton, phát huy giá trị di sản và bản sắc văn hóa dân tộc.
 
-_ 4, Phat trién du lich theo hướng chuyên nghiệp, chất lượng, hiệu quả;
+4, Phat trién du lịch theo hướng chuyên nghiệp, chất lượng, hiệu quả
 đây mạnh ứng dụng những thành tựu của cuộc cách mạng công nghiệp 4.0 và
 chú trọng phát triên nguôn nhân lực chất lượng cao.
 
-__..5. Phát triển đồng thời du lịch quốc tế và du lịch nội địa; đây mạnh xuất
+.5. Phát triển đồng thời du lịch quốc tế và du lịch nội địa; đây mạnh xuất
 khâu tại chỗ thông qua du lịch; tăng cường liên ket nhằm phát huy loi thê tài
 nguyên tự nhiên và văn hóa; phát triên đa dạng sản phẩm du lịch, mở rộng thị
 trường và nâng cao năng lực cạnh tranh của du lịch Việt Nam.
 
 ## Trang 2
 
-II. MỤC TIỂU .
+II. MỤC TIỂU.
 
 1. Đến năm 2025
 
@@ -76,11 +76,11 @@ tiếp vào GDP đạt 12 - 14%.
 - Tạo ra khoảng 5,5 - 6 triệu việc làm, trong đó có khoảng 2 triệu việc
 làm trực tiép, tăng trưởng bình quân 12 - 14%/nam.
 
-_ _ 7 Về khách du lịch: Phan đấu đón được ít nhất 35 triệu lượt khách quốc
+_ 7 Về khách du lịch: Phan đấu đón được ít nhất 35 triệu lượt khách quốc
 tê và 120 triệu lượt khách nội địa, duy trì tôc độ tăng trưởng bình quân vê
 khách quốc tế từ 12 - 14%/năm và khách nội dia từ 6 - 7%/năm.
 
-2. Đến năm 2030 .
+2. Đến năm 2030.
 
 Du lịch thực sự là ngành kinh tế mũi nhọn và phát triển bền vững.
 Việt Nam trở thành điểm dén đặc biệt hap dan, thudc nhóm 30 quộc gia có
@@ -88,13 +88,13 @@ năng lực cạnh tranh du lịch hàng dau thê giới, đáp ứng đây đ�
 tiêu phát triển bền vững.
 
 - Tổng thu từ khách du lịch: Đạt 3.100 - 3.200 nghìn tỷ đồng (tương
-đương 130 - 135 tỷ USD), tăng trưởng bình quân 11 - 12%⁄2/năm; đóng góp
+đương 130 - 135 tỷ USD), tăng trưởng bình quân 11 - 12%/2/năm; đóng góp
 trực tiếp vào GDP đạt 15 - 17%.
 
 - Tạo ra khoảng 8,5 triệu việc làm, trong đó có khoảng 3 triệu việc làm
 trực tiép, tăng trưởng bình quân 8 - 9%/năm.
 
-_ _ ~ Về khách du lịch: Phấn đấu đón được ít nhất 50 triệu lượt khách quốc
+_ ~ Về khách du lịch: Phấn đấu đón được ít nhất 50 triệu lượt khách quốc
 tÊ và 160 triệu lượt khách nội địa; duy trì tốc độ tăng trưởng bình quân về
 khách quốc tê từ 8 - 10%4/năm và khách nội dia từ 5 - 6%/nam.
 
@@ -106,8 +106,7 @@ a) Nhận thức đầy đủ du lịch là ngành kinh tế dịch vụ tổng 
 nội dung văn hóa và nhân văn sâu sắc, đóng góp chính vào hội nhập kinh tê,
 tạo động lực cho các ngành khác phát trién, đem lại hiệu quả kinh tê, văn hóa,
 
-: xã hội, môi trường, chính tri, đôi ngoại va an ninh, quốc phòng.
-2
+xã hội, môi trường, chính tri, đôi ngoại va an ninh, quốc phòng.
 
 ## Trang 3
 
@@ -121,7 +120,7 @@ thu hút của du lịch Việt Nam.
 
 2. Hoàn thiện thể chế, chính sách phát triển du lịch
 
-_..8) RA soát, sửa đổi, bd sung và hoàn thiện thể chế, chính sách, pháp luật
+.8) RA soát, sửa đổi, bd sung và hoàn thiện thể chế, chính sách, pháp luật
 dé tạo điều kiện cho du lịch phát triên.
 
 b) Ban hành chính sách ưu đãi về đất đai, thuế, tín dụng để huy động
@@ -133,12 +132,12 @@ các khu vực công và tư nhân, doanh nhân và cộng dong địa phương 
 phát trién du lịch bên vững; thiệt lập các điêu kiện tạo môi trường kinh doanh
 thuận lợi, kích thích đôi mới, khởi nghiệp sáng tao, phát triên lực lượng doanh
 nghiệp, hình thành nhiêu doanh nghiệp du lịch có thương hiệu mạnh; hỗ trợ
-các doanh nghiệp vừa và nhỏ, các hộ kinh doanh du lich tiép thu công nghệ mới,
-kỹ năng sô và tiép cận tài chính.
+các doanh nghiệp vừa và nhỏ, các hộ kinh doanh du lịch tiép thu công nghệ mới,
+kỹ năng số và tiép cận tài chính.
 
 d) Ưu tiên nguồn lực cho công tác quy hoạch, đào tạo nhân lực, nghiên
 cứu thị trường, xúc tiên, phát triển sản phẩm du lịch; phát trién du lịch cộng
-dong; bảo vệ tài nguyên và môi trường du lịch. :
+dong; bảo vệ tài nguyên và môi trường du lịch.
 
 đ) Tiếp tục hoàn thiện chính sách tạo thuận lợi về nhập cảnh, xuất cảnh
 và di lại cho khách du lịch quôc tê; tạo điều kiện cho các hãng hàng không
@@ -156,24 +155,22 @@ du lịch, khu du lịch quốc gia và khu vực có tiêm năng du lịch; nâ
 năng kêt nội giao thông tới khu du lịch, diém du lịch; dau tư điểm dừng, nghỉ
 trên các tuyên đường bộ.
 
-b) Nâng cấp, mở rộng, đẩy nhanh xây dựng mới các cảng hàng không;
+b) Nâng cấp, mở rộng, đẩy nhanh xây dựng mới các cảng hàng không
 xây dựng cảng biên, cảng thủy nội địa chuyên dung cho khách du lịch; cải
-
-: . 3
 
 ## Trang 4
 
 thiện nhanh hạ tầng, chất lượng dịch vụ đường sắt dé phát triển du lịch.
 
 c) Đổi mới, hoàn thiện hệ thống hạ tang công nghệ thông tin, day nhanh
-thực hiện quá trình chuyên đối sô trong ngành du lịch; số hóa các thông tin,
+thực hiện quá trình chuyên đối số trong ngành du lịch; số hóa các thông tin,
 tài liệu về điểm đền, xây dựng các kho nội dung số, hướng tới hình thành và
 phát trién hệ sinh thái du lịch thông minh.
 
 đ) Thu hút nguồn lực xã hội, nhà đầu tư có công nghệ hiện đại, thân
 thiện với môi trường để đâu tư xây dựng cơ sở vật chât kỹ thuật ngành du
 lịch, đặc biệt là cơ sở lưu trú, cơ sở vui chơi giải trí, khu nghỉ dưỡng phức hợp
-cao cap, phù hợp với nhu câu và xu hướng du lich mới.
+cao cap, phù hợp với nhu câu và xu hướng du lịch mới.
 
 8) Tập trung đầu tư, hình thành trung tâm tổ chức hội nghị, triển lãm,
 mua săm, thể thao, giải trí quy mô lớn, hiện đại tại khu vực động lực phát triên
@@ -181,27 +178,27 @@ du lịch. -
 
 4. Phát trién nguồn nhân lực du lịch
 
-a) Phát triển nguồn nhân lực du lịch theo cơ cấu hợp lý, bảo dam số
+a) Phát triển nguồn nhân lực du lịch theo cơ cấu hợp lý, bảo đảm số
 lượng, chat lượng, cân đội về cơ cau ngành nghệ và trình độ dao tạo, đáp ứng
 yêu cau cạnh tranh, hội nhập; có chính sách khuyên khích thúc đây phát triển
 nguồn nhân lực và thị trường lao động toàn diện, nâng cao chat lượng nhân
 lực du lịch cả về quản lý nhà nước, quản trị doanh nghiệp và kỹ năng nghề du
-lịch, chú trọng đào tạo nhân lực quan lý cap cao và lao động lành nghê.
+lịch, chú trọng đào tạo nhân lực quản lý cap cao và lao động lành nghê.
 
-b) Da dang các hình thức đào tạo; đây mạnh xã hội hóa, khuyến khích'
-doanh nghiệp tham gia dao tao nhan luc du lich; chú, trọng đào tạo kỹ năng
+b) Da dang các hình thức đào tạo; đây mạnh xã hội hóa, khuyến khích
+doanh nghiệp tham gia dao tao nhan luc du lịch; chú, trọng đào tạo kỹ năng
 nghé và kỹ năng mêm cho lực lượng lao động trực tiép phục vu du lịch, đặc
-biệt là đội ngũ hướng dẫn viên, thuyết minh viên du lịch tại điểm; tô chức đào
+biệt là đội ngũ hướng dẫn viên, thuyết minh viên du lịch tại điểm; tổ chức đào
 tạo, bôi dưỡng kiên thức, kỹ năng cho cộng đông dân cư tham gia kinh doanh
 du lịch và góp phan quảng bá điềm đến, hình ảnh du lịch của địa phương.
 
-_ ¢) Tăng cường năng lực các cơ sở dao tạo, trường dao tạo nghề du lịch
+c) Tăng cường năng lực các cơ sở dao tạo, trường dao tạo nghề du lịch
 chat lượng cao tại các khu vực động lực phát triển du lịch.
 
 d) Khuyến khích hình thành đội ngũ tỉnh nguyện viên hướng dẫn, hỗ
-trợ khách du lịch. ; ;
+trợ khách du lịch;
 
-5. Phát triển và đa dang hóa thị trường khách du lich
+5. Phát triển và đa dang hóa thị trường khách du lịch
 
 a) Thường xuyên điều tra, nghiên cứu thị trường, nhu cầu và thị hiểu
 của khách du lịch; xây dựng cơ sở dữ liệu thị trường khách du lịch.
@@ -210,8 +207,6 @@ b) Phát triển đa dang thị trường khách du lịch quốc tế
 
 - Tiếp tục thu hút khách, mở rộng thị trường có khả năng tăng trưởng
 nhanh, có nguồn khách lớn, có mức chi tiêu cao và lưu trú dài ngày.
-
-4
 
 ## Trang 5
 
@@ -246,11 +241,11 @@ thê về tài nguyên của từng vùng, địa phương, phủ hợp với nh
 và nâng cao khả năng cạnh tranh của du lịch Việt Nam.
 
 - Phát triển mạnh các sản phẩm du lịch chủ đạo, có lợi thế của du lịch
-Việt Nam gan với các khu vực động lực phát trién du lịch:
+Việt Nam gan với các khu vực động lực phát trién du lịch
 
-__ +Uutién phát triển sản phẩm du lịch nghỉ dưỡng biển, đáo và du lịch
-thê thao, giải trí biên phù hợp định hướng Chiên lược phát triển bên vững
-kinh tế biển Việt Nam. Tập trung nguồn lực dau tư phát triển một sô cụm du
++Uutién phát triển sản phẩm du lịch nghỉ dưỡng biển, đáo và du lịch
+thê thao, giải trí biên phù hợp định hướng Chiến lược phát triển bên vững
+kinh tế biển Việt Nam. Tập trung nguồn lực dau tư phát triển một số cụm du
 lịch, trung tâm nghỉ dưỡng biên cao cap, có thương hiệu mạnh trên thị trường
 du lịch quốc tê.
 
@@ -263,8 +258,6 @@ dựng thương hiệu nôi bật của du lịch Việt Nam.
 + Day mạnh phát triển du lịch cộng đồng, du lịch nông nghiệp và nông
 thôn, du lịch sinh thái, du lịch thé thao mạo hiểm.
 
-, 5
-
 ## Trang 6
 
 - Tiếp tục phát triển sản phẩm du lịch đô thị, du lịch hội nghị, hội thảo,
@@ -272,7 +265,7 @@ sự kiện (MICE); du lịch kết hợp mua săm, chữa bệnh, chăm sóc s�
 giáo dục, giải trí, đặc biệt là giải trí về đêm.
 
 - Tăng cường kết nối và nâng cao chất lượng dịch vụ trong chuỗi giá trị
-sản pham du lich.
+sản pham du lịch.
 
 7. Đây mạnh xúc tiến, quảng bá, xây dựng thương hiệu du lịch và hợp
 tác, hội nhập quoc tê về du lịch
@@ -285,7 +278,7 @@ chuyên nghiệp, hiệu qua; phát huy sức mạnh của truyền thông va t�
 quảng bá trên mạng xã hội.
 
 - Chú trọng huy động nguồn lực xã hội, kết hợp nguồn lực nhà nước
-trong xúc tiên, quảng bá du lịch. .
+trong xúc tiên, quảng bá du lịch.
 
 - Phát huy vai trò cơ quan đại diện Việt Nam và cộng đồng người Việt
 Nam ở nước ngoài trong xúc tiên, quảng bá du lịch; mở văn phòng xúc tiên
@@ -310,12 +303,10 @@ nghề du lịch.
 - Đây mạnh hợp tác với các quốc gia và tổ chức quốc tế dé trao đổi kinh
 nghiệm, tranh thủ hỗ trợ kỹ thuật, thu hút đầu tư, đào tạo nhân lực du lịch.
 
-§. Ứng dụng khoa học, công nghệ
+g. Ứng dụng khoa học, công nghệ
 
 - Day nhanh việc chuyển đổi số trong ngành du lịch; phát triển du lịch
 thông minh; xúc tiên, quảng bá, xây dựng thương hiệu; quản lý khách du lịch
-
-6
 
 ## Trang 7
 
@@ -324,7 +315,7 @@ nhiễm trên cơ sở ứng dụng khoa học, công nghệ hiện đại và n
 nghệ số.
 
 - Phát triển hệ sinh thái du lịch thông minh; ứng dụng công nghệ số dé
-kết nỗi nhằm hé trợ và tăng trải nghiệm cho khách du lịch; mở rộng năng lực
+kết nỗi nhằm hỗ trợ và tăng trải nghiệm cho khách du lịch; mở rộng năng lực
 cung câp dịch vụ kết hợp giữa kênh thực và kênh số; sử dụng tôi đa các giao
 dịch điện tử trong hoạt động du lịch.
 
@@ -344,30 +335,28 @@ a) Nâng cao hiệu lực, hiệu quả quản lý nhà nước về du lịch
 
 - Hoàn thiện hệ thống pháp luật, tiêu chuẩn, quy chuẩn quốc gia về du lịch.
 
-____~ Tiếp tục kiện toàn bộ máy quản lý nhà nước về du lich từ trung ương
+~ Tiếp tục kiện toàn bộ máy quản lý nhà nước về du lịch từ trung ương
 đên địa phương, bao đảm dong bộ, hiệu lực, hiệu qua, đáp ứng yêu câu phát
 triển ngành kinh tê mũi nhọn.
 
 - Đổi mới hoạt động phối hợp liên ngành, liên vùng về du lịch, nâng
 cao hiệu quả hoạt động của Ban Chỉ đạo Nhà nước về Du lịch và Ban Chỉ đạo
 phát triển du lịch cap tinh; tùng bước hình thành cơ chế điều phối phát triển
-du lịch theo vùng đáp ứng yêu câu liên kết phát triển du lich.
+du lịch theo vùng đáp ứng yêu câu liên kết phát triển du lịch.
 
 - Nâng cao vai trò, trách nhiệm của chính quyền địa phương các cấp
-trong việc xây dựng nếp sông văn minh, bảo đảm vệ sinh, môi trường, vệ sinh
+trong việc xây dựng nếp sống văn minh, bảo đảm vệ sinh, môi trường, vệ sinh
 an toàn thực pham, an ninh, an toàn cho khách du lịch; tạo dựng môi trường
 du lịch văn minh, thân thiện.
 
-_ > Tăng cường kiểm tra, kiểm soát chất lượng dịch vụ và quản lý điểm
+> Tăng cường kiểm tra, kiểm soát chất lượng dịch vụ và quản lý điểm
 đến; tuyên truyền, phô biên pháp luật về du lịch.
 
 b) Bảo vệ môi trường, thích ứng với biến đổi khí hậu và phòng chống
-thiên tai .
+thiên tai.
 
 - Tuyên truyền nâng cao nhận thức và thực thi mạnh mẽ các biện pháp
 bảo vệ tài nguyên, môi trường, bảo tôn đa dạng sinh học.
-
-`7
 
 ## Trang 8
 
@@ -384,7 +373,7 @@ hạn chế ô nhiễm môi trường và giám thiểu phát thải khí nhà k
 
 IV. NHIỆM VỤ TRỌNG TÂM, ĐỘT PHÁ
 
-1. Tập trung xây dựng và triển khai một số nhiệm vụ trọng tâm:
+1. Tập trung xây dựng và triển khai một số nhiệm vụ trọng tâm
 
 a) Quy hoạch phát triển du lịch theo quy định của pháp luật về quy
 hoạch và du lịch.
@@ -398,9 +387,9 @@ sản phẩm, nguồn nhân lực, xúc tiên quảng bá.
 2. Tập trung huy động nguồn lực triển khai một số nhiệm vụ đột phá
 
 a) Về phát triển kết cầu hạ tầng: Day nhanh tiến độ đầu tư mới sân bay
-Long Thanh, Chu Lai...; nâng cap, mở rộng các sân bay tại các địa bàn trọng
+Long Thanh, Chu Lai; nâng cap, mở rộng các sân bay tại các địa bàn trọng
 diém và tiêm năng, trước hết tại các sân bay như Nội Bai, Da Nang, Tan Son
-Nhat, Cam Ranh, Phú Quoc, Phú Bài, Vân Đôn...; dau tư xây dung một số
+Nhat, Cam Ranh, Phú Quoc, Phú Bài, Vân Đôn; dau tư xây dung một số
 cảng biến du lịch quốc tê và các tuyên đường bộ kết nôi với các khu du lịch
 quôc gia.
 
@@ -408,54 +397,52 @@ b) Và tạo thuận lợi cho khách du lịch: Tạo điều kiện thuận l�
 thủ tục câp thị thực cho khách quốc tê, áp dụng chính sách thị thực điện tử với
 tat cả thị trường khách quôc tế; cải tiễn mạnh mẽ quy trình kiêm soát thủ tục
 nhập cảnh, xuat cảnh, hải quan tại cửa khâu đường không, đường bộ, đường
-biên, bảo dam nhanh chóng và tiện lợi nhật cho khách quốc tê dén Việt Nam.
+biên, bảo đảm nhanh chóng và tiện lợi nhật cho khách quốc tê dén Việt Nam.
 
 c) Dau tư hình thành một số cụm du lịch đồng bộ, chất lượng, có quy
 mô lớn, dang cap quốc tế.
 
-____đ) Phát triển du lịch thông minh: Đẩy nhanh ứng dụng công nghệ số để
-kết nôi nhằm hồ trợ và gia tăng trải nghiệm cho khách du lịch; xây dựng hệ :
+đ) Phát triển du lịch thông minh: Đẩy nhanh ứng dụng công nghệ số để
+kết nôi nhằm hồ trợ và gia tăng trải nghiệm cho khách du lịch; xây dựng hệ
 sinh thái du lịch thông minh dé kết noi hạ tâng dịch vu du lịch; tăng cường
 ứng dung công nghệ xanh, sạch trong các cơ sở kinh doanh dịch vụ và cơ sở
 lưu trú du lịch.
 
-8
-
 ## Trang 9
 
 đ) Phát triển du lịch cộng đồng: Có chính sách hỗ trợ nguồn lực cho
-người dân tham gia phát trên du lịch cộng dong; găn phát trién du lich van
-hóa với trải nghiệm đời sông cộng đồng dé nâng cao đời sông kinh tê, văn
+người dân tham gia phát trên du lịch cộng dong; găn phát trién du lịch van
+hóa với trải nghiệm đời sống cộng đồng dé nâng cao đời sống kinh tê, văn
 hóa, góp phân xóa đói giảm nghèo cho người dân, đặc biệt là ở vùng sâu,
 vùng xa, biên giới, hải đảo.
 
-Điều 2. Tổ chức thực hiện _
+Điều 2. Tổ chức thực hiện
 
 1. Bộ Văn hóa, Thể thao và Du lịch
 
-; a) Ra soát để đề xuất sửa đổi, bd sung và hoàn thiện cơ chế, chính sách,
+a) Ra soát để đề xuất sửa đổi, bd sung và hoàn thiện cơ chế, chính sách,
 pháp luật về du lịch dé tạo điêu kiện cho du lịch phát triển.
 
-__b) Chủ trì, phối hợp với các bộ, ngành và Ủy ban nhân dân tỉnh, thành
+b) Chủ trì, phối hợp với các bộ, ngành và Ủy ban nhân dân tỉnh, thành
 phê trực thuộc trung ương triền khai, hướng dan, kiêm tra việc thực hiện
-Chiên lược. ;
+Chiến lược.
 
 c) Chủ trì, phối hợp với các bộ, ngành liên quan xây dựng, trình Thủ
-tướng Chính phủ phê duyệt và tô chức triển khai thực hiện quy hoạch phát
-trién du lịch; chỉ đạo xây dựng, phê duyệt theo thâm quyên và tô chức thực
-hiện các nhiệm vụ trọng tâm ưu tiên khác của Chiên lược.
+tướng Chính phủ phê duyệt và tổ chức triển khai thực hiện quy hoạch phát
+trién du lịch; chỉ đạo xây dựng, phê duyệt theo thâm quyên và tổ chức thực
+hiện các nhiệm vụ trọng tâm ưu tiên khác của Chiến lược.
 
 d) Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Tài chính và các
 cơ quan liên quan xây dựng cơ chê, chính sách đâu tư, huy động các nguôn
-von, tài trợ trong và ngoài nước cho phát trién du lich.
+von, tài trợ trong và ngoài nước cho phát trién du lịch.
 
 đ) Đầu mối tổng hợp tinh hình thực hiện Chiến lược, định kỳ hàng
-năm báo cáo Thủ tướng Chính phủ; tô chức sơ kêt việc thực hiện Chiên lược
-vào năm 2025 và dé xuât sửa đôi, bỗ sung các nhiệm vụ ưu tiên cho giai
+năm báo cáo Thủ tướng Chính phủ; tổ chức sơ kêt việc thực hiện Chiến lược
+vào năm 2025 và dé xuât sửa đôi, bổ sung các nhiệm vụ ưu tiên cho giai
 đoạn tiép theo.
 
 2. Bộ Kế hoạch và Đầu tư, Bộ Tài chính căn cứ chức năng, nhiệm vụ
-được giao cân đôi, bô trí kinh phí thực thiện Chiên lược theo đúng quy định
+được giao cân đôi, bô trí kinh phí thực thiện Chiến lược theo đúng quy định
 của pháp luật về ngân sách nhà nước, đầu tư công và pháp luật liên quan; đê
 xuất cơ chế, chính sách ưu đãi về dat đai, thuê và tín dụng dé thúc đây dau tư
 vào du lịch, đặc biệt là huy động nguôn lực đầu tư tại các cụm du lịch, khu
@@ -464,11 +451,9 @@ du lịch; đề xuat chính sách hỗ trợ phát triên du lịch cộng đô
 vùng sâu, vùng xa, biên giới, hải đảo.
 
 3. Bộ Giao thông vận tải xây dựng, rà soat, điều chỉnh cơ chế, chính
-sách, chiên lược, quy hoạch, kê hoạch phát triên hạ tâng giao thông, các
+sách, chiên lược, quy hoạch, kế hoạch phát triên hạ tâng giao thông, các
 phương thức vận tải khách du lịch, tập trung vào vận tải hàng không dé bảo
-đảm thuận lợi cho tăng trưởng và phát triên du lịch. :
-
-9
+đảm thuận lợi cho tăng trưởng và phát triên du lịch.
 
 ## Trang 10
 
@@ -476,12 +461,12 @@ phương thức vận tải khách du lịch, tập trung vào vận tải hàng
 Ngoại giao và các bộ, ngành liên quan triển khai thực hiện chính sách thị thực
 điện tử với tất cả thị trường khách quốc tế và hoàn thiện cơ chế, chính sách tạo
 thuận lợi nhất về xuất, nhập cảnh cho khách du lịch; triển khai các biện pháp bảo
-dam an ninh, trật tự xã hội và an toàn cho khách du lich.
+dam an ninh, trật tự xã hội và an toàn cho khách du lịch.
 
 5. Bộ Ngoại giao chủ trì, phối hợp với Bộ Công an và các bộ, ngành
 liên quan xây dựng các quy định pháp luật bảo đảm quyền và lợi ích hợp pháp
 của công dân Việt Nam đi du lịch nước ngoài; phối hợp với Bộ Văn hóa, Thể
-thao và Du lịch triển khai xúc tiễn, quảng bá du lịch Việt Nam ở nước ngoài.
+thao và Du lịch triển khai xúc tiến, quảng bá du lịch Việt Nam ở nước ngoài.
 
 6. Bộ Nội vụ chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch
 tiếp tục sắp xếp, hoàn thiện bộ máy quản lý nhà nước về du lịch ở trung ương
@@ -499,7 +484,7 @@ lịch, đặc biệt là đào tạo nghề du lịch.
 
 9. Bộ Công Thương chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du
 lịch tổ chức các chương trình xúc tiến thương mại và xây dựng sản phẩm
-phục vụ du lịch; ban hành theo thâm quyền chính sách khuyến khích phát
+phục vụ du lịch; ban hành theo thẩm quyền chính sách khuyến khích phát
 triển mạng lưới trung tâm mua sam hiện đại tại các khu vực động lực phát
 triển du lịch.
 
@@ -519,25 +504,23 @@ và Du lịch và Bộ Tài nguyên và Môi trường nghiên cứu xây dựng
 chính sách phát triển du lịch sinh thái, du lịch cộng đồng tại các vườn quốc
 gia và khu bảo tồn thiên nhiên.
 
-10
-
 ## Trang 11
 
 12. Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Văn hóa,
-Thể thao và Du lịch tô chức truyền thông, quảng bá về dat nước, con người và
+Thể thao và Du lịch tổ chức truyền thông, quảng bá về dat nước, con người và
 du lịch Việt Nam; hoàn thiện hệ thông hạ tang công nghệ thông tin, ho trợ day
 nhanh thực hiện quá trình chuyên đôi số trong ngành du lịch, hình thành và
 phát triên hệ sinh thái du lịch thông minh.
 
-_ 13. Bộ Khoa bọc và Công nghệ chủ trì, phối hợp với Bộ Văn hóa,
+13. Bộ Khoa bọc và Công nghệ chủ trì, phối hợp với Bộ Văn hóa,
 Thể thao’ và Du lịch triển khai các chương trình, đê tài và dé án ứng dụng
 khoa học công nghệ phục vụ phát triên du lịch; bảo vệ quyên sở hữu trí tuệ
 trong kinh doanh du lịch; đề xuất chính sách ho trợ dau tư, phát triển, sáng
-tạo sản phẩm, ‘dich vụ du lịch trên nên tảng công nghệ sô; đây mạnh ứng
+tạo sản phẩm, ‘dịch vụ du lịch trên nên tảng công nghệ số; đây mạnh ứng
 dụng công nghệ xanh, công nghệ sạch trong các cơ sở dịch vụ và cơ sở lưu
-trú dulịch. -  -°
+trú dulịch. - -°
 
-_ 14. Bộ Y tế chủ trì, phối hợp với Bộ Văn hóa, Thể thao va Du lịch đề
+14. Bộ Y tế chủ trì, phối hợp với Bộ Văn hóa, Thể thao va Du lịch đề
 xuất cơ chê, chính sách phát triên các sản phẩm, dịch vụ y tê, chăm sóc sức
 
 / khỏe phục vụ du lịch; hình thành hệ thông cơ sở y tê chât lượng cao, đáp ứng,
@@ -549,58 +532,31 @@ thiết bị thông minh, thanh toán không dùng tiên mặt và cơ chê giá
 soát hoạt động thanh toán xuyên biên giới trong lĩnh vực du lịch.
 
 16. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ căn cứ chức
-năng, nhiệm vụ được giao tô chức thực hiện Chiên lược theo thâm quyên.
+năng, nhiệm vụ được giao tổ chức thực hiện Chiến lược theo thâm quyên.
 
 17. Uỷ ban nhân dân các tỉnh, thành phố trực thuộc trung ương
 
 a) Căn cứ Chiến lược, tổ chức xây dựng kế hoạch phát triển du lịch tại
-địa phương bảo dam tính thông nhật, dong bộ với việc thực hiện kê hoạch
+địa phương bảo đảm tính thông nhật, dong bộ với việc thực hiện kế hoạch
 phát triện kinh tê - xã hội của địa phương.
 
-_b) Tăng cường quản lý điểm đến, bảo đảm an ninh, trật tự, an toàn xã
+b) Tăng cường quản lý điểm đến, bảo đảm an ninh, trật tự, an toàn xã
 hội dé phát trién du lịch; tuyên truyền, nâng cao nhận thức của người dân đê
 xây dựng môi trường du lịch văn minh, thân thiện; có chương trình hỗ trợ
 người dân tham gia phát trién du lịch cộng đông, góp phân nâng cao sinh kê,
 giảm nghèo cho người dân, đặc biệt ở vùng sâu, vùng xa, biên giới, hải đảo.
 
 c) Thực hiện sơ kết, tổng kết kế hoạch phát triển du lịch tại địa phương gửi
-Bộ Văn hóa, Thê thao và Du lịch đê tông hợp, báo cáo Thủ tướng Chính phủ.
+Bộ Văn hóa, Thể thao và Du lịch đê tông hợp, báo cáo Thủ tướng Chính phủ.
 
-. 18, Phòng Thuong mại và Công nghiệp Việt Nam, các tổ chức xã hội -
-nghề nghiệp về du lịch, các tô chức xã hội - nghề nghiệp khác chủ động phối
-hợp với Bộ Văn hóa, Thé thao và Du lịch thực hiện các mục tiêu của Chiên lược.
-
-lại
+. 18, Phòng Thương mại và Công nghiệp Việt Nam, các tổ chức xã hội -
+nghề nghiệp về du lịch, các tổ chức xã hội - nghề nghiệp khác chủ động phối
+hợp với Bộ Văn hóa, Thể thao và Du lịch thực hiện các mục tiêu của Chiến lược.
 
 ## Trang 12
 
-Điều 3. Quyết định này có hiệu lực thi hành ké từ ngày ký.
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.
 
 Điều 4. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ
-quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phô trực :
-thuộc trung ương chịu trách nhiệm thi hành Quyết định này./.
-
-Noi nhận: --đt,THỦ TƯỜNG
-- Ban Bí thư Trung ương Đảng; Z5 PHO?EE U TƯỞNG ,
-- Thủ tướng, các Phó Thủ tướng Chính phủ; G28. XS SN
-- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; > hy KK TÀ e ’
-- HĐND, UBND các tinh, thành phố trực thuộc Trung vghis Be) oP a) đt
-- Văn phòng Trung ương và các Ban của Đảng; LÀ wie Ade 4 'Š Vay ¿
-- Văn phòng Tổng Bi thư; 2 Roe Ci a
-- Văn phòng Chủ tịch nước; wee
-- Hội đồng dân tộc và các Ủy ban của Quốc hội; ` —# :
-- Văn phòng Quốc hội; hư Ệng
-- Tòa án nhân dân tối cao; Vũ Đức Đam
-- Viện kiểm sát nhân dân tối cao;
-- Kiểm toán nhà nước;
-- Ủy ban Giám sát tài chính Quốc gia;
-- Ngân hàng Chính sách xã hội;
-- Ngân hàng Phát triển Việt Nam;
-- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
-- Cơ quan trung ương của các đoàn thể;
-- VPCP: BTCN, các PCN, Trợ lý TTg, TGD Cổng TTĐT,
-
-các Vụ, Cục, đơn vị trực thuộc;
-- Lưu: VT, KGVX (3b).442
-
-12
+quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực
+thuộc trung ương chịu trách nhiệm thi hành Quyết định này./
