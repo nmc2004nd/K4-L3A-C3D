@@ -33,6 +33,34 @@ Golden dataset có 12 câu pháp lý/chính sách và 6 câu du lịch ẩm th�
 
 > **Lưu ý:** Config A (dense-only) trả `n_sources=0` ở toàn bộ 18 câu do cosine score dưới threshold 0.3, dẫn đến safe refusal 100%. Faithfulness cao vì safe refusal không bịa thông tin; answer relevance = 0 vì không trả lời câu hỏi nào.
 
+## Per-question detail — Config B (hybrid + RRF)
+
+| # | ID | Question (rút gọn) | F | R | CR | CP | Avg | Trạng thái |
+| -: | --- | ------------------- | --: | --: | --: | --: | ---: | ---------- |
+| 1 | legal-001 | Định nghĩa du lịch theo Luật 2017 | 1.00 | 0.00 | 0.00 | 0.00 | 0.25 | 🔴 Safe refusal |
+| 2 | legal-002 | Định nghĩa du lịch cộng đồng | 1.00 | 0.00 | 0.00 | 0.00 | 0.25 | 🔴 Safe refusal |
+| 3 | legal-003 | Quyền an toàn và bồi thường khách DL | 1.00 | 1.00 | 0.60 | 0.60 | 0.80 | 🟡 Khá |
+| 4 | legal-004 | Nghĩa vụ khách DL Điều 12 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 🟢 Tuyệt đối |
+| 5 | legal-005 | Điều kiện công nhận điểm DL | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 🟢 Tuyệt đối |
+| 6 | legal-006 | DN nước ngoài KD lữ hành | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 🟢 Tuyệt đối |
+| 7 | legal-007 | Điều kiện KD lữ hành nội địa | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 🟢 Tuyệt đối |
+| 8 | legal-008 | Mức ký quỹ lữ hành | 1.00 | 1.00 | 0.50 | 1.00 | 0.88 | 🟡 Khá |
+| 9 | legal-009 | KDL cấp tỉnh lượt khách | 1.00 | 1.00 | 1.00 | 0.80 | 0.95 | 🟢 Tốt |
+| 10 | legal-010 | KDL quốc gia năng lực PV | 1.00 | 1.00 | 1.00 | 0.00 | 0.75 | 🟡 Khá |
+| 11 | policy-011 | Mục tiêu khách DL 2025 | 1.00 | 1.00 | 1.00 | 0.80 | 0.95 | 🟢 Tốt |
+| 12 | policy-012 | Tổng thu GDP việc làm 2030 | 0.00 | 1.00 | 1.00 | 0.80 | 0.70 | 🟡 Hallucination |
+| 13 | news-013 | Du lịch ẩm thực là gì | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 🟢 Tuyệt đối |
+| 14 | news-014 | Chi thêm cho ẩm thực | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 🟢 Tuyệt đối |
+| 15 | news-015 | Hạn chế khai thác ẩm thực VN | 1.00 | 0.00 | 0.50 | 0.00 | 0.38 | 🔴 Safe refusal |
+| 16 | news-016 | Đặc sản Cao Bằng Top 100 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 🟢 Tuyệt đối |
+| 17 | news-017 | 6 món Huế chứng nhận 2022 | 1.00 | 1.00 | 1.00 | 0.50 | 0.88 | 🟡 Khá |
+| 18 | news-018 | Nem chua Thanh Hóa | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 🟢 Tuyệt đối |
+
+**Tóm tắt Config B:**
+- 🟢 Tuyệt đối/Tốt (avg ≥ 0.9): **11/18 câu** (61.1%)
+- 🟡 Khá (0.7–0.89): **4/18 câu** (22.2%)
+- 🔴 Yếu (< 0.7): **3/18 câu** (16.7%)
+
 ## A/B comparison
 
 - **Cấu hình tốt hơn:** Config B (hybrid + RRF) vượt trội hoàn toàn, average cao hơn **+0.4944**.

@@ -22,7 +22,7 @@ STANDARDIZED_DIR = PROJECT_DIR / "data" / "standardized"
 CHROMA_DIR = PROJECT_DIR / "chroma_db"
 
 CHUNK_SIZE = 500
-CHUNK_OVERLAP = 50
+CHUNK_OVERLAP = 100
 CHUNKING_METHOD = "recursive"
 
 EMBEDDING_PROVIDER = "sentence_transformers"
