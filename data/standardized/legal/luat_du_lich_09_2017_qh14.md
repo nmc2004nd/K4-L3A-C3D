@@ -4,10 +4,15 @@
 
 **Source URL:** https://vanban.chinhphu.vn/?docid=190290&pageid=27160
 
+**Text transcription:** https://luatvietnam.vn/van-hoa/luat-du-lich-2017-luat-so-09-2017-qh14-115518-d1.html
+
+**Standardization:** clean-v2
+
 ---
 
-## Trang 1
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
+<<<<<<< HEAD
 QUỐC HỘI
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
@@ -29,58 +34,67 @@ Luật này quy định về tài nguyên du lịch, phát triển sản phẩm 
 hoạt động du lịch; quyên, nghĩa vụ của khách du lịch, tổ chức, cá nhân kinh
 doanh du lịch, cơ quan, tổ chức, cá nhân khác, cộng đồng dân cư có hoạt động
 liên quan đến du lịch; quản lý nhà nước về du lịch.
+=======
+Quốc hội ban hành Luật Du lịch.
 
-Điều 2. Đối tượng áp dụng
+## Chương I
+NHỮNG QUY ĐỊNH CHUNG
+>>>>>>> 13e520d (clean data)
 
-1. Cơ quan, tổ chức, cá nhân Việt Nam hoạt động du lịch trên lãnh thé Việt
-Nam và ở nước ngoài.
+### Điều 1. Phạm vi điều chỉnh
 
-2. Té chức, cá nhân nước ngoài hoạt động du lịch trên lãnh thổ Việt Nam.
+Luật này quy định về tài nguyên du lịch, phát triển sản phẩm du lịch và hoạt động du lịch; quyền, nghĩa vụ của khách du lịch, tổ chức, cá nhân kinh doanh du lịch, cơ quan, tổ chức, cá nhân khác, cộng đồng dân cư có hoạt động liên quan đến du lịch; quản lý nhà nước về du lịch.
 
-3. Cơ quan quản lý nhà nước về du lịch, cơ quan khác, tổ chức, cá nhân,
-cộng đồng dân cư có hoạt động liên quan đền du lịch.
+### Điều 2. Đối tượng áp dụng
 
+1. Cơ quan, tổ chức, cá nhân Việt Nam hoạt động du lịch trên lãnh thổ Việt Nam và ở nước ngoài.
+
+<<<<<<< HEAD
 Điều 3. Giải thích từ ngữ
+=======
+2. Tổ chức, cá nhân nước ngoài hoạt động du lịch trên lãnh thổ Việt Nam.
+
+3. Cơ quan quản lý nhà nước về du lịch, cơ quan khác, tổ chức, cá nhân, cộng đồng dân cư có hoạt động liên quan đến du lịch.
+
+### Điều 3. Giải thích từ ngữ
+>>>>>>> 13e520d (clean data)
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau
 
-1. Du lịch là các hoạt động có liên quan đến chuyến đi của con người ngoài
-nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhắm đáp
-ứng nhu câu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du
-lịch hoặc kết hợp với mục đích hợp pháp khác.
+1. Du lịch là các hoạt động có liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp với mục đích hợp pháp khác.
 
-2. Khách du lịch là người đi du lịch hoặc kết hợp di du lịch, trừ trường hợp
-đi học, làm việc dé nhận thu nhập ở nơi đến.
+2. Khách du lịch là người đi du lịch hoặc kết hợp đi du lịch, trừ trường hợp đi học, làm việc để nhận thu nhập ở nơi đến.
 
-3. Hoạt động du lịch là hoạt động của khách du lịch, tổ chức, cá nhân kinh
-doanh du lịch và cơ quan, tổ chức, cá nhân, cộng dong dân cư có liên quan đến
-du lịch.
+3. Hoạt động du lịch là hoạt động của khách du lịch, tổ chức, cá nhân kinh doanh du lịch và cơ quan, tổ chức, cá nhân, cộng đồng dân cư có liên quan đến du lịch.
 
-4. Tài nguyên du lịch là cảnh quan thiên nhiên, yếu tố tự nhiên và các giá
-trị văn hóa làm cơ sở để hình thành sản phẩm du lịch, khu du lịch, điểm du lịch,
+4. Tài nguyên du lịch là cảnh quan thiên nhiên, yếu tố tự nhiên và các giá trị văn hóa làm cơ sở để hình thành sản phẩm du lịch, khu du lịch, điểm du lịch, nhằm đáp ứng nhu cầu du lịch. Tài nguyên du lịch bao gồm tài nguyên du lịch tự nhiên và tài nguyên du lịch văn hóa.
 
-## Trang 2
+5. Sản phẩm du lịch là tập hợp các dịch vụ trên cơ sở khai thác giá trị tài nguyên du lịch để thỏa mãn nhu cầu của khách du lịch.
 
+<<<<<<< HEAD
 nhằm đáp ứng nhu cầu du lịch. Tài nguyên du lịch bao gồm tài nguyên du lịch tự
 nhiên và tài nguyên du lịch văn hóa.
+=======
+6. Khu du lịch là khu vực có ưu thế về tài nguyên du lịch, được quy hoạch, đầu tư phát triển nhằm đáp ứng nhu cầu đa dạng của khách du lịch. Khu du lịch bao gồm khu du lịch cấp tỉnh và khu du lịch quốc gia.
+>>>>>>> 13e520d (clean data)
 
-5. Sản phẩm đu lịch là tập hợp các dịch vụ trên cơ sở khai thác giá trị tài
-nguyên du lịch để thỏa man nhu cầu của khách du lịch.
+7. Điểm du lịch là nơi có tài nguyên du lịch được đầu tư, khai thác phục vụ khách du lịch.
 
+<<<<<<< HEAD
 6. Khu du lịch là khu vực có ưu thé vé tai nguyén du lịch, duge quy hoach,
 đầu tư phát triển nhằm đáp ứng nhu cầu đa dang của khách du lịch. Khu du lịch
 bao gồm khu du lịch cấp tỉnh và khu du lịch quéc gia.
+=======
+8. Chương trình du lịch là văn bản thể hiện lịch trình, dịch vụ và giá bán được định trước cho chuyến đi của khách du lịch từ điểm xuất phát đến điểm kết thúc chuyến đi.
+>>>>>>> 13e520d (clean data)
 
-1. Điểm du lịch là nơi có tài nguyên du lịch được đầu tu, khai thác phục vụ
-khách du lịch.
+9. Kinh doanh dịch vụ lữ hành là việc xây dựng, bán và tổ chức thực hiện một phần hoặc toàn bộ chương trình du lịch cho khách du lịch.
 
-8. Chương trình du lịch là văn bản thé hiện lịch trình, dịch vụ và giá bán
-được định trước cho chuyên di của khách du lịch từ điểm xuất phát dén điềm kết
-thúc chuyên đi.
+10. Hướng dẫn du lịch là hoạt động cung cấp thông tin, kết nối dịch vụ, dẫn khách du lịch, hỗ trợ khách du lịch sử dụng các dịch vụ theo chương trình du lịch.
 
-9. Kinh doanh dich vu lữ hành là việc xây dựng, bán va tổ chức thực hiện
-một phần hoặc toàn bộ chương trình du lịch cho khách du lịch.
+11. Hướng dẫn viên du lịch là người được cấp thẻ để hành nghề hướng dẫn du lịch.
 
+<<<<<<< HEAD
 10. Huéng dẫn du lịch là hoạt động cung cấp thông tin, kết nói dịch vụ, dẫn
 khách du lịch, hỗ trợ khách du lịch sử dụng các dịch vụ theo chương trình du lịch.
 
@@ -93,12 +107,19 @@ của khách du lịch. -
 13. Xác tien du lịch là hoạt động nghiên cứu thị trường, tổ chức tuyên
 truyền, quảng bá, vận động nhằm tìm kiêm, thúc đây cơ hội phát trién và thu hút
 khách du lịch.
+=======
+12. Cơ sở lưu trú du lịch là nơi cung cấp dịch vụ phục vụ nhu cầu lưu trú của khách du lịch.
 
-14. Phát triển du lịch bén vững là sự phát triển du lịch đáp ứng đồng thời
-các yêu cầu về kinh tế - xã hội và môi trường, bảo đảm hài hòa lợi ích của các
-chủ thể tham gia hoạt động du lịch, không làm tổn hại đến khả năng đáp ứng
-nhu cầu về du lịch trong tương lai.
+13. Xúc tiến du lịch là hoạt động nghiên cứu thị trường, tổ chức tuyên truyền, quảng bá, vận động nhằm tìm kiếm, thúc đẩy cơ hội phát triển và thu hút khách du lịch.
 
+14. Phát triển du lịch bền vững là sự phát triển du lịch đáp ứng đồng thời các yêu cầu về kinh tế - xã hội và môi trường, bảo đảm hài hòa lợi ích của các chủ thể tham gia hoạt động du lịch, không làm tổn hại đến khả năng đáp ứng nhu cầu về du lịch trong tương lai.
+
+15. Du lịch cộng đồng là loại hình du lịch được phát triển trên cơ sở các giá trị văn hóa của cộng đồng, do cộng đồng dân cư quản lý, tổ chức khai thác và hưởng lợi.
+>>>>>>> 13e520d (clean data)
+
+16. Du lịch sinh thái là loại hình du lịch dựa vào thiên nhiên, gắn với bản sắc văn hoá địa phương, có sự tham gia của cộng đồng dân cư, kết hợp giáo dục về bảo vệ môi trường.
+
+<<<<<<< HEAD
 15. Du lịch cộng đồng là loại hình du lịch được phat triển trên cơ sở các giá
 trị văn hóa của cộng đồng, do cộng dong dân cư quản lý, tổ chức khai thác và
 hưởng lợi.
@@ -106,32 +127,40 @@ hưởng lợi.
 16, Du lịch sinh thái là loại hình du lịch dựa vào thiên nhiên, gắn với bản
 sắc văn hoá địa phương, có sự tham gia của cộng dong dân cư, ket hợp giáo dục
 về bảo vệ môi trường.
+=======
+17. Du lịch văn hóa là loại hình du lịch được phát triển trên cơ sở khai thác giá trị văn hóa, góp phần bảo tồn và phát huy giá trị văn hóa truyền thống, tôn vinh giá trị văn hóa mới của nhân loại.
 
-17. Du lịch văn hóa là loại hình du lịch được phát triển trên cơ sở khai thác
-giá trị văn hóa, góp phân bảo tôn và phát huy giá trị văn hóa truyền thống, tôn
-vinh giá trị văn hóa mới của nhân loại.
+18. Môi trường du lịch là môi trường tự nhiên và môi trường xã hội nơi diễn ra các hoạt động du lịch.
+>>>>>>> 13e520d (clean data)
 
+### Điều 4. Nguyên tắc phát triển du lịch
+
+<<<<<<< HEAD
 18. Môi trường du lịch là môi trường tự nhiên và môi trường xã hội nơi
 diễn ra các hoạt động du lịch.
+=======
+1. Phát triển du lịch bền vững, theo chiến lược, quy hoạch, kế hoạch, có trọng tâm, trọng điểm.
+>>>>>>> 13e520d (clean data)
 
-## Trang 3
+2. Phát triển du lịch gắn với bảo tồn và phát huy giá trị di sản văn hóa dân tộc, tài nguyên thiên nhiên, khai thác lợi thế của từng địa phương và tăng cường liên kết vùng.
 
+<<<<<<< HEAD
 Điều 4. Nguyên tắc phát triển du lịch
+=======
+3. Bảo đảm chủ quyền quốc gia, quốc phòng, an ninh, trật tự, an toàn xã hội, mở rộng quan hệ đối ngoại và hội nhập quốc tế, quảng bá hình ảnh đất nước, con người Việt Nam.
 
-1. Phát triển du lịch bền vững, theo chiến lược, quy hoạch, kế hoạch, có
-trọng tâm, trọng điểm.
+4. Bảo đảm lợi ích quốc gia, lợi ích cộng đồng, quyền và lợi ích hợp pháp của khách du lịch, tổ chức, cá nhân kinh doanh du lịch.
+>>>>>>> 13e520d (clean data)
 
-2. Phát triển du lịch gắn với bảo tồn và phát huy giá trị di sản văn hóa dân
-tộc, tài nguyên thiên nhiên, khai thác lợi thé của từng địa phương và tăng cường
-liên kết vùng.
+5. Phát triển đồng thời du lịch nội địa và du lịch quốc tế; tôn trọng và đối xử bình đẳng đối với khách du lịch.
 
-3. Bảo đảm chủ quyền quốc gia, quéc phong, an ninh, trật tự, an toàn xã hội,
-mở rộng quan hệ đối ngoại và hội nhập quôc tê, quảng bá hình ảnh đất nước, con
-người Việt Nam.
+### Điều 5. Chính sách phát triển du lịch
 
-4. Bảo đảm lợi ích quốc gia, lợi ích cộng đồng, quyền và lợi ích hợp pháp
-của khách du lịch, tổ chức, cá nhân kinh doanh du lịch.
+1. Nhà nước có chính sách huy động mọi nguồn lực cho phát triển du lịch để bảo đảm du lịch trở thành ngành kinh tế mũi nhọn của đất nước.
 
+2. Tổ chức, cá nhân kinh doanh du lịch được hưởng mức ưu đãi, hỗ trợ đầu tư cao nhất khi Nhà nước ban hành, áp dụng các chính sách về ưu đãi và hỗ trợ đầu tư.
+
+<<<<<<< HEAD
 5. Phát trién đồng thời du lịch nội địa và du lịch quếc tế; tôn trọng và đối
 xử bình đẳng đối với khách du lịch.
 
@@ -145,6 +174,9 @@ tu cao nhất khi Nha nước ban hành, áp dụng các chính sách về ưu �
 dau tu.
 
 3, Nhà nước ưu tiên bế trí kinh phi cho các hoạt động sau đây
+=======
+3. Nhà nước ưu tiên bố trí kinh phí cho các hoạt động sau đây:
+>>>>>>> 13e520d (clean data)
 
 a) Điều tra, đánh giá, bảo vệ, tôn tạo, phát triển giá trị tài nguyên du lịch
 
@@ -152,14 +184,19 @@ b) Lập quy hoạch về du lịch
 
 c) Xúc tiến du lịch, xây dựng thương hiệu du lịch quốc gia, địa phương
 
-d) Xây dựng kết cấu ha tang phục vụ phát triển du lịch.
+d) Xây dựng kết cấu hạ tầng phục vụ phát triển du lịch.
 
 4. Nhà nước có chính sách khuyến khích, hỗ trợ cho các hoạt động sau đây
 
+<<<<<<< HEAD
 a) Đầu tư phát triển cơ sở vật chất kỹ thuật, dịch vụ du lịch chất lượng cao
+=======
+a) Đầu tư phát triển cơ sở vật chất kỹ thuật, dịch vụ du lịch chất lượng cao;
+>>>>>>> 13e520d (clean data)
 
 b) Nghiên cứu, định hướng phát triển sản phẩm du lịch
 
+<<<<<<< HEAD
 c) Đào tạo và phát triển nguồn nhân lực du lịch
 
 đ) Đầu tư phát triển sản phẩm du lịch mới có tác động tích cực tới môi
@@ -172,22 +209,34 @@ du lịch
 
 e) Phát triển du lịch tại nơi có tiềm năng du lịch; sử dụng nhân lực du lịch
 tại địa phương
+=======
+c) Đào tạo và phát triển nguồn nhân lực du lịch;
 
-## Trang 4
+d) Đầu tư phát triển sản phẩm du lịch mới có tác động tích cực tới môi trường, thu hút sự tham gia của cộng đồng dân cư; đầu tư phát triển sản phẩm du lịch biển, đảo, du lịch sinh thái, du lịch cộng đồng, du lịch văn hóa và sản phẩm du lịch đặc thù khác;
 
+đ) Ứng dụng khoa học, công nghệ hiện đại phục vụ quản lý và phát triển du lịch;
+
+e) Phát triển du lịch tại nơi có tiềm năng du lịch; sử dụng nhân lực du lịch tại địa phương;
+>>>>>>> 13e520d (clean data)
+
+g) Đầu tư hình thành khu dịch vụ du lịch phức hợp, có quy mô lớn; hệ thống cửa hàng miễn thuế, trung tâm mua sắm phục vụ khách du lịch.
+
+<<<<<<< HEAD
 g) Đầu tư hình thành khu dịch vụ dụ lịch phức hợp, có quy mô lớn; hệ
 thông cửa hang miễn thuế, trung tâm mua sắm phục vụ khách du lịch.
+=======
+5. Nhà nước có chính sách tạo điều kiện thuận lợi về đi lại, cư trú, thủ tục xuất cảnh, nhập cảnh, hải quan, hoàn thuế giá trị gia tăng và bảo đảm quyền, lợi ích hợp pháp khác cho khách du lịch.
 
-5, Nhà nước có chính sách tạo điều kiện thuận lợi về đi lại, cư trú, thủ tục
-xuất cảnh, nhập cảnh, hải quan, hoàn thuế giá trị gia tăng và bảo đảm quyên, lợi
-ích hợp pháp khác cho khách du lịch.
+### Điều 6. Sự tham gia của cộng đồng dân cư trong phát triển du lịch
+>>>>>>> 13e520d (clean data)
 
-Điều 6. Sự tham gia của cộng đồng dân cư trong phát triển du lịch
+1. Cộng đồng dân cư có quyền tham gia và hưởng lợi ích hợp pháp từ hoạt động du lịch; có trách nhiệm bảo vệ tài nguyên du lịch, bản sắc văn hóa địa phương; giữ gìn an ninh, trật tự, an toàn xã hội, bảo vệ môi trường.
 
-1. Cộng đồng dân cư có quyền tham gia và hưởng lợi ích hợp pháp từ hoạt
-động du lịch; có trách nhiệm bảo vệ tài nguyên du lịch, bản sắc văn hóa địa
-phương; giữ gìn an ninh, trật tự, an toàn xã hội, bảo vệ môi trường.
+2. Cộng đồng dân cư được tạo điều kiện để đầu tư phát triển du lịch, khôi phục và phát huy các loại hình văn hóa, nghệ thuật dân gian, ngành, nghề thủ công truyền thống, sản xuất hàng hóa của địa phương phục vụ khách du lịch, góp phần nâng cao đời sống vật chất và tinh thần của người dân địa phương.
 
+### Điều 7. Tổ chức xã hội - nghề nghiệp về du lịch
+
+<<<<<<< HEAD
 2. Cộng đồng đân cư được tạo điều kiện để đầu tư phát triển du lịch, khôi
 phục và phát huy các loại hình văn hóa, nghệ thuật dân gian, ngành, nghề thủ
 công truyền thông, sản xuat hang hóa của địa phương phục vụ khách du lịch,
@@ -197,9 +246,13 @@ góp phan nâng cao đời sống vật chat và tỉnh thần của người d�
 
 1. Tổ chức xã hội - nghề nghiệp về du lịch được thành lập và hoạt động
 theo quy định của pháp luật về hội.
+=======
+1. Tổ chức xã hội - nghề nghiệp về du lịch được thành lập và hoạt động theo quy định của pháp luật về hội.
+>>>>>>> 13e520d (clean data)
 
 2. Tổ chức xã hội - nghề nghiệp về du lịch có trách nhiệm sau đây
 
+<<<<<<< HEAD
 a) Tuân thủ pháp luật và bảo vệ quyên, lợi ích hợp pháp của hội viên
 
 b) Tham gia xây dựng, phd biến, giáo dục, giám sát việc thực hiện các quy
@@ -213,132 +266,153 @@ hoạt động du lịch theo quy định của pháp luật
 
 d) Tổ chức triển khai việc thực hiện quy tắc đạo dức nghề nghiệp, vận động
 hội viên kinh doanh du lịch bảo đảm chât lượng dịch vụ
+=======
+a) Tuân thủ pháp luật và bảo vệ quyền, lợi ích hợp pháp của hội viên;
 
-đ) Phát hiện và kiến nghị với cơ quan nhà nước có thẩm quyền xử lý vi
-phạm pháp luật vé du lịch, bảo vệ môi trường.
+b) Tham gia xây dựng, phổ biến, giáo dục, giám sát việc thực hiện các quy định của pháp luật, chính sách về du lịch;
 
-Điều 8. Bảo vệ môi trường du lịch
+c) Tham gia xúc tiến du lịch, đào tạo, bồi dưỡng kiến thức về du lịch; đánh giá, tư vấn, thẩm định tiêu chuẩn chuyên môn, nghiệp vụ, chất lượng dịch vụ cho doanh nghiệp và lao động trong ngành du lịch; xây dựng môi trường kinh doanh lành mạnh cho các hội viên; huy động các nguồn lực xã hội để triển khai hoạt động du lịch theo quy định của pháp luật;
 
-1. Môi trường du lịch phải được bảo vệ, tôn tạo và phát triển theo hướng
-xanh, sạch, đẹp, an ninh, an toàn, lành mạnh va văn minh.
+d) Tổ chức triển khai việc thực hiện quy tắc đạo đức nghề nghiệp, vận động hội viên kinh doanh du lịch bảo đảm chất lượng dịch vụ;
+>>>>>>> 13e520d (clean data)
 
-2. Bộ, co quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình,
-ban hành quy định nhằm bảo vệ, tôn tạo và phát triển môi trường du lịch.
+đ) Phát hiện và kiến nghị với cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về du lịch, bảo vệ môi trường.
 
-3. Chính quyền địa phương các cấp có biện pháp bảo vệ, tôn tạo và phát
-triển môi trường du lịch phù hợp với thực tế của địa phương.
+### Điều 8. Bảo vệ môi trường du lịch
 
-## Trang 5
+1. Môi trường du lịch phải được bảo vệ, tôn tạo và phát triển theo hướng xanh, sạch, đẹp, an ninh, an toàn, lành mạnh và văn minh.
 
+2. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, ban hành quy định nhằm bảo vệ, tôn tạo và phát triển môi trường du lịch.
+
+3. Chính quyền địa phương các cấp có biện pháp bảo vệ, tôn tạo và phát triển môi trường du lịch phù hợp với thực tế của địa phương.
+
+4. Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm thu gom, xử lý các loại chất thải phát sinh trong hoạt động kinh doanh; khắc phục tác động tiêu cực do hoạt động của mình gây ra đối với môi trường; có biện pháp phòng, chống tệ nạn xã hội trong hoạt động kinh doanh của mình.
+
+<<<<<<< HEAD
 4. Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm thu gom, xử ly các
 loại chât thải phát sinh trong hoạt động kinh doanh; khắc phục tác động tiêu cực
 do hoạt động của mình gây ra đối với môi trường; có biện pháp phòng, chống tệ
 nạn xã hội trong hoạt động kinh doanh của minh.
+=======
+5. Khách du lịch, cộng đồng dân cư và tổ chức, cá nhân khác có trách nhiệm bảo vệ, giữ gìn cảnh quan, môi trường, bản sắc văn hóa, phong tục, tập quán của dân tộc; có thái độ ứng xử văn minh, lịch sự nhằm nâng cao hình ảnh đất nước, con người và du lịch Việt Nam.
 
-5. Khách du lịch, cộng đồng dân cư và tổ chức, cá nhân khác có trách
-nhiệm bảo vệ, giữ gìn cảnh quan, môi trường, bản sắc văn hóa, phong tục, tập
-quán của dân tộc; có thái độ ứng xử văn minh, lịch sự nhằm nâng cao hình ảnh
-dat nước, con người va du lịch Việt Nam.
+### Điều 9. Các hành vi bị nghiêm cấm trong hoạt động du lịch
+>>>>>>> 13e520d (clean data)
 
-Điều 9. Các hành vi bị nghiêm cấm trong hoạt động du lịch
+1. Làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh, trật tự, an toàn xã hội, truyền thống văn hóa, đạo đức, thuần phong mỹ tục của dân tộc.
 
-1. Làm phương hại đến chủ quyên, lợi ích quốc gia, quốc phòng, an ninh,
-trật tự, an toàn xã hội, truyền thông văn hóa, đạo đức, thuần phong mỹ tục của
-dân tộc.
-
-2. Lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài
-hoặc từ nước ngoài vào Việt Nam trái pháp luật.
+2. Lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài hoặc từ nước ngoài vào Việt Nam trái pháp luật.
 
 3. Xâm hại tài nguyên du lịch, môi trường du lịch.
 
+<<<<<<< HEAD
 4. Phân biệt đối xử với khách du lịch, thu lợi bất hợp pháp từ khách du lịch
 tranh giành khách du lịch, nai ép khách du lịch mua hang hóa, dịch vụ.
+=======
+4. Phân biệt đối xử với khách du lịch, thu lợi bất hợp pháp từ khách du lịch; tranh giành khách du lịch, nài ép khách du lịch mua hàng hóa, dịch vụ.
+>>>>>>> 13e520d (clean data)
 
-5. Kinh doanh du lịch khi không đủ điều kiện kinh doanh, không có giấy
-phép kinh doanh hoặc không duy trì điều kiện kinh doanh trong quá trình hoạt
-động theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+5. Kinh doanh du lịch khi không đủ điều kiện kinh doanh, không có giấy phép kinh doanh hoặc không duy trì điều kiện kinh doanh trong quá trình hoạt động theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
+<<<<<<< HEAD
 6. Sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp kinh
 doanh dịch vụ lữ hành khác hoặc cho tổ chức, cá nhân khác sử dụng giấy phép
 kinh doanh dịch vụ lữ hành của doanh nghiệp để hoạt động kinh doanh.
+=======
+6. Sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp kinh doanh dịch vụ lữ hành khác hoặc cho tổ chức, cá nhân khác sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp để hoạt động kinh doanh.
+>>>>>>> 13e520d (clean data)
 
 7. Hành nghề hướng dẫn du lịch khi không đủ điều kiện hành nghề.
 
-8. Quang cáo không đúng loại, hạng cơ sở lưu trú du lịch đã được cơ quan
-nhà nước có thẩm quyển công nhận; quảng cáo về loại, hạng cơ sở lưu trú du
-lịch khi chưa được cơ quan nhà nước có thẩm quyền công nhận.
+8. Quảng cáo không đúng loại, hạng cơ sở lưu trú du lịch đã được cơ quan nhà nước có thẩm quyền công nhận; quảng cáo về loại, hạng cơ sở lưu trú du lịch khi chưa được cơ quan nhà nước có thẩm quyền công nhận.
 
-9. Các hành vi bị nghiêm cắm khác theo quy định của luật khác có liên quan.
+9. Các hành vi bị nghiêm cấm khác theo quy định của luật khác có liên quan.
 
-Chương II
+## Chương II
 KHÁCH DU LỊCH
-Điều 10. Các loại khách du lịch
-1. Khách du lịch bao gồm khách du lịch nội địa, khách du lịch quốc tế đến
-Việt Nam và khách du lịch ra nước ngoài.
 
-## Trang 6
+### Điều 10. Các loại khách du lịch
 
+<<<<<<< HEAD
 2. Khách du lịch nội địa là công dân Việt Nam, người nước ngoài cư trú 0
 Việt Nam đi du lịch trong lãnh thô Việt Nam.
+=======
+1. Khách du lịch bao gồm khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài.
 
-3, Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt
-Nam định cư ở nước ngoài vào Việt Nam du lịch.
+2. Khách du lịch nội địa là công dân Việt Nam, người nước ngoài cư trú ở Việt Nam đi du lịch trong lãnh thổ Việt Nam.
+>>>>>>> 13e520d (clean data)
 
-4. Khách du lịch ra nước ngoài là công dân Việt Nam và người nước ngoài
-cư trú ở Việt Nam đi du lịch nước ngoài.
+3. Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt Nam định cư ở nước ngoài vào Việt Nam du lịch.
 
-Điều 11. Quyền của khách du lịch
+4. Khách du lịch ra nước ngoài là công dân Việt Nam và người nước ngoài cư trú ở Việt Nam đi du lịch nước ngoài.
 
+### Điều 11. Quyền của khách du lịch
+
+<<<<<<< HEAD
 1. Sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp
 hoặc tự đi du lịch.
+=======
+1. Sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch.
+>>>>>>> 13e520d (clean data)
 
-2. Yêu cầu tổ chức, cá nhân kinh doanh du lịch cung cấp thông tin về
-chương trình, dịch vụ, điểm đến du lịch theo hợp dong đã ký kết.
+2. Yêu cầu tổ chức, cá nhân kinh doanh du lịch cung cấp thông tin về chương trình, dịch vụ, điểm đến du lịch theo hợp đồng đã ký kết.
 
-3. Được tạo điều kiện thuận lợi về xuất cảnh, nhập cảnh, quá cảnh, hải
-quan, lưu cư trú, đi lại trên lãnh thé Việt Nam phù hợp với quy định của pháp
-luật và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành
-viên.
+3. Được tạo điều kiện thuận lợi về xuất cảnh, nhập cảnh, quá cảnh, hải quan, lưu cư trú, đi lại trên lãnh thổ Việt Nam phù hợp với quy định của pháp luật và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
+<<<<<<< HEAD
 4, Được bảo đảm quyền và lợi ích hợp pháp theo hợp đồng đã giao kết với
 tổ chức, cá nhân kinh doanh, cung cập dịch vụ du lịch.
+=======
+4. Được bảo đảm quyền và lợi ích hợp pháp theo hợp đồng đã giao kết với tổ chức, cá nhân kinh doanh, cung cấp dịch vụ du lịch.
+>>>>>>> 13e520d (clean data)
 
-5. Được đối xử bình dang; được bảo đảm an toàn về tính mạng, sức khỏe,
-tài sản khi sử dụng dịch vụ du lịch; được tôn trọng danh dự, nhân phẩm; được
-cứu hộ, cứu nạn trong trường hợp khẩn cấp.
+5. Được đối xử bình đẳng; được bảo đảm an toàn về tính mạng, sức khỏe, tài sản khi sử dụng dịch vụ du lịch; được tôn trọng danh dự, nhân phẩm; được cứu hộ, cứu nạn trong trường hợp khẩn cấp.
 
-6. Khiếu nại, tố cáo, khởi kiện hành vi vi phạm pháp luật vẻ du lịch.
+6. Khiếu nại, tố cáo, khởi kiện hành vi vi phạm pháp luật về du lịch.
 
+<<<<<<< HEAD
 7. Kiến nghị với tổ chức, cá nhân quản lý khu du lịch, điểm du lịch, cơ sở
 cung cap dịch vụ du lịch và cơ quan nhà nước có thấm quyên về các van đề liên
 quan đến hoạt động du lịch.
 
 g. Được bồi thường thiệt hại theo quy định của pháp luật.
+=======
+7. Kiến nghị với tổ chức, cá nhân quản lý khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ du lịch và cơ quan nhà nước có thẩm quyền về các vấn đề liên quan đến hoạt động du lịch.
 
-Điều 12. Nghĩa vụ của khách du lịch
+8. Được bồi thường thiệt hại theo quy định của pháp luật.
+>>>>>>> 13e520d (clean data)
 
+### Điều 12. Nghĩa vụ của khách du lịch
+
+<<<<<<< HEAD
 1. Tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ
 nơi đến du lịch; ứng xử văn minh, tôn trọng phong tục, tập quán, bản sắc văn
 hóa địa phương, bảo vệ và giữ gìn tai nguyên du lịch, môi trường du lịch
 không gây phương hại đến hình ảnh quốc gia, truyền thông văn hóa dân tộc của
 Việt Nam.
+=======
+1. Tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ nơi đến du lịch; ứng xử văn minh, tôn trọng phong tục, tập quán, bản sắc văn hóa địa phương, bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch; không gây phương hại đến hình ảnh quốc gia, truyền thống văn hóa dân tộc của Việt Nam.
+>>>>>>> 13e520d (clean data)
 
-2. Thực hiện nội quy của khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ
-du lịch.
+2. Thực hiện nội quy của khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ du lịch.
 
-3. Thanh toán tiền dịch vụ theo hợp đồng, phí, lệ phí và các khoản thu khác
-theo quy định của pháp luật.
+3. Thanh toán tiền dịch vụ theo hợp đồng, phí, lệ phí và các khoản thu khác theo quy định của pháp luật.
 
 4. Bồi thường thiệt hại theo quy định của pháp luật về dân sự.
 
-## Trang 7
+### Điều 13. Bảo đảm an toàn cho khách du lịch
 
+<<<<<<< HEAD
 Điều 13. Bảo đầm an toàn cho khách du lịch
+=======
+1. Cơ quan nhà nước có thẩm quyền, trong phạm vi nhiệm vụ, quyền hạn của mình, có biện pháp bảo đảm an ninh, trật tự, an toàn xã hội tại khu du lịch, điểm du lịch.
 
-1. Cơ quan nhà nước có thâm quyển, trong phạm vi nhiệm vụ, quyền hạn
-của mình, có biện pháp bảo đảm an ninh, trật tự, an toàn xã hội tại khu du lịch,
-điểm du lịch.
+2. Tổ chức, cá nhân quản lý khu du lịch, điểm du lịch có biện pháp phòng, tránh rủi ro và tổ chức bộ phận bảo vệ, cứu hộ, cứu nạn cho khách du lịch.
+>>>>>>> 13e520d (clean data)
 
+3. Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm cảnh báo nguy cơ gây nguy hiểm cho khách du lịch; thông báo, chỉ dẫn kịp thời cho khách du lịch trong trường hợp khẩn cấp; áp dụng biện pháp cần thiết, phối hợp với cơ quan, tổ chức, cá nhân có liên quan trong việc cứu hộ, cứu nạn cho khách du lịch.
+
+<<<<<<< HEAD
 2. Tổ chức, cá nhân quản lý khu du lịch, điểm du lịch có biện pháp phỏng,
 tránh rủi ro và tổ chức bộ phận bảo vệ, cứu hộ, cứu nạn cho khách du lịch.
 
@@ -346,85 +420,76 @@ tránh rủi ro và tổ chức bộ phận bảo vệ, cứu hộ, cứu nạn 
 gây nguy hiểm cho khách du lịch; thông báo, chỉ dẫn kịp thời cho khách du lịch
 trong trường hợp khan cap; áp dụng biện pháp cân thiết, phôi hợp với cơ quan,
 tổ chức, cá nhân có liên quan trong việc cứu hộ, cứu nạn cho khách du lịch.
+=======
+### Điều 14. Giải quyết kiến nghị của khách du lịch
 
-Điều 14. Giải quyết kiến nghị của khách du lịch
+1. Tổ chức, cá nhân kinh doanh du lịch, quản lý khu du lịch, điểm du lịch tổ chức tiếp nhận và giải quyết kịp thời kiến nghị của khách du lịch trong phạm vi quản lý.
+>>>>>>> 13e520d (clean data)
 
-1. Tổ chức, cá nhân kinh doanh du lịch, quản lý khu du lịch, điểm du lịch tổ
-chức tiếp nhận và giải quyết kịp thời kién nghị của khách du lịch trong phạm vi
-quản lý.
+2. Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, tổ chức tiếp nhận, giải quyết kiến nghị của khách du lịch trên địa bàn.
 
+3. Bộ Văn hóa, Thể thao và Du lịch, trong phạm vi nhiệm vụ, quyền hạn của mình, tiếp nhận, giải quyết hoặc phối hợp với cơ quan nhà nước có thẩm quyền giải quyết kiến nghị của khách du lịch.
+
+<<<<<<< HEAD
 2 Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình,
 tổ chức tiếp nhận, giải quyết kiên nghị của khách du lịch trên địa ban.
+=======
+## Chương III
+TÀI NGUYÊN DU LỊCH, PHÁT TRIỂN SẢN PHẨM DU LỊCH VÀ QUY HOẠCH VỀ DU LỊCH
+>>>>>>> 13e520d (clean data)
 
-3. Bộ Văn hóa, Thể thao và Du lịch, trong phạm vi nhiệm vụ, quyền hạn
-của mình, tiệp nhận, giải quyết hoặc phối hợp với cơ quan nhà nước có thâm
-quyền giải quyết kiên nghị của khách du lịch.
+### Mục 1. TÀI NGUYÊN DU LỊCH
 
-Chương III
-TÀI NGUYÊN DU LICH, PHÁT TRIEN SAN PHAM DU LICH
-VÀ QUY HOẠCH VE DU LICH
-Mục 1
-TÀI NGUYÊN DU LỊCH
+### Điều 15. Các loại tài nguyên du lịch
 
-Điều 15. Các loại tài nguyên du lịch
+1. Tài nguyên du lịch tự nhiên bao gồm cảnh quan thiên nhiên, các yếu tố địa chất, địa mạo, khí hậu, thủy văn, hệ sinh thái và các yếu tố tự nhiên khác có thể được sử dụng cho mục đích du lịch.
 
-1. Tai nguyên du lịch tự nhiên bao gồm cảnh quan thiên nhiên, các yếu tổ
-địa chất, địa mạo, khí hậu, thủy văn, hệ sinh thái và các yêu tô tự nhiên khác có
-thể được sử dụng cho mục đích du lịch.
+2. Tài nguyên du lịch văn hóa bao gồm di tích lịch sử - văn hóa, di tích cách mạng, khảo cổ, kiến trúc; giá trị văn hóa truyền thống, lễ hội, văn nghệ dân gian và các giá trị văn hóa khác; công trình lao động sáng tạo của con người có thể được sử dụng cho mục đích du lịch.
 
-2. Tài nguyên du lịch văn hóa bao gồm di tích lịch sử - văn hóa, di tích
-cách mạng, khảo cô, kiến trúc; giá trị văn hóa truyền thông, lễ hội, văn nghệ dân
-gian và các giá trị văn hóa khác; công trình lao động sáng tạo của con người có
-thể được sử dụng cho mục đích du lịch.
+### Điều 16. Điều tra tài nguyên du lịch
 
-Điều 16. Điều tra tài nguyên du lịch
+1. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với Ủy ban nhân dân cấp tỉnh và cơ quan nhà nước có liên quan điều tra, đánh giá, phân loại tài nguyên du lịch để làm căn cứ lập quy hoạch về du lịch; quản lý, khai thác, phát huy giá trị tài nguyên du lịch và phát triển sản phẩm du lịch.
 
-1. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với Ủy ban nhân dân
-cấp tỉnh và cơ quan nhà nước có liên quan điều tra, đánh giá, phân loại tài
-nguyên du lịch để làm căn cứ lập quy hoạch về du lịch; quản lý, khai thác, phát
-huy giá trị tài nguyên du lịch và phát triển sản phẩm du lịch.
+2. Chính phủ quy định chi tiết Điều này.
 
-## Trang 8
+### Điều 17. Trách nhiệm quản lý, bảo vệ và khai thác tài nguyên du lịch
 
+<<<<<<< HEAD
 2. Chính phủ quy định chỉ tiết Điều này.
 
 Điều 17. Trách nhiệm quản lý, bảo vệ và khai thác tài nguyên du lịch
 
 1. Nhà nước có chính sách quản lý, bảo vệ, tôn tạo, khai thác hợp lý, phát huy
 giá trị tài nguyên du lịch trong phạm vi cả nước dé phát triển du lịch bên vững.
+=======
+1. Nhà nước có chính sách quản lý, bảo vệ, tôn tạo, khai thác hợp lý, phát huy giá trị tài nguyên du lịch trong phạm vi cả nước để phát triển du lịch bền vững.
 
-2. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với Bộ, cơ quan
-ngang Bộ, Ủy ban nhân dân cấp tỉnh trong việc quản lý, bảo vệ, tôn tạo, khai
-thác hợp lý và phát huy giá trị tài nguyên du lịch.
+2. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh trong việc quản lý, bảo vệ, tôn tạo, khai thác hợp lý và phát huy giá trị tài nguyên du lịch.
 
-3. Cơ quan, tổ chức, cá nhân, cộng đồng dân cư quản lý tài nguyên du lịch
-có trách nhiệm bảo vệ, đầu tư, tôn tạo tai nguyên du lịch, tạo điều kiện thuận lợi
-cho khách du lịch tham quan, thụ hưởng giá trị của tài nguyên du lịch; phối hợp
-với cơ quan quản lý nhà nước về du lịch có thậm quyên trong việc bảo vệ và
-khai thác tài nguyên du lịch cho các mục tiêu kinh tê khác.
+3. Cơ quan, tổ chức, cá nhân, cộng đồng dân cư quản lý tài nguyên du lịch có trách nhiệm bảo vệ, đầu tư, tôn tạo tài nguyên du lịch, tạo điều kiện thuận lợi cho khách du lịch tham quan, thụ hưởng giá trị của tài nguyên du lịch; phối hợp với cơ quan quản lý nhà nước về du lịch có thẩm quyền trong việc bảo vệ và khai thác tài nguyên du lịch cho các mục tiêu kinh tế khác.
 
-4. Khách du lịch, tổ chức, cá nhân kinh doanh du lịch, cộng đồng dân cư có
-trách nhiệm bảo vệ tài nguyên du lịch.
+4. Khách du lịch, tổ chức, cá nhân kinh doanh du lịch, cộng đồng dân cư có trách nhiệm bảo vệ tài nguyên du lịch.
+>>>>>>> 13e520d (clean data)
 
-Mục 2
-PHAT TRIEN SAN PHAM DU LICH
+### Mục 2. PHÁT TRIỂN SẢN PHẨM DU LỊCH
 
-Điều 18. Xây dựng, phát triển sản phẩm du lịch
+### Điều 18. Xây dựng, phát triển sản phẩm du lịch
 
-1. Tổ chức, cá nhân có quyền sáng tạo, phát triển, kinh doanh các sản phẩm
-du lịch đáp ứng nhu cầu của khách du lịch và phù hợp với quy định của pháp
-luật.
+1. Tổ chức, cá nhân có quyền sáng tạo, phát triển, kinh doanh các sản phẩm du lịch đáp ứng nhu cầu của khách du lịch và phù hợp với quy định của pháp luật.
 
-2. Chính phủ có chính sách hỗ trợ phát triển sản phẩm du lịch chủ đạo đối
-với từng vùng và trong phạm vi toàn quốc theo từng giai đoạn, đáp ứng nhu câu
-của thị trường trên cơ sở đánh giá, phân loại tài nguyên du lịch.
+2. Chính phủ có chính sách hỗ trợ phát triển sản phẩm du lịch chủ đạo đối với từng vùng và trong phạm vi toàn quốc theo từng giai đoạn, đáp ứng nhu cầu của thị trường trên cơ sở đánh giá, phân loại tài nguyên du lịch.
 
-3. Chính phủ quy định các biện pháp bảo đảm an toan cho khách du lịch
-đối với những sản phẩm du lịch có nguy cơ ảnh hưởng đên tính mạng, sức khỏe
-của khách du lịch.
+3. Chính phủ quy định các biện pháp bảo đảm an toàn cho khách du lịch đối với những sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch.
 
-Điều 19. Phát triển du lịch cộng đồng
+### Điều 19. Phát triển du lịch cộng đồng
 
+1. Cá nhân, hộ gia đình nơi phát triển du lịch cộng đồng được ưu đãi, khuyến khích cung cấp dịch vụ lưu trú, ăn uống; hướng dẫn khách du lịch tham quan, trải nghiệm văn hóa, nếp sống tại cộng đồng; sản xuất hàng hóa, hàng thủ công truyền thống và các dịch vụ khác phục vụ khách du lịch.
+
+2. Ủy ban nhân dân cấp tỉnh tổ chức nghiên cứu, khảo sát, lựa chọn địa điểm có tiềm năng phát triển du lịch cộng đồng; có chính sách hỗ trợ về trang thiết bị cần thiết ban đầu và bồi dưỡng kiến thức, kỹ năng phục vụ khách du lịch cho cá nhân, hộ gia đình trong cộng đồng tham gia cung cấp dịch vụ du lịch; hỗ trợ xúc tiến sản phẩm du lịch cộng đồng.
+
+3. Ủy ban nhân dân cấp xã nơi phát triển du lịch cộng đồng tổ chức tuyên truyền, phổ biến, nâng cao nhận thức của cộng đồng; chủ trì xây dựng cam kết của cộng đồng nhằm giữ gìn bản sắc văn hóa, bảo vệ môi trường, ứng xử văn minh đối với khách du lịch.
+
+<<<<<<< HEAD
 1, Cá nhân, hộ gia đình nơi phát triển du lịch cộng đồng được ưu đãi,
 khuyến khích cung câp dịch vụ lưu trú, ăn uông; hướng dẫn khách du lịch tham
 quan, trải nghiệm văn hóa, nếp sống tại cộng đồng; sản xuất hàng hóa, hàng thủ
@@ -438,39 +503,43 @@ trợ xúc tiên sản phâm du lịch cộng đông.
 
 3. Ủy ban nhân dân cấp xã nơi phát triển du lịch cộng, đồng tổ chức tuyên
 truyền, phổ biến, nâng cao nhận thức của cộng đông; chủ trì xây dựng cam kết
+=======
+4. Tổ chức, cá nhân khai thác, phát triển du lịch cộng đồng có trách nhiệm tôn trọng văn hóa, nếp sống và chia sẻ lợi ích từ hoạt động du lịch với cộng đồng.
 
-## Trang 9
+### Mục 3. QUY HOẠCH VỀ DU LỊCH
 
+### Điều 20. Nguyên tắc lập quy hoạch về du lịch
+>>>>>>> 13e520d (clean data)
+
+1. Phù hợp với chiến lược và quy hoạch phát triển kinh tế - xã hội, quốc phòng, an ninh của đất nước; chiến lược phát triển ngành du lịch và các quy hoạch khác đã được cơ quan nhà nước có thẩm quyền phê duyệt theo từng thời kỳ.
+
+<<<<<<< HEAD
 của cộng dồng nhằm giữ gìn bản sắc văn hóa, bảo vệ môi trường, ứng xử văn
 minh đôi với khách du lịch.
 
 4. Tổ chức, cá nhân khai thác, phát triển du lịch cộng đồng có trách nhiệm tôn
 trọng văn hóa, nép sống va chia sẻ lợi ích từ hoạt động du lịch với cộng đồng.
+=======
+2. Khai thác, sử dụng hợp lý, hiệu quả tài nguyên du lịch và bảo tồn các di tích lịch sử - văn hóa, di sản thiên nhiên hướng tới mục tiêu phát triển bền vững gắn với bảo vệ môi trường và ứng phó với biến đổi khí hậu.
 
-Mục 3
-QUY HOẠCH VẺ DU LỊCH
+3. Bảo đảm tính liên kết giữa các địa phương trong vùng, giữa các vùng trong cả nước; khai thác, sử dụng tối đa kết cấu hạ tầng hiện có; phát huy tối ưu tiềm năng, lợi thế của từng vùng, từng địa phương để phát triển sản phẩm du lịch.
+>>>>>>> 13e520d (clean data)
 
-Điều 20. Nguyên tắc lập quy hoạch về du lịch
+4. Giảm thiểu các tác động tiêu cực do phát triển du lịch đến kinh tế - xã hội và môi trường.
 
-1. Phủ hợp với chiến lược và quy hoạch phát triển kinh tế - xã hội, quốc
-phòng, an ninh của dat nước; chiên lược phát trién ngành du lịch và các quy hoạch
-khác đã được cơ quan nhà nước có thâm quyên phê duyệt theo từng thời kỳ.
+5. Bảo đảm sự tham gia của cơ quan, tổ chức, cộng đồng dân cư và cá nhân trong quá trình lập quy hoạch;kết hợp hài hòa giữa lợi ích của Nhà nước và lợi ích của cộng đồng, giữa lợi ích của vùng và địa phương.
 
-2. Khai thác, sử dụng hợp lý, hiệu quả tài nguyên du lịch và bảo tồn các di
-tích lịch sử - văn hóa, di sản thiên nhiên hướng tới mục tiêu phát triển bên vững
-găn với bảo vệ môi trường và ứng phó với biên đôi khí hậu.
+6. Bảo đảm tính khoa học, ứng dụng công nghệ hiện đại trong quá trình lập quy hoạch; đáp ứng tiêu chuẩn, quy chuẩn và phù hợp với yêu cầu phát triển kinh tế - xã hội và hội nhập quốc tế của đất nước.
 
-3. Bảo đảm tính liên kết giữa các địa phương trong vùng, giữa các vùng
-trong cả nước; khai thác, sử đụng tôi đa kết cau hạ tang hiện có; phát huy tôi ưu
-tiềm năng, lợi thé của từng vùng, từng địa phương dé phát triền sản phẩm du lịch.
+### Điều 21. Nội dung quy hoạch về du lịch
 
-4. Giảm thiểu các tác động tiêu cực do phát triển du lịch đến kinh tế - xã
-hội và môi trường.
+1. Xác định vị trí, vai trò và lợi thế của du lịch trong phát triển kinh tế - xã hội của quốc gia, vùng và địa phương.
 
-5. Bảo đảm sự tham gia của cơ quan, tổ chức, cộng đồng dân cư và cá nhân
-trong quá trình lập quy hoạch; kết hợp hài hòa giữa lợi ích của Nha nước và lợi
-ích của cộng đồng, giữa lợi ích của vùng và địa phương.
+2. Phân tích, đánh giá tiềm năng, hiện trạng tài nguyên và môi trường du lịch, thị trường du lịch; khả năng thu hút đầu tư, nguồn lực phát triển du lịch.
 
+3. Xác định quan điểm, mục tiêu phát triển du lịch; dự báo các chỉ tiêu và luận chứng các phương án phát triển du lịch.
+
+<<<<<<< HEAD
 6. Bảo đảm tính khoa học, ứng dụng công nghệ hiện đại trong quá trình lập
 quy hoạch; đáp ứng tiêu chuẩn, quy chuẩn và phù hợp với yêu câu phát triên
 kinh tế - xã hội và hội nhập quốc tế của đất nước.
@@ -488,52 +557,67 @@ luận chứng các phương án phát triển du lịch.
 
 4. Định hướng tổ chức không gian du lịch, hệ thống cơ sở vật chất kỹ thuật
 du lịch.
+=======
+4. Định hướng tổ chức không gian du lịch, hệ thống cơ sở vật chất kỹ thuật du lịch.
+>>>>>>> 13e520d (clean data)
 
 5. Định hướng phát triển sản phẩm du lịch, thị trường du lịch.
 
-6, Dinh hướng đầu tư phát triển đu lịch; xác định danh mục các khu vực,
-các dự án ưu tiên dau tư, vôn đầu tư.
+6. Định hướng đầu tư phát triển du lịch; xác định danh mục các khu vực, các dự án ưu tiên đầu tư, vốn đầu tư.
 
-## Trang 10
+7. Định hướng bảo vệ tài nguyên du lịch và môi trường theo quy định của pháp luật.
 
+<<<<<<< HEAD
 7. Định hướng bảo vệ tài nguyên du lịch và môi trường theo quy định của
 pháp luật.
 8. Đề xuất chính sách, giải pháp quản lý, phát triển du lịch theo quy
 hoạch.
 Điều 22. Lập, quản lý và thực hiện quy hoạch về du lịch
+=======
+8. Đề xuất chính sách, giải pháp quản lý, phát triển du lịch theo quy hoạch.
+>>>>>>> 13e520d (clean data)
 
-1. Việc lập quy hoạch về du lịch phải tuân thủ nguyên tắc, nội dung lập
-quy hoạch về du lịch quy định tại Điều 20 và Điều 21 của Luật này và quy định
-khác của pháp luật có liên quan.
+### Điều 22. Lập, quản lý và thực hiện quy hoạch về du lịch
 
-2. Chính phủ quy định việc lập, quản lý và thực hiện quy hoạch về đu lịch.
+1. Việc lập quy hoạch về du lịch phải tuân thủ nguyên tắc, nội dung lập quy hoạch về du lịch quy định tại Điều 20 và Điều 21 của Luật này và quy định khác của pháp luật có liên quan.
 
-Chương IV
-PIEM DU LICH, KHU DU LICH
+2. Chính phủ quy định việc lập, quản lý và thực hiện quy hoạch về du lịch.
 
-Điều 23. Điều kiện công nhận điểm du lịch
+## Chương IV
+ĐIỂM DU LỊCH, KHU DU LỊCH
+
+### Điều 23. Điều kiện công nhận điểm du lịch
 
 1. Điều kiện công nhận điểm du lịch bao gồm
 
 a) Có tài nguyên du lịch, có ranh giới xác định
 
+<<<<<<< HEAD
 b) Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch
+=======
+b) Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch;
+>>>>>>> 13e520d (clean data)
 
-c) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường
-theo quy định của pháp luật.
+c) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật.
 
-2. Chính phủ quy định chỉ tiết Điều này.
+2. Chính phủ quy định chi tiết Điều này.
 
-Điều 24. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận điểm du lịch
+### Điều 24. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận điểm du lịch
 
+<<<<<<< HEAD
 1. Hồ sơ để nghị công nhận điểm du lịch bao gồm
 
 a) Đơn dé nghị công nhận điểm du lịch theo mẫu do Bộ trưởng Bộ Văn
 hóa, Thể thao và Du lịch quy định
+=======
+1. Hồ sơ đề nghị công nhận điểm du lịch bao gồm:
 
-b) Bản thuyết minh về điều kiện công nhận điểm du lịch quy định tại
-khoản 1 Điều 23 của Luật này.
+a) Đơn đề nghị công nhận điểm du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
+>>>>>>> 13e520d (clean data)
 
+b) Bản thuyết minh về điều kiện công nhận điểm du lịch quy định tại khoản 1 Điều 23 của Luật này.
+
+<<<<<<< HEAD
 2. Trình tự, thủ tục, thẩm quyền đề nghị công nhận điểm du lịch được quy
 định như sau
 
@@ -557,17 +641,38 @@ trong trường hợp điểm du lịch không còn bảo đảm điều kiện 
 1 Điều 23 của Luật này.
 
 Điều 25. Quyền và nghĩa vụ của té chức, cá nhân quản lý điểm du lịch
+=======
+2. Trình tự, thủ tục, thẩm quyền đề nghị công nhận điểm du lịch được quy định như sau:
+
+a) Tổ chức, cá nhân sở hữu, quản lý điểm du lịch nộp 01 bộ hồ sơ đến cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về du lịch (sau đây gọi chung là cơ quan chuyên môn về du lịch cấp tỉnh) nơi có điểm du lịch;
+
+b) Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, trình Ủy ban nhân dân cấp tỉnh;
+
+c) Trong thời hạn 10 ngày kể từ ngày nhận được kết quả thẩm định, Ủy ban nhân dân cấp tỉnh quyết định công nhận điểm du lịch; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+3. Ủy ban nhân dân cấp tỉnh thu hồi quyết định công nhận điểm du lịch trong trường hợp điểm du lịch không còn bảo đảm điều kiện quy định tại khoản 1 Điều 23 của Luật này.
+
+### Điều 25. Quyền và nghĩa vụ của tổ chức, cá nhân quản lý điểm du lịch
+>>>>>>> 13e520d (clean data)
 
 1. Tổ chức, cá nhân quản lý điểm du lịch có quyền sau đây
 
+<<<<<<< HEAD
 a) Đầu tư, khai thác, bảo vệ tai nguyên du lịch
+=======
+a) Đầu tư, khai thác, bảo vệ tài nguyên du lịch;
+>>>>>>> 13e520d (clean data)
 
 b) Ban hành nội quy; tổ chức kinh doanh dịch vụ phục vụ khách du lịch
 
+<<<<<<< HEAD
 c) Tổ chức dịch vụ hướng dẫn; quy định, quản lý việc sử dụng hướng dẫn
 viên du lịch trong phạm vi quản lý
+=======
+c) Tổ chức dịch vụ hướng dẫn; quy định, quản lý việc sử dụng hướng dẫn viên du lịch trong phạm vi quản lý;
+>>>>>>> 13e520d (clean data)
 
-đ) Được thu phí theo quy định của pháp luật.
+d) Được thu phí theo quy định của pháp luật.
 
 2. Tổ chức, cá nhân quản lý điểm du lịch có nghĩa vụ sau đây
 
@@ -575,32 +680,43 @@ a) Bảo đảm điều kiện quy định tại khoản 1 Điều 23 của Lu�
 
 b) Tạo điều kiện thuận lợi cho khách du lịch đến tham quan
 
+<<<<<<< HEAD
 e) Quản lý, giám sát hoạt động kinh doanh dịch vụ du lịch trong phạm vi
 quản ly
 
 d) Bao đảm an toàn cho khách du lịch, trật tự, an toàn xã hội, bảo vệ môi
 trường tại điểm du lịch
+=======
+c) Quản lý, giám sát hoạt động kinh doanh dịch vụ du lịch trong phạm vi quản lý;
 
-đ) Tổ chức tiếp nhận và giải quyết kịp thời kiến nghị của khách du lịch
-trong phạm vi quản lý.
+d) Bảo đảm an toàn cho khách du lịch, trật tự, an toàn xã hội, bảo vệ môi trường tại điểm du lịch;
+>>>>>>> 13e520d (clean data)
 
-Điều 26. Điều kiện công nhận khu du lịch
+đ) Tổ chức tiếp nhận và giải quyết kịp thời kiến nghị của khách du lịch trong phạm vi quản lý.
+
+### Điều 26. Điều kiện công nhận khu du lịch
 
 1. Điều kiện công nhận khu du lịch cấp tỉnh bao gồm
 
+<<<<<<< HEAD
 a) Có tài nguyên du lịch với ưu thé về cảnh quan thiên nhiên hoặc giá trị
 văn hóa, có ranh giới xác định
 
 b) Có kết cầu hạ tang, cơ sở vat chất kỹ thuật, dịch vụ đáp ứng nhu cầu lưu
 trú, ăn uống và các nhu câu khác của khách du lịch
+=======
+a) Có tài nguyên du lịch với ưu thế về cảnh quan thiên nhiên hoặc giá trị văn hóa, có ranh giới xác định;
+
+b) Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ đáp ứng nhu cầu lưu trú, ăn uống và các nhu cầu khác của khách du lịch;
+>>>>>>> 13e520d (clean data)
 
 c) Có kết nối với hệ thống hạ tầng giao thông, viễn thông quốc gia
 
-d) Dap ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường
-theo quy định của pháp luật.
+d) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật.
 
 2. Điều kiện công nhận khu du lịch quốc gia bao gồm
 
+<<<<<<< HEAD
 a) Có tài nguyên du lịch đa dạng, đặc biệt hấp dẫn với wu thé về cảnh quan
 thiên nhiên hoặc giá trị văn hóa, có ranh giới xác định;
 
@@ -609,11 +725,19 @@ gia được cơ quan nhà nước có thâm quyên phê duyệt
 
 c) Có kết cau hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ chất lượng cao, đồng
 bộ, đáp ứng nhu cầu lưu trú, ăn uống và các nhu cầu khác của khách du lịch
+=======
+a) Có tài nguyên du lịch đa dạng, đặc biệt hấp dẫn với ưu thế về cảnh quan thiên nhiên hoặc giá trị văn hóa, có ranh giới xác định;
+
+b) Có trong danh mục các khu vực tiềm năng phát triển khu du lịch quốc gia được cơ quan nhà nước có thẩm quyền phê duyệt;
+
+c) Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ chất lượng cao, đồng bộ, đáp ứng nhu cầu lưu trú, ăn uống và các nhu cầu khác của khách du lịch;
+>>>>>>> 13e520d (clean data)
 
 d) Các điều kiện quy định tại điểm c và điểm d khoản 1 Điều này.
 
-## Trang 12
+3. Chính phủ quy định chi tiết Điều này.
 
+<<<<<<< HEAD
 3. Chính phủ quy định chỉ tiết Điều này.
 
 Điều 27. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận khu du lịch
@@ -623,23 +747,37 @@ cấp tinh
 
 a) Đơn đề nghị công nhận khu du lịch cấp tỉnh theo mẫu do Bộ trưởng Bộ
 Văn hóa, Thể thao và Du lịch quy định
+=======
+### Điều 27. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận khu du lịch cấp tỉnh
 
-b) Bản thuyết minh về điều kiện công nhận khu du lịch cấp tỉnh quy định
-tại khoản 1 Điều 26 của Luật này.
+1. Hồ sơ đề nghị công nhận khu du lịch cấp tỉnh bao gồm:
 
+a) Đơn đề nghị công nhận khu du lịch cấp tỉnh theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
+
+b) Bản thuyết minh về điều kiện công nhận khu du lịch cấp tỉnh quy định tại khoản 1 Điều 26 của Luật này.
+
+2. Trình tự, thủ tục, thẩm quyền công nhận khu du lịch cấp tỉnh được quy định như sau:
+>>>>>>> 13e520d (clean data)
+
+a) Ủy ban nhân dân cấp huyện hoặc tổ chức quản lý khu du lịch nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh nơi có khu du lịch;
+
+<<<<<<< HEAD
 2. Trình tự, thủ tục, thẩm quyền công nhận khu du lịch cấp tỉnh được quy
 định như sau
 
 a) Ủy ban nhân dân cấp huyện hoặc tổ chức quản lý khu du lịch nộp 01 bộ
 hd sơ đến cơ quan chuyên môn về du lịch cap tỉnh nơi có khu du lịch
+=======
+b) Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, trình Ủy ban nhân dân cấp tỉnh;
 
-b) Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan
-chuyên môn về du lịch cấp tỉnh thâm định, trình Ủy ban nhân dân cấp tỉnh,
+c) Trong thời hạn 15 ngày kể từ ngày nhận được kết quả thẩm định, Ủy ban nhân dân cấp tỉnh quyết định công nhận khu du lịch cấp tỉnh; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+>>>>>>> 13e520d (clean data)
 
-c) Trong thời hạn 15 ngày kể từ ngày nhận được kết quả thẩm định, Ủy ban
-nhân dân cập tỉnh quyết định công nhận khu du lịch cấp tỉnh; trường hợp từ
-chối, phải trả lời bằng văn bản và nêu rõ lý do.
+3. Đối với khu du lịch nằm trên địa bàn từ 02 đơn vị hành chính cấp huyện trở lên, cơ quan chuyên môn về du lịch cấp tỉnh lập hồ sơ đề nghị công nhận khu du lịch cấp tỉnh. Ủy ban nhân dân cấp tỉnh thành lập hội đồng thẩm định, quyết định công nhận khu du lịch cấp tỉnh.
 
+4. Ủy ban nhân dân cấp tỉnh thu hồi quyết định công nhận khu du lịch cấp tỉnh trong trường hợp khu du lịch không còn bảo đảm điều kiện quy định tại khoản 1 Điều 26 của Luật này.
+
+<<<<<<< HEAD
 3. Đối với khu du lịch nằm trên địa bàn từ 02 đơn vị hành chính cấp huyện
 trở lên, cơ quan chuyên môn về du lịch cap tỉnh lập hô sơ dé nghị công nhận khu
 du lịch cấp tỉnh. Ủy ban nhân dân cap tỉnh thành lập hội đồng thâm định, quyêt
@@ -662,17 +800,32 @@ tại khoản 2 Điêu 26 của Luật này.
 
 2. Trinh tự, thủ tục, thẩm quyền công nhận khu du lịch quốc gia được quy
 định như sau
+=======
+### Điều 28. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận khu du lịch quốc gia
+
+1. Hồ sơ đề nghị công nhận khu du lịch quốc gia bao gồm:
+
+a) Đơn đề nghị công nhận khu du lịch quốc gia theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
+
+b) Bản thuyết minh về điều kiện công nhận khu du lịch quốc gia quy định tại khoản 2 Điều 26 của Luật này.
+
+2. Trình tự, thủ tục, thẩm quyền công nhận khu du lịch quốc gia được quy định như sau:
+>>>>>>> 13e520d (clean data)
 
 a) Ủy ban nhân dân cấp tỉnh nộp 01 bộ hồ sơ đến Tổng cục Du lịch
 
+<<<<<<< HEAD
 b) Trong thời hạn 45 ngày kế từ ngày nhận được hỗ sơ hợp lệ, Tổng cục Du
 lịch thẩm định, trình Bộ trưởng Bộ Văn héa, Thể thao và Du lịch
+=======
+b) Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, Tổng cục Du lịch thẩm định, trình Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;
+>>>>>>> 13e520d (clean data)
 
-e) Trong thời hạn 15 ngày kế từ ngày nhận được kết quả thâm định, Bộ
-trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định công nhận và phối hợp với
+c) Trong thời hạn 15 ngày kể từ ngày nhận được kết quả thẩm định, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định công nhận và phối hợp với Ủy ban nhân dân cấp tỉnh tổ chức công bố khu du lịch quốc gia; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
 
-## Trang 13
+3. Đối với khu du lịch nằm trên địa bàn từ 02 đơn vị hành chính cấp tỉnh trở lên, Bộ Văn hóa, Thể thao và Du lịch lập hồ sơ đề nghị công nhận khu du lịch quốc gia trình Thủ tướng Chính phủ công nhận.
 
+<<<<<<< HEAD
 Ủy ban nhân dân cấp tỉnh tổ chức công bố khu du lịch quốc gia; trường hợp từ
 chối, phải trả lời bằng văn bản và nêu rõ lý do.
 
@@ -685,16 +838,26 @@ công nhận trong trường hợp khu du lịch không còn bảo đảm điề
 tại khoản 2 Điều 26 của Luật này.
 
 Điều 29. Quản lý khu du lịch
+=======
+4. Người có thẩm quyền công nhận khu du lịch quốc gia thu hồi quyết định công nhận trong trường hợp khu du lịch không còn bảo đảm điều kiện quy định tại khoản 2 Điều 26 của Luật này.
+
+### Điều 29. Quản lý khu du lịch
+>>>>>>> 13e520d (clean data)
 
 1. Nội dung quản lý khu du lịch bao gồm
 
 a) Quản lý công tác quy hoạch và đầu tư phát triển
 
+<<<<<<< HEAD
 b) Quan lý hoạt động kinh doanh dịch vụ đu lịch, hoạt động của hướng dẫn
 viên du lịch
+=======
+b) Quản lý hoạt động kinh doanh dịch vụ du lịch, hoạt động của hướng dẫn viên du lịch;
+>>>>>>> 13e520d (clean data)
 
 c) Quản lý việc đầu tư, khai thác và bảo vệ tài nguyên du lịch
 
+<<<<<<< HEAD
 d) Bảo đảm an toàn cho khách du lịch; bảo đảm trật tự, an toàn xã hội, bảo
 vệ môi trường trong khu du lịch
 
@@ -705,31 +868,44 @@ e) Các nội dung khác theo quy định của pháp luật.
 
 2. Chính phủ quy định mô hình quản lý khu du lịch quốc gia; Ủy ban nhân
 dân cấp tỉnh quy định mô hình quản lý khu du lịch cap tỉnh.
+=======
+d) Bảo đảm an toàn cho khách du lịch; bảo đảm trật tự, an toàn xã hội, bảo vệ môi trường trong khu du lịch;
 
-Chuong V
-KINH DOANH DU LICH
-Mục 1
-DỊCH VỤ LỮ HÀNH
+đ) Xây dựng hệ thống biển báo, biển chỉ dẫn, điểm cung cấp thông tin phục vụ khách du lịch;
 
-Điều 30. Phạm vi kinh doanh dịch vụ lữ hành
+e) Các nội dung khác theo quy định của pháp luật.
+
+2. Chính phủ quy định mô hình quản lý khu du lịch quốc gia; Ủy ban nhân dân cấp tỉnh quy định mô hình quản lý khu du lịch cấp tỉnh.
+>>>>>>> 13e520d (clean data)
+
+## Chương V
+KINH DOANH DU LỊCH
+
+### Mục 1. DỊCH VỤ LỮ HÀNH
+
+### Điều 30. Phạm vi kinh doanh dịch vụ lữ hành
 
 1. Kinh doanh dịch vụ lữ hành nội địa phục vụ khách du lịch nội địa.
 
-2. Kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến
-Việt Nam và khách du lịch ra nước ngoài.
+2. Kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài.
 
+<<<<<<< HEAD
 3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế được kinh doanh dịch
 vụ lữ bành quốc tế và dịch vụ lữ hành nội địa, trừ trường hợp quy định tại khoản
 4 Điều này.
+=======
+3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế được kinh doanh dịch vụ lữ hành quốc tế và dịch vụ lữ hành nội địa, trừ trường hợp quy định tại khoản 4 Điều này.
+>>>>>>> 13e520d (clean data)
 
-4. Doanh nghiệp có vốn đầu tư nước ngoài chỉ được kinh doanh dịch vụ lữ
-hành quốc tế phục vụ khách dụ lịch quốc tế đến Việt Nam, trừ trường hợp điêu
-ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy
-định khác.
+4. Doanh nghiệp có vốn đầu tư nước ngoài chỉ được kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.
 
+<<<<<<< HEAD
 ## Trang 14
 
 Điều 31. Điều kiện kinh doanh dịch vụ lữ hành
+=======
+### Điều 31. Điều kiện kinh doanh dịch vụ lữ hành
+>>>>>>> 13e520d (clean data)
 
 1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm
 
@@ -737,32 +913,34 @@ a) Là doanh nghiệp được thành lập theo quy định của pháp luật 
 
 b) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng
 
-c) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp
-trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên
-ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa. Ề
+c) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.
 
+<<<<<<< HEAD
 2. Điều kiện kinh doanh dịch vụ lữ bành quốc tế bao gồm
+=======
+2. Điều kiện kinh doanh dịch vụ lữ hành quốc tế bao gồm:
+>>>>>>> 13e520d (clean data)
 
 a) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp
 
 b) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng
 
-c) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở
-lên chuyên ngành về lữ hành; trường hợp tôt nghiệp cao đáng trở lên chuyên
-ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quôc tê.
+c) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.
 
+<<<<<<< HEAD
 3. Doanh nghiệp đáp ứng các điều kiện kinh doanh quy định tại khoản 1
 Dieu nay duoc cap Giay phép kinh doanh dich vu lữ hành nội dia; đáp ứng các
 điều kiện kinh doanh quy dịnh tại khoản 2 Điều này được cấp Giấy phép kinh
 doanh dịch vụ lữ hành quôc tê.
+=======
+3. Doanh nghiệp đáp ứng các điều kiện kinh doanh quy định tại khoản 1 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa; đáp ứng các điều kiện kinh doanh quy định tại khoản 2 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế.
+>>>>>>> 13e520d (clean data)
 
-Phí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy
-phép kinh doanh dịch vụ lữ hành nội địa được thực hiện theo quy định của pháp
-luật về phí và lệ phí.
+Phí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy phép kinh doanh dịch vụ lữ hành nội địa được thực hiện theo quy định của pháp luật về phí và lệ phí.
 
-4. Chính phủ quy định chi tiết về việc ký quỹ kinh doanh dịch vụ lữ hành
-quy định tại điểm b khoản 1 và điểm b khoản 2 Điêu này.
+4. Chính phủ quy định chi tiết về việc ký quỹ kinh doanh dịch vụ lữ hành quy định tại điểm b khoản 1 và điểm b khoản 2 Điều này.
 
+<<<<<<< HEAD
 5. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về người
 phụ trách kinh doanh dịch vụ lữ hành; nội dung đào tạo, bôi dưỡng, tổ chức thi,
 cập chứng chỉ nghiệp vụ điều hành du lịch nội địa và nghiệp vụ điêu hành du
@@ -776,17 +954,31 @@ gồm
 
 a) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa theo mẫu
 do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định
+=======
+5. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về người phụ trách kinh doanh dịch vụ lữ hành; nội dung đào tạo, bồi dưỡng, tổ chức thi, cấp chứng chỉ nghiệp vụ điều hành du lịch nội địa và nghiệp vụ điều hành du lịch quốc tế.
+
+### Điều 32. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa
+
+1. Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa bao gồm:
+
+a) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
+>>>>>>> 13e520d (clean data)
 
 b) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp
 
 c) Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành
 
+<<<<<<< HEAD
 đ) Bản sao có chứng thực quyết định bổ nhiệm hoặc hop đồng lao động
 giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh
 dịch vụ lữ hành
+=======
+d) Bản sao có chứng thực quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành;
+>>>>>>> 13e520d (clean data)
 
-## Trang 15
+đ) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh doanh dịch vụ lữ hành quy định tại điểm c khoản 1 Điều 31 của Luật này.
 
+<<<<<<< HEAD
 8) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh
 doanh dịch vụ lữ hành quy định tại điểm c khoản 1 Điều 31 của Luật này.
 
@@ -796,35 +988,44 @@ nội địa được quy định như sau
 a) Doanh nghiệp đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa
 nộp 01 bộ hồ sơ đến cơ quan chuyên môn vê du lịch cấp tỉnh nơi doanh nghiệp
 có trụ sở
+=======
+2. Trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa được quy định như sau:
 
-b) Trong thời hạn 10 ngày kê từ ngày nhận được hồ sơ hợp lệ, cơ quan
-chuyên môn về du lịch cap tỉnh thâm định và câp Giấy phép kinh doanh dịch vụ
-lữ hành nội địa cho doanh nghiệp; trường hợp từ chôi, phải thông báo bằng văn
-bản và nêu rõ lý do.
+a) Doanh nghiệp đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở;
 
-3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu Giấy phép
-kinh doanh dịch vụ lữ hành nội địa.
+b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh thẩm định và cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
 
-Điều 33. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh
-doanh dịch vụ lữ hành quốc tế
+3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu Giấy phép kinh doanh dịch vụ lữ hành nội địa.
+>>>>>>> 13e520d (clean data)
+
+### Điều 33. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế
 
 1. Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế bao gồm
 
+<<<<<<< HEAD
 a) Don đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế theo mẫu
 do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định
 
 b) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc
 Giấy chứng nhận đăng ký dau tu do cơ quan nhà nước có thâm quyên cap
+=======
+a) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
+
+b) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư do cơ quan nhà nước có thẩm quyền cấp;
+>>>>>>> 13e520d (clean data)
 
 c) Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành
 
+<<<<<<< HEAD
 d) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh
 doanh dịch vụ lữ hanh quy định tại điểm c khoản 2 Điêu 31 của Luat này
+=======
+d) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh doanh dịch vụ lữ hành quy định tại điểm c khoản 2 Điều 31 của Luật này;
+>>>>>>> 13e520d (clean data)
 
-đ) Ban sao có chứng thực quyết định bé nhiệm hoặc hợp đồng lao động,
-giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh
-dịch vụ lữ hành.
+đ) Bản sao có chứng thực quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành.
 
+<<<<<<< HEAD
 2, Trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành
 quốc tế được quy định như sau
 
@@ -835,17 +1036,28 @@ b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp l�
 lịch thâm định, cấp Giấy phép kinh doanh dịch vụ lữ hành quôc tê cho doanh
 nghiệp và thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp
 có trụ sở; trường hợp từ chỗi, phải thông báo bằng văn bản và nêu rõ lý do.
+=======
+2. Trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế được quy định như sau:
 
-3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu Giấy phép
-kinh doanh dịch vụ lữ hành quôc tê,
+a) Doanh nghiệp đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế nộp 01 bộ hồ sơ đến Tổng cục Du lịch;
 
-Điều 34. Cấp lại giấy phép kinh doanh dịch vụ lữ hành
+b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, Tổng cục Du lịch thẩm định, cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế cho doanh nghiệp và thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
+>>>>>>> 13e520d (clean data)
 
+3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu Giấy phép kinh doanh dịch vụ lữ hành quốc tế.
+
+### Điều 34. Cấp lại giấy phép kinh doanh dịch vụ lữ hành
+
+<<<<<<< HEAD
 1. Doanh nghiệp đề nghị cấp lại giấy phép kinh doanh dịch vụ lữ hành
 trong trường hợp giấy phép kinh doanh dịch vụ lữ hành bị mat hoặc bị hư hỏng.
+=======
+1. Doanh nghiệp đề nghị cấp lại giấy phép kinh doanh dịch vụ lữ hành trong trường hợp giấy phép kinh doanh dịch vụ lữ hành bị mất hoặc bị hư hỏng.
+>>>>>>> 13e520d (clean data)
 
-## Trang 16
+2. Trình tự, thủ tục cấp lại giấy phép kinh doanh dịch vụ lữ hành được quy định như sau:
 
+<<<<<<< HEAD
 2. Trình tự, thủ tục cấp lại giấy phép kinh doanh dịch vụ lữ hành được
 quy định như sau
 
@@ -857,13 +1069,21 @@ b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận. được đơ
 doanh nghiệp, cơ quan nhà nước có thẩm quyền cấp giấy phép có trách nhiệm
 cấp lại giấy phép kinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ
 chối, phải thông báo bảng văn bản và nêu rõ lý do.
+=======
+a) Doanh nghiệp gửi đơn đề nghị cấp lại giấy phép kinh doanh dịch vụ lữ hành theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định đến cơ quan nhà nước có thẩm quyền cấp giấy phép;
 
-Tổng cục Du lịch thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh
-nơi doanh nghiệp có trụ sở khi cap lại Giấy phép kinh doanh dịch vụ lữ hành
-quôc té.
+b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn đề nghị của doanh nghiệp, cơ quan nhà nước có thẩm quyền cấp giấy phép có trách nhiệm cấp lại giấy phép kinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
 
-Điều 35. Cấp đổi giấy phép kinh doanh dịch vụ lữ hành
+Tổng cục Du lịch thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở khi cấp lại Giấy phép kinh doanh dịch vụ lữ hành quốc tế.
 
+### Điều 35. Cấp đổi giấy phép kinh doanh dịch vụ lữ hành
+>>>>>>> 13e520d (clean data)
+
+1. Doanh nghiệp đề nghị cấp đổi giấy phép kinh doanh dịch vụ lữ hành trong các trường hợp sau đây:
+
+a) Thay đổi Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư;
+
+<<<<<<< HEAD
 1. Doanh nghiệp đề nghị cấp đổi giấy phép kinh doanh dịch vụ lữ hành
 trong các trường hợp sau đây
 
@@ -876,9 +1096,17 @@ b) Thay đổi phạm vi kinh doanh dịch vụ lữ hành quốc tế.
 
 a) Đơn đề nghị cấp đổi giấy phép kinh doanh dịch vụ lữ hành theo mẫu do
 Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định
+=======
+b) Thay đổi phạm vi kinh doanh dịch vụ lữ hành quốc tế.
+
+2. Hồ sơ đề nghị cấp đổi giấy phép kinh doanh dịch vụ lữ hành bao gồm:
+
+a) Đơn đề nghị cấp đổi giấy phép kinh doanh dịch vụ lữ hành theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
+>>>>>>> 13e520d (clean data)
 
 b) Giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp
 
+<<<<<<< HEAD
 c) Bản sao có chúng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc
 Giấy chứng nhận đăng ký đầu tư trong trường hợp quy định tại điểm a khoản
 Diéu này; giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành phù hợp với
@@ -894,13 +1122,21 @@ b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ 
 quan nhà nước có thâm quyên cap giấy phép có trách nhiệm cấp đôi giấy phép
 kinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ chối, phải thông
 báo băng văn bản và nêu rõ lý do.
+=======
+c) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư trong trường hợp quy định tại điểm a khoản 1 Điều này; giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành phù hợp với phạm vi kinh doanh trong trường hợp quy định tại điểm b khoản 1 Điều này.
 
-Tổng cục Du lịch thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh
-nơi doanh nghiệp có trụ sở khi cấp đổi Giấy phép kinh doanh dịch vụ lữ hành
-quốc tê.
+3. Trình tự, thủ tục cấp đổi giấy phép kinh doanh dịch vụ lữ hành được quy định như sau:
 
-## Trang 17
+a) Doanh nghiệp nộp 01 bộ hồ sơ đến cơ quan nhà nước có thẩm quyền đã cấp giấy phép;
 
+b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền cấp giấy phép có trách nhiệm cấp đổi giấy phép kinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
+>>>>>>> 13e520d (clean data)
+
+Tổng cục Du lịch thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở khi cấp đổi Giấy phép kinh doanh dịch vụ lữ hành quốc tế.
+
+### Điều 36. Thu hồi giấy phép kinh doanh dịch vụ lữ hành
+
+<<<<<<< HEAD
 Điều 36. Thu hồi giấy phép kinh doanh dịch vụ Jit hành
 
 1. Doanh nghiệp bị thu hồi giấy phép kinh doanh dịch vụ lữ hành trong các
@@ -925,10 +1161,31 @@ hành của doanh nghiệp đề hoạt động kinh doanh
 g) Không thực hiện đẩy đủ nghĩa vụ quy định tại điểm i khoản 1 Điều 37
 của Luật này, gây thiệt hại nghiêm trọng đến tính mạng, sức khỏe, tài sản của
 khách du lịch
+=======
+1. Doanh nghiệp bị thu hồi giấy phép kinh doanh dịch vụ lữ hành trong các trường hợp sau đây:
 
-h) Giá mạo hé sơ đề nghị cấp, cấp đổi, cấp lại giấy phép kinh doanh dịch
-vụ lữ hành.
+a) Chấm dứt hoạt động kinh doanh dịch vụ lữ hành, giải thể hoặc phá sản;
 
+b) Không đáp ứng một trong các điều kiện kinh doanh dịch vụ lữ hành quy định tại khoản 1 hoặc khoản 2 Điều 31 của Luật này;
+
+c) Không đổi giấy phép kinh doanh dịch vụ lữ hành theo quy định tại khoản 1 Điều 35 của Luật này;
+
+d) Làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh;
+
+đ) Lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài hoặc từ nước ngoài vào Việt Nam trái pháp luật;
+
+e) Cho tổ chức, cá nhân khác sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp để hoạt động kinh doanh;
+
+g) Không thực hiện đầy đủ nghĩa vụ quy định tại điểm i khoản 1 Điều 37 của Luật này, gây thiệt hại nghiêm trọng đến tính mạng, sức khỏe, tài sản của khách du lịch;
+
+h) Giả mạo hồ sơ đề nghị cấp, cấp đổi, cấp lại giấy phép kinh doanh dịch vụ lữ hành.
+
+2. Doanh nghiệp đã bị thu hồi giấy phép kinh doanh dịch vụ lữ hành theo quy định tại điểm b và điểm c khoản 1 Điều này chỉ được đề nghị cấp giấy phép kinh doanh dịch vụ lữ hành sau 06 tháng kể từ ngày quyết định thu hồi giấy phép có hiệu lực. Doanh nghiệp đã bị thu hồi giấy phép kinh doanh dịch vụ lữ hành theo quy định tại các điểm d, đ, e, g và h khoản 1 Điều này chỉ được đề nghị cấp giấy phép kinh doanh dịch vụ lữ hành sau 12 tháng kể từ ngày quyết định thu hồi giấy phép có hiệu lực.
+>>>>>>> 13e520d (clean data)
+
+3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định trình tự, thủ tục thu hồi giấy phép kinh doanh dịch vụ lữ hành.
+
+<<<<<<< HEAD
 2. Doanh nghiệp đã bị thu hồi giấy phép kinh doanh dịch vụ lữ hành theo
 quy định tại điểm b và điểm c khoản 1 Điều này chỉ được de nghị câp giấy phép
 kinh doanh dịch vụ lữ hành sau 06 tháng kê từ ngày quyết định thu hội gidy
@@ -939,9 +1196,15 @@ nghị cấp giấy phép kính doanh dịch vụ lữ hành sau 12 tháng kể 
 
 3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định trình tự, thủ tục thu
 hồi giấy phép kinh doanh dịch vụ lữ hành.
+=======
+### Điều 37. Quyền và nghĩa vụ của doanh nghiệp kinh doanh dịch vụ lữ hành
 
-Điều 37. Quyền và nghĩa vụ của doanh nghiệp kinh doanh dịch vụ lữ hành
+1. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa có quyền và nghĩa vụ sau đây:
+>>>>>>> 13e520d (clean data)
 
+a) Xây dựng, quảng cáo, bán và tổ chức thực hiện các dịch vụ du lịch, chương trình du lịch cho khách du lịch theo phạm vi kinh doanh quy định trong giấy phép;
+
+<<<<<<< HEAD
 1. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa có quyền và nghĩa vụ
 sau đây
 
@@ -953,9 +1216,17 @@ b) Bảo đảm duy trì các điều kiện kinh doanh dịch vụ lữ hành t
 tại khoản 1 Điều 31 của Luật này; công khai tên doanh nghiệp, số giấy phép kinh
 doanh dịch vụ lữ hành trên biên hiệu tại trụ sở, chi nhánh, văn phòng giao dịch,
 trong hợp đồng lữ hành, trên ấn phẩm quảng cáo và trong giao địch điện tử
+=======
+b) Bảo đảm duy trì các điều kiện kinh doanh dịch vụ lữ hành theo quy định tại khoản 1 Điều 31 của Luật này; công khai tên doanh nghiệp, số giấy phép kinh doanh dịch vụ lữ hành trên biển hiệu tại trụ sở, chi nhánh, văn phòng giao dịch, trong hợp đồng lữ hành, trên ấn phẩm quảng cáo và trong giao dịch điện tử;
 
-## Trang 18
+c) Thông báo về việc thay đổi người phụ trách kinh doanh dịch vụ lữ hành, gửi hồ sơ về người phụ trách kinh doanh dịch vụ lữ hành thay thế cho cơ quan nhà nước có thẩm quyền cấp giấy phép trong thời hạn 15 ngày kể từ khi thay đổi;
 
+d) Cung cấp thông tin về chương trình, dịch vụ, điểm đến du lịch cho khách du lịch;
+>>>>>>> 13e520d (clean data)
+
+đ) Mua bảo hiểm cho khách du lịch trong thời gian thực hiện chương trình du lịch, trừ trường hợp khách du lịch đã có bảo hiểm cho toàn bộ chương trình du lịch;
+
+<<<<<<< HEAD
 c) Thông báo về việc thay đổi người phụ trách kinh doanh dịch vụ lữ hành,
 gửi hồ sơ về người phụ trách kinh doanh dịch vụ lữ hanh thay thê cho cơ quan
 nhà nước có thẩm quyền cấp giấy phép trong thời hạn 15 ngày kê từ khi thay đổi
@@ -1005,76 +1276,120 @@ ra nước ngoài có quyên và nghĩa vụ sau đây
 
 a) Quyén và nghĩa vụ quy định tại các điểm a, c, d, đ, g, h, i và k khoản 1,
 điểm b và điểm c khoản 2 Điều này
+=======
+e) Sử dụng hướng dẫn viên du lịch để hướng dẫn khách du lịch theo hợp đồng lữ hành; chịu trách nhiệm về hoạt động của hướng dẫn viên du lịch trong thời gian hướng dẫn khách du lịch theo hợp đồng;
 
-b) Sử dụng hướng dẫn viên du lịch quốc tế để đưa khách du lịch ra nước
-ngoài theo hợp đồng lữ hành; chịu trách nhiệm về hoạt động của hướng dẫn viên
-du lịch trong thời gian đưa khách du lịch ra nước ngoài.
+g) Chấp hành, phổ biến, hướng dẫn khách du lịch tuân thủ pháp luật, quy định của nơi đến du lịch; ứng xử văn minh, tôn trọng bản sắc văn hóa, phong tục, tập quán của Việt Nam và nơi đến du lịch; phối hợp với cơ quan nhà nước có thẩm quyền xử lý kịp thời các hành vi vi phạm pháp luật của khách du lịch trong thời gian tham gia chương trình du lịch;
 
-## Trang 19
+h) Thực hiện chế độ báo cáo, thống kê, kế toán, lưu giữ hồ sơ theo quy định của pháp luật;
 
+i) Áp dụng biện pháp bảo đảm an toàn tính mạng, sức khỏe, tài sản của khách du lịch; kịp thời thông báo cho cơ quan nhà nước có thẩm quyền về tai nạn, rủi ro xảy ra với khách du lịch và có biện pháp khắc phục hậu quả;
+
+k) Quản lý khách du lịch theo chương trình du lịch đã thỏa thuận với khách du lịch.
+
+2. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam có quyền và nghĩa vụ sau đây:
+
+a) Quyền và nghĩa vụ quy định tại các điểm a, c, d, đ, e, g, h, i và k khoản 1 Điều này;
+
+b) Bảo đảm duy trì điều kiện kinh doanh dịch vụ lữ hành theo quy định tại khoản 2 Điều 31 của Luật này; công khai tên doanh nghiệp, số giấy phép kinh doanh dịch vụ lữ hành trên biển hiệu tại trụ sở, chi nhánh, văn phòng giao dịch, trong hợp đồng lữ hành, trên ấn phẩm quảng cáo và trong giao dịch điện tử;
+
+c) Hỗ trợ khách du lịch làm thủ tục nhập cảnh, xuất cảnh, quá cảnh, hải quan.
+
+3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch ra nước ngoài có quyền và nghĩa vụ sau đây:
+
+a) Quyền và nghĩa vụ quy định tại các điểm a, c, d, đ, g, h, i và k khoản 1, điểm b và điểm c khoản 2 Điều này;
+>>>>>>> 13e520d (clean data)
+
+b) Sử dụng hướng dẫn viên du lịch quốc tế để đưa khách du lịch ra nước ngoài theo hợp đồng lữ hành; chịu trách nhiệm về hoạt động của hướng dẫn viên du lịch trong thời gian đưa khách du lịch ra nước ngoài.
+
+### Điều 38. Doanh nghiệp có vốn đầu tư nước ngoài kinh doanh dịch vụ lữ hành
+
+<<<<<<< HEAD
 Điều 38. Doanh nghiệp có vốn đầu tư nước ngoài kinh doanh dịch vụ
 lữ hành
+=======
+1. Nhà đầu tư nước ngoài được góp vốn với đối tác Việt Nam để thành lập doanh nghiệp kinh doanh dịch vụ lữ hành theo pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 
-1. Nhà đầu tư nước ngoài được góp vốn với đối tác Việt Nam để thành lập
-doanh nghiệp kinh doanh dịch vụ lữ hành theo pháp luật Việt Nam và điều ước
-quốc tê ma nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+2. Điều kiện, hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, cấp đổi, thu hồi giấy phép kinh doanh dịch vụ lữ hành đối với doanh nghiệp có vốn đầu tư nước ngoài thực hiện theo quy định tại các điều 31,33,34,35 và 36 của Luật này.
+>>>>>>> 13e520d (clean data)
 
+3. Doanh nghiệp có vốn đầu tư nước ngoài kinh doanh dịch vụ lữ hành có các quyền và nghĩa vụ quy định tại khoản 2 Điều 37 của Luật này.
+
+<<<<<<< HEAD
 2. Điều kiện, hỗ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, cấp đối, thu hồi
 giấy phép kinh doanh dịch vụ lữ hành đối với doanh nghiệp có vốn đầu tư nước
 ngoài thực hiện theo quy định tại các điêu 31, 33, 34, 35 và 36 của Luật này.
+=======
+### Điều 39. Hợp đồng lữ hành
+>>>>>>> 13e520d (clean data)
 
-Ậ: Doanh nghiệp có vốn đầu tư nước ngoài kinh doanh dịch vụ lữ hành có
-các quyền và nghĩa vụ quy định tại khoản 2 Dieu 37 của Luật này.
+1. Hợp đồng lữ hành là sự thỏa thuận việc thực hiện chương trình du lịch giữa doanh nghiệp kinh doanh dịch vụ lữ hành với doanh nghiệp, khách du lịch hoặc đại diện của khách du lịch.
 
-Điều 39. Hợp đồng lữ hành
+2. Hợp đồng lữ hành phải được lập thành văn bản.
 
-1. Hợp đồng lữ hành là sự thỏa thuận việc thực hiện chương trình du lịch
-giữa doanh nghiệp kinh doanh dịch vụ lữ hành với doanh nghiệp, khách du lịch
-hoặc đại diện của khách du lịch.
+3. Hợp đồng lữ hành phải có các nội dung sau đây:
 
+<<<<<<< HEAD
 2. Hợp dồng lữ hành phải được lập thành văn bản.
 
 3. Hợp đồng lữ hành phải có các nội dung sau dây
 
 a) Mô tả rõ ràng số lượng, chất lượng, giá dịch vụ, thời gian, cách thức
 cung cấp dịch vụ trong chương trình du lịch
+=======
+a) Mô tả rõ ràng số lượng, chất lượng, giá dịch vụ, thời gian, cách thức cung cấp dịch vụ trong chương trình du lịch;
+>>>>>>> 13e520d (clean data)
 
 b) Giá trị hợp đồng và phương thức thanh toán
 
 c) Điều khoản loại trừ trách nhiệm trong trường hợp bất khả kháng
 
+<<<<<<< HEAD
 d) Diều kiện và trách nhiệm tài chính liên quan đến việc thay đổi, bd sung,
 hủy bỏ hợp đồng
+=======
+d) Điều kiện và trách nhiệm tài chính liên quan đến việc thay đổi, bổ sung, hủy bỏ hợp đồng;
+>>>>>>> 13e520d (clean data)
 
 đ) Điều khoản về bảo hiểm cho khách du lịch.
 
-Điều 40. Kinh doanh đại lý lữ hành
+### Điều 40. Kinh doanh đại lý lữ hành
 
-1. Kinh doanh đại lý lữ hành là việc tổ chức, cá nhân nhận bán chương
-trình du lịch của doanh nghiệp kinh doanh dịch vụ lữ hành cho khách du lịch đê
-hưởng hoa hông.
+1. Kinh doanh đại lý lữ hành là việc tổ chức, cá nhân nhận bán chương trình du lịch của doanh nghiệp kinh doanh dịch vụ lữ hành cho khách du lịch để hưởng hoa hồng.
 
+<<<<<<< HEAD
 2. Tổ chức, cá nhân kinh doanh đại lý lữ hành phải đăng ký kinh doanh tại cơ
 quan nhà nước có thẳm quyền và có hợp dong đại lý với doanh nghiệp kinh doanh
 dịch vụ lữ hành.
+=======
+2. Tổ chức, cá nhân kinh doanh đại lý lữ hành phải đăng ký kinh doanh tại cơ quan nhà nước có thẩm quyền và có hợp đồng đại lý với doanh nghiệp kinh doanh dịch vụ lữ hành.
+>>>>>>> 13e520d (clean data)
 
-3. Trường hợp khách du lịch mua chương trình du lịch thông qua đại lý lữ
-hành thì hợp đồng lữ hành được giao kết giữa khách du lịch và doanh nghiệp
-kinh doanh dịch vụ lữ hành giao đại lý; trong hợp đông phải ghi tên, địa chỉ của
-đại lý lữ hành.
+3. Trường hợp khách du lịch mua chương trình du lịch thông qua đại lý lữ hành thì hợp đồng lữ hành được giao kết giữa khách du lịch và doanh nghiệp kinh doanh dịch vụ lữ hành giao đại lý; trong hợp đồng phải ghi tên, địa chỉ của đại lý lữ hành.
 
-Điều 41. Hợp đồng đại lý lữ hành
+### Điều 41. Hợp đồng đại lý lữ hành
 
+<<<<<<< HEAD
 1. Hợp đồng đại lý lữ hành phải được lập thành văn bản giữa bên giao đại
 lý là doanh nghiệp kinh doanh dịch vụ lữ hành và bên nhận đại lý là tổ chức, cá
 nhân kinh doanh đại lý lữ hành.
+=======
+1. Hợp đồng đại lý lữ hành phải được lập thành văn bản giữa bên giao đại lý là doanh nghiệp kinh doanh dịch vụ lữ hành và bên nhận đại lý là tổ chức, cá nhân kinh doanh đại lý lữ hành.
+>>>>>>> 13e520d (clean data)
 
-## Trang 20
+2. Hợp đồng đại lý lữ hành phải có các nội dung sau đây:
 
+<<<<<<< HEAD
 2. Hop đồng dai ly lữ hành phải có các nội dung sau đây
+=======
+a) Tên, địa chỉ của bên giao đại lý và bên nhận đại lý;
 
-a) Tên, địa chỉ của bên giao đại lý và bên nhận đại ly; -
+b) Chương trình du lịch, giá bán chương trình du lịch được giao cho đại lý, mức hoa hồng đại lý, thời điểm thanh toán;
+>>>>>>> 13e520d (clean data)
 
+c) Quyền và trách nhiệm của các bên;
+
+<<<<<<< HEAD
 b) Chương trình du lịch, giá bán chương trình du lịch được giao cho đại ly,
 mức hoa hồng đại lý, thời diém thanh toán
 
@@ -1092,40 +1407,54 @@ chịu trách nhiệm với khách du lịch về chương trình du lịch giao
 
 3. Hướng dẫn, cung cấp cho bên nhận đại lý lữ hành thông tin liên quan
 đến chương trình du lịch.
+=======
+d) Thời hạn hiệu lực của hợp đồng đại lý.
 
-Điều 43. Trách nhiệm của đại lý lữ hành
+### Điều 42. Trách nhiệm của bên giao đại lý lữ hành
 
+1. Kiểm tra, giám sát việc thực hiện hợp đồng của bên nhận đại lý lữ hành.
+
+2. Tổ chức thực hiện chương trình du lịch do bên nhận đại lý lữ hành bán; chịu trách nhiệm với khách du lịch về chương trình du lịch giao cho bên nhận đại lý lữ hành.
+
+3. Hướng dẫn, cung cấp cho bên nhận đại lý lữ hành thông tin liên quan đến chương trình du lịch.
+>>>>>>> 13e520d (clean data)
+
+### Điều 43. Trách nhiệm của đại lý lữ hành
+
+<<<<<<< HEAD
 1. Thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh thời điểm bắt
 đầu hoạt động kinh doanh, địa điềm kinh doanh, thông tin về doanh nghiệp giao
 đại lý lữ hành.
 
 2. Thực hiện việc bán chương trình du lịch đúng nội dung và đúng giá như
 hợp đồng đại lý; không được tổ chức thực hiện chương trình du lịch.
+=======
+1. Thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh thời điểm bắt đầu hoạt động kinh doanh, địa điểm kinh doanh, thông tin về doanh nghiệp giao đại lý lữ hành.
 
-3. Lập và lưu giữ hỗ sơ về chương trình du lịch đã bán cho khách du lịch
-theo quy định của pháp luật.
+2. Thực hiện việc bán chương trình du lịch đúng nội dung và đúng giá như hợp đồng đại lý; không được tổ chức thực hiện chương trình du lịch.
+>>>>>>> 13e520d (clean data)
 
-4. Treo biển đại lý lữ hành ở vị trí đễ nhận biết tại trụ sở đại lý.
+3. Lập và lưu giữ hồ sơ về chương trình du lịch đã bán cho khách du lịch theo quy định của pháp luật.
 
-Điều 44. Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh
-doanh dịch vụ lữ bành nước ngoài
+4. Treo biển đại lý lữ hành ở vị trí dễ nhận biết tại trụ sở đại lý.
 
-1. Việc thành lập văn phòng đại diện tại Việt Nam của doanh nghiệp kinh
-doanh dịch vụ lữ hành nước ngoài được thực hiện theo quy định của pháp luật
-về thương mại.
+### Điều 44. Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài
 
+1. Việc thành lập văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài được thực hiện theo quy định của pháp luật về thương mại.
+
+<<<<<<< HEAD
 2. Cơ quan chuyên môn về dụ lịch cấp tỉnh tiếp nhận, thẩm định hỗ sơ, cấp,
 cấp lại, điều chỉnh, gia hạn, thu hồi Giấy phép thành lập văn phòng đại diện tại
 Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài.
+=======
+2. Cơ quan chuyên môn về du lịch cấp tỉnh tiếp nhận, thẩm định hồ sơ, cấp, cấp lại, điều chỉnh, gia hạn, thu hồi Giấy phép thành lập văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài.
+>>>>>>> 13e520d (clean data)
 
-Mục 2
-VẬN TẢI KHÁCH DU LỊCH
-Điều 45. Kinh đoanh vận tải khách du lịch
-1. Kinh doanh vận tải khách du lịch là việc cung cấp dịch vụ vận tải
-đường hàng không, đường biển, đường thủy nội địa, đường sắt, đường bộ
+### Mục 2. VẬN TẢI KHÁCH DU LỊCH
 
-## Trang 21
+### Điều 45. Kinh doanh vận tải khách du lịch
 
+<<<<<<< HEAD
 chuyên phục vụ khách du lịch theo chương trình du lịch, tại khu du lịch, điểm
 du lịch.
 
@@ -1151,40 +1480,64 @@ du lịch tại sân bay, bên cảng, nhà ga, bên xe, trong khu du lịch, g�
 lịch, cơ sở lưu trú du lịch và được hoạt động không hạn chê thời gian trên các
 tuyến giao thông dẫn tới các điểm tham quan du lịch, cơ sở lưu trú du lịch,
 điểm cung ứng dịch vụ du lịch theo quy định của chính quyên địa phương.
+=======
+1. Kinh doanh vận tải khách du lịch là việc cung cấp dịch vụ vận tải đường hàng không, đường biển, đường thủy nội địa, đường sắt, đường bộ chuyên phục vụ khách du lịch theo chương trình du lịch, tại khu du lịch, điểm du lịch.
 
-3. Chính phủ quy định trình tự, thủ tục, thẩm quyền cấp biển hiệu phương
-tiện vận tải khách du lịch.
+2. Tổ chức, cá nhân kinh doanh vận tải khách du lịch quy định tại khoản 1 Điều này phải đáp ứng điều kiện kinh doanh vận tải; quy chuẩn kỹ thuật, bảo vệ môi trường của phương tiện vận tải; điều kiện của người điều khiển phương tiện vận tải, nhân viên phục vụ, trang thiết bị, chất lượng dịch vụ trên từng loại phương tiện vận tải theo quy định của pháp luật.
 
+3. Bộ trưởng Bộ Giao thông vận tải quy định điều kiện của người điều khiển phương tiện, nhân viên phục vụ, trang thiết bị, chất lượng dịch vụ trên phương tiện vận tải khách du lịch sau khi có ý kiến của Bộ Văn hóa, Thể thao và Du lịch.
+
+### Điều 46. Cấp biển hiệu phương tiện vận tải khách du lịch
+
+1. Phương tiện vận tải khách du lịch được cấp biển hiệu khi đáp ứng các điều kiện quy định tại khoản 2 Điều 45 của Luật này.
+
+2. Phương tiện vận tải khách du lịch có biển hiệu được vận tải hành khách theo hợp đồng và được ưu tiên bố trí nơi neo đậu, dừng, đỗ để đón, trả khách du lịch tại sân bay, bến cảng, nhà ga, bến xe, trong khu du lịch, gần điểm du lịch, cơ sở lưu trú du lịch và được hoạt động không hạn chế thời gian trên các tuyến giao thông dẫn tới các điểm tham quan du lịch, cơ sở lưu trú du lịch, điểm cung ứng dịch vụ du lịch theo quy định của chính quyền địa phương.
+>>>>>>> 13e520d (clean data)
+
+3. Chính phủ quy định trình tự, thủ tục, thẩm quyền cấp biển hiệu phương tiện vận tải khách du lịch.
+
+<<<<<<< HEAD
 Điều 47. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh vận tải
 khách du lịch
 
 1. Vận tải khách du lịch theo hợp đồng với doanh nghiệp kinh doanh dịch
 vụ lữ hành, với khách du lịch theo hành trình, tuyên đường phù hợp.
+=======
+### Điều 47. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh vận tải khách du lịch
+
+1. Vận tải khách du lịch theo hợp đồng với doanh nghiệp kinh doanh dịch vụ lữ hành, với khách du lịch theo hành trình, tuyến đường phù hợp.
+>>>>>>> 13e520d (clean data)
 
 2. Mua bảo hiểm cho khách du lịch theo phương tiện vận tải.
 
-3. Bảo đảm các tiêu chuẩn, điều kiện theo quy định trong suốt quá trình
-khai thác, sử dụng phương tiện vận tải.
+3. Bảo đảm các tiêu chuẩn, điều kiện theo quy định trong suốt quá trình khai thác, sử dụng phương tiện vận tải.
 
-4. Gắn biển hiệu vận tải khách du lịch ở nơi dễ nhận biết trên phương tiện
-vận tải.
+4. Gắn biển hiệu vận tải khách du lịch ở nơi dễ nhận biết trên phương tiện vận tải.
 
+<<<<<<< HEAD
 Mục 3
 LƯU TRÚ DU LỊCH
+=======
+### Mục 3. LƯU TRÚ DU LỊCH
+>>>>>>> 13e520d (clean data)
 
-Điều 48. Các loại cơ sở lưu trú du lịch
+### Điều 48. Các loại cơ sở lưu trú du lịch
 
 1. Khách sạn.
 
 2. Biệt thự du lịch.
 
+<<<<<<< HEAD
 3, Căn hộ du lịch.
 
 ## Trang 22
+=======
+3. Căn hộ du lịch.
+>>>>>>> 13e520d (clean data)
 
 4. Tàu thủy lưu trú du lịch.
 
-5, Nhà nghỉ du lịch.
+5. Nhà nghỉ du lịch.
 
 6. Nhà ở có phòng cho khách du lịch thuê.
 
@@ -1192,25 +1545,32 @@ LƯU TRÚ DU LỊCH
 
 8. Các cơ sở lưu trú du lịch khác.
 
-Điều 49. Điều kiện kinh doanh dịch vụ lưu trú đu lịch
+### Điều 49. Điều kiện kinh doanh dịch vụ lưu trú du lịch
 
+<<<<<<< HEAD
 1. Điều kiện kinh doanh dịch vụ lưu trú du lịch bao gồm
+=======
+1. Điều kiện kinh doanh dịch vụ lưu trú du lịch bao gồm:
+>>>>>>> 13e520d (clean data)
 
 a) Có đăng ký kinh doanh theo quy định của pháp luật
 
+<<<<<<< HEAD
 b) Đáp ứng điều kiện về an ninh, trật tự, an toàn về phòng cháy và chữa
 cháy, bảo vệ môi trường, an toàn thực phẩm theo quy định của pháp luật
+=======
+b) Đáp ứng điều kiện về an ninh, trật tự, an toàn về phòng cháy và chữa cháy, bảo vệ môi trường, an toàn thực phẩm theo quy định của pháp luật;
+>>>>>>> 13e520d (clean data)
 
-c) Đáp ứng điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ phục vụ
-khách du lịch.
+c) Đáp ứng điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ phục vụ khách du lịch.
 
-2. Chính phủ quy định chỉ tiết điểm e khoản 1 Điều nay.
+2. Chính phủ quy định chi tiết điểm c khoản 1 Điều này.
 
-Điều 50. Xếp hạng cơ sở lưu trú du lịch
+### Điều 50. Xếp hạng cơ sở lưu trú du lịch
 
-1: Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện
-đăng ký xếp hang cơ sở lưu trú du lịch với cơ quan nhà nước có thâm quyên.
+1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện đăng ký xếp hạng cơ sở lưu trú du lịch với cơ quan nhà nước có thẩm quyền.
 
+<<<<<<< HEAD
 2. Khách san, biệt. thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch được
 xếp hạng theo tiêu chuan quốc gia về xếp hạng cơ sở lưu trú du lịch. Hạng cơ sở
 lưu trú du lịch bao gồm 01 sao, 02 sao, 03 sao, 04 sao và 05 sao.
@@ -1220,10 +1580,17 @@ lưu trú du lịch bao gồm 01 sao, 02 sao, 03 sao, 04 sao và 05 sao.
 
 a) Tổng cục Du lịch thẩm định, công nhận cơ sở lưu trú du lịch hạng 04 sao
 và hạng 05 sao
+=======
+2. Khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch được xếp hạng theo tiêu chuẩn quốc gia về xếp hạng cơ sở lưu trú du lịch. Hạng cơ sở lưu trú du lịch bao gồm 01 sao, 02 sao, 03 sao, 04 sao và 05 sao.
 
-b) Cơ quan chuyên môn về du lịch cấp tỉnh thầm định, công nhận cơ sở lưu
-trú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao.
+3. Thẩm quyền thẩm định, công nhận hạng cơ sở lưu trú du lịch được quy định như sau:
 
+a) Tổng cục Du lịch thẩm định, công nhận cơ sở lưu trú du lịch hạng 04 sao và hạng 05 sao;
+>>>>>>> 13e520d (clean data)
+
+b) Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, công nhận cơ sở lưu trú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao.
+
+<<<<<<< HEAD
 4. Hỗ sơ đăng ký công nhận hạng cơ sở lưu trú du lịch bao gồm
 
 a) Đơn đề nghị công nhận hạng cơ sở lưu trú du lịch theo mẫu do Bộ
@@ -1233,43 +1600,64 @@ b) Bản tự đánh giá chất lượng của cơ sở lưu trú du lịch the
 tiêu chuẩn quốc gia về xếp hạng cơ sở lưu trú du lịch
 
 c) Danh sách người quản ly và nhân viên trong cơ sở lưu trú du lịch
+=======
+4. Hồ sơ đăng ký công nhận hạng cơ sở lưu trú du lịch bao gồm:
 
-d) Bản sao có chứng thực văn bằng, chứng chỉ, giấy chứng nhận bồi dưỡng
-nghiệp vụ và giấy chứng nhận thời gian làm việc trong lĩnh vực du lịch của
-người quản lý, trưởng bộ phận trong cơ sở lưu trú du lịch.
+a) Đơn đề nghị công nhận hạng cơ sở lưu trú du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
+b) Bản tự đánh giá chất lượng của cơ sở lưu trú du lịch theo quy định trong tiêu chuẩn quốc gia về xếp hạng cơ sở lưu trú du lịch;
+
+c) Danh sách người quản lý và nhân viên trong cơ sở lưu trú du lịch;
+>>>>>>> 13e520d (clean data)
+
+d) Bản sao có chứng thực văn bằng, chứng chỉ, giấy chứng nhận bồi dưỡng nghiệp vụ và giấy chứng nhận thời gian làm việc trong lĩnh vực du lịch của người quản lý, trưởng bộ phận trong cơ sở lưu trú du lịch.
+
+<<<<<<< HEAD
 5. Trình tự, thủ tục công nhận hạng cơ sở lưu trú du lịch được quy định
 như sau
+=======
+5. Trình tự, thủ tục công nhận hạng cơ sở lưu trú du lịch được quy định như sau:
+>>>>>>> 13e520d (clean data)
 
-## Trang 23
+a) Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch nộp 01 bộ hồ sơ đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều này. Trường hợp hồ sơ không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan nhà nước có thẩm quyền phải thông báo bằng văn bản và nêu rõ yêu cầu sửa đổi, bổ sung;
 
+<<<<<<< HEAD
 a) Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch nộp 01 bộ hồ sơ đến
 cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều này. Trường hợp hồ
 sơ không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hé sơ,
 cơ quan nhà nước có thẩm quyền phải thông báo bang văn bản và nêu rõ yêu cầu
 sửa đối, bd sung
+=======
+b) Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền chủ trì, phối hợp với tổ chức xã hội - nghề nghiệp về du lịch thẩm định và ra quyết định công nhận hạng cơ sở lưu trú du lịch; trường hợp không công nhận, phải thông báo bằng văn bản và nêu rõ lý do.
 
-b) Trong thời hạn 30 ngày kế từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà
-nước có thâm quyên chủ trì, phối hợp với tổ chức xã hội - nghề nghiệp về du
-lịch thâm định và ra quyét định công nhận hạng cơ sở lưu trú du lịch; trường hợp
-không công nhận, phải thông báo băng văn bản và nêu rõ lý do.
+6. Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn 05 năm. Sau khi hết thời hạn, tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có nhu cầu đăng ký xếp hạng lại cơ sở lưu trú du lịch thực hiện theo quy định tại các khoản 4, 5 và 7 Điều này.
+>>>>>>> 13e520d (clean data)
 
+7. Phí thẩm định công nhận hạng cơ sở lưu trú du lịch được thực hiện theo quy định của pháp luật về phí và lệ phí.
+
+<<<<<<< HEAD
 6. Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn 05 năm.
 Sau khi hết thời hạn, tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có nhu
 câu đăng ký xếp hạng lại cơ sở lưu trú du lịch thực hiện theo quy định tại các
 khoản 4, 5 và 7 Điêu này.
+=======
+8. Biển công nhận hạng cơ sở lưu trú du lịch được gắn ở khu vực cửa chính của cơ sở lưu trú du lịch.
+>>>>>>> 13e520d (clean data)
 
-7. Phí thâm định công nhận hạng cơ sở lưu trú du lịch được thực hiện theo
-quy định của pháp luật về phí và lệ phí.
+Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu biển công nhận hạng cơ sở lưu trú du lịch.
 
+<<<<<<< HEAD
 g. Biển công nhận hạng cơ sở lưu trú du lịch được gắn ở khu vực cửa chính
 của cơ sở lưu trú du lịch.
+=======
+### Điều 51. Công bố, kiểm tra chất lượng cơ sở lưu trú du lịch
+>>>>>>> 13e520d (clean data)
 
-Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu biển công nhận
-hạng cơ sở lưu trú du lịch.
+1. Tổng cục Du lịch công bố danh sách cơ sở lưu trú du lịch đã được xếp hạng theo thẩm quyền; hướng dẫn, kiểm tra việc xếp hạng cơ sở lưu trú du lịch của cơ quan chuyên môn về du lịch cấp tỉnh; tổ chức kiểm tra chất lượng cơ sở lưu trú du lịch trên toàn quốc.
 
-Điều 51. Công bố, kiểm tra chất lượng cơ sở lưu trú du lịch
+2. Cơ quan chuyên môn về du lịch cấp tỉnh công bố danh sách cơ sở lưu trú du lịch đã được xếp hạng theo thẩm quyền; tổ chức kiểm tra chất lượng cơ sở lưu trú du lịch trên địa bàn.
 
+<<<<<<< HEAD
 1. Tổng cục Du lịch công bố danh sách cơ sở lưu trú du lịch đã được xếp
 hạng theo thâm quyên; hướng dân, kiệm tra việc xếp hạng cơ sở lưu trú du lịch
 của cơ quan chuyên môn ve du lịch câp tỉnh; tổ chức kiểm tra chất lượng cơ sở
@@ -1278,22 +1666,21 @@ lưu trú du lịch trên toàn quôc.
 2. Cơ quan chuyên môn về du lịch cấp tỉnh công bố danh sách cơ sở lưu trú
 du lịch đã được xêp hạng theo thâm quyên; tổ chức kiểm tra chất lượng cơ sở
 lưu trú du lịch trên địa ban.
+=======
+### Điều 52. Thu hồi quyết định công nhận hạng, thay đổi hạng cơ sở lưu trú du lịch
 
-Điều 52. Thu hồi quyết định công nhận hạng, thay đổi hạng cơ sở lưu
-trú du lịch
+1. Cơ quan nhà nước có thẩm quyền công nhận hạng cơ sở lưu trú du lịch thu hồi quyết định công nhận hạng đối với cơ sở lưu trú du lịch không duy trì chất lượng theo tiêu chuẩn đã được công nhận.
+>>>>>>> 13e520d (clean data)
 
-1. Cơ quan nhà nước có thẩm quyền công nhận hạng cơ sở lưu trú du lịch
-thu hôi quyết định công nhận hạng đổi với cơ sở lưu trú du lịch không duy tri
-chất lượng theo tiêu chuẩn đã được công nhận.
+2. Khi có sự thay đổi về cơ sở vật chất kỹ thuật, dịch vụ, tổ chức, cá nhân kinh doanh cơ sở lưu trú du lịch đề nghị cơ quan nhà nước có thẩm quyền thẩm định lại để công nhận hạng cơ sở lưu trú du lịch. Hồ sơ, trình tự, thủ tục thay đổi hạng cơ sở lưu trú du lịch thực hiện theo quy định tại các khoản 4, 5, 6 và 7 Điều 50 của Luật này.
 
-2. Khi có sự thay đổi về cơ sở vật chất kỹ thuật, dịch vụ, tổ chức, cá nhân
-kinh doanh cơ sở lưu trú du lịch đê nghị cơ quan nhà nước có thâm quyên thâm
-định lại dé công nhận hạng cơ sở lưu trú du lịch. Hồ sơ, trình tự, thủ tục thay đôi
-hạng cơ sở lưu trú đu lịch thực hiện theo quy định tại các khoản 4, 5, 6 và 7
-Điều 50 của Luật này.
+### Điều 53. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch
 
-## Trang 24
+1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có quyền sau đây:
 
+a) Từ chối tiếp nhận khách du lịch có hành vi vi phạm pháp luật, vi phạm nội quy của cơ sở lưu trú du lịch hoặc khi cơ sở lưu trú du lịch không còn khả năng đáp ứng yêu cầu của khách du lịch;
+
+<<<<<<< HEAD
 Điều 53. Quyền va nghĩa vụ của tổ chức, cá nhân kinh doanh dịch vụ
 lưu trú du lịch
 
@@ -1305,9 +1692,13 @@ năng đáp ứng yêu cầu của khách du lịch
 
 b) Hủy bô hợp đồng cung cấp dịch vụ đối với khách du lịch có hành vi vi
 phạm pháp luật, vi phạm nội quy của cơ sở lưu trú du lịch.
+=======
+b) Hủy bỏ hợp đồng cung cấp dịch vụ đối với khách du lịch có hành vi vi phạm pháp luật, vi phạm nội quy của cơ sở lưu trú du lịch.
+>>>>>>> 13e520d (clean data)
 
 2. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có nghĩa vụ sau đây
 
+<<<<<<< HEAD
 a) Bảo dảm duy trì điều kiện kinh doanh dịch vụ lưu trú du lịch theo quy
 định tại khoản 1 Điều 49 của Luật này
 
@@ -1329,19 +1720,40 @@ e) Thực hiện chế độ báo cáo, thống kê, kế toán theo quy định
 
 3. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch đã được công, nhận
 hạng có quyền và nghĩa vụ sau đây
+=======
+a) Bảo đảm duy trì điều kiện kinh doanh dịch vụ lưu trú du lịch theo quy định tại khoản 1 Điều 49 của Luật này;
+
+b) Niêm yết công khai giá bán hàng hóa và dịch vụ, nội quy của cơ sở lưu trú du lịch;
+
+c) Bồi thường thiệt hại cho khách du lịch theo quy định của pháp luật về dân sự;
+
+d) Thông báo bằng văn bản cho cơ quan chuyên môn về du lịch cấp tỉnh nơi có cơ sở lưu trú du lịch khi có sự thay đổi về tên cơ sở, quy mô, địa chỉ, người đại diện theo pháp luật;
+
+đ) Chỉ được sử dụng từ “sao” hoặc hình ảnh ngôi sao để quảng cáo về hạng cơ sở lưu trú du lịch sau khi được cơ quan nhà nước có thẩm quyền công nhận hạng cơ sở lưu trú du lịch;
+
+e) Thực hiện chế độ báo cáo, thống kê, kế toán theo quy định của pháp luật.
+
+3. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch đã được công nhận hạng có quyền và nghĩa vụ sau đây:
+>>>>>>> 13e520d (clean data)
 
 a) Quyền và nghĩa vụ quy định tại khoản 1 và khoản 2 Điều này
 
+<<<<<<< HEAD
 b) Treo biển công nhận hạng cơ sở lưu trú du lịch và quảng cáo đúng với
 loại, hạng đã được công nhận
+=======
+b) Treo biển công nhận hạng cơ sở lưu trú du lịch và quảng cáo đúng với loại, hạng đã được công nhận;
+>>>>>>> 13e520d (clean data)
 
-c) Duy trì chất lượng của cơ sở lưu trú du lịch theo đúng loại, hạng đã được
-công nhận.
+c) Duy trì chất lượng của cơ sở lưu trú du lịch theo đúng loại, hạng đã được công nhận.
 
-Mục 4
-DỊCH VỤ DU LỊCH KHÁC
+### Mục 4. DỊCH VỤ DU LỊCH KHÁC
 
+<<<<<<< HEAD
 Điều 54. Các loại dịch vụ đu lịch khác
+=======
+### Điều 54. Các loại dịch vụ du lịch khác
+>>>>>>> 13e520d (clean data)
 
 1. Dịch vụ ăn uống.
 
@@ -1351,16 +1763,24 @@ DỊCH VỤ DU LỊCH KHÁC
 
 4. Dịch vụ vui chơi, giải trí.
 
+<<<<<<< HEAD
 ## Trang 25
 
+=======
+>>>>>>> 13e520d (clean data)
 5. Dịch vụ chăm sóc sức khỏe.
 
 6. Dịch vụ liên quan khác phục vụ khách du lịch.
 
+<<<<<<< HEAD
 Điều 55. Phát triển các loại dịch vụ du lịch khác
+=======
+### Điều 55. Phát triển các loại dịch vụ du lịch khác
+>>>>>>> 13e520d (clean data)
 
 Nhà nước khuyến khích tổ chức, cá nhân thực hiện các hoạt động sau đây
 
+<<<<<<< HEAD
 1. Đầu tu, xây dựng các chuỗi nhà hàng ăn uống, khu ẩm thực, lễ hội âm
 thực nhằm bảo tồn và phát huy các giá trị âm thực truyền thống, tiếp thu tỉnh
 hoa âm thực thê giới
@@ -1380,19 +1800,33 @@ viên chủ đê, trung tâm giải trí
 
 5. Cung cấp các dịch vụ y tế, chăm sóc sức khỏe, chăm sóc sắc đẹp trên cơ
 sở khai thác giá trị y học cô truyền, y học hiện đại
+=======
+1. Đầu tư, xây dựng các chuỗi nhà hàng ăn uống, khu ẩm thực, lễ hội ẩm thực nhằm bảo tồn và phát huy các giá trị ẩm thực truyền thống, tiếp thu tinh hoa ẩm thực thế giới;
 
-6. Cung cấp các dịch vụ có liên quan khác theo nhu cầu của khách du lịch
-và phù hợp với quy định của pháp luật.
+2. Đầu tư, xây dựng các khu phố mua sắm, trung tâm mua sắm, chuỗi cửa hàng kinh doanh hàng hóa, đồ lưu niệm, hàng thủ công mỹ nghệ có xuất xứ trong nước, cửa hàng miễn thuế; tổ chức các chương trình khuyến mại hằng năm;
 
-“Điều 56. Công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu
-chuẩn phục vụ khách du lịch
+3. Đầu tư phát triển dịch vụ du lịch gắn với thể thao trên cơ sở tài nguyên du lịch và lợi thế về địa hình của Việt Nam; tổ chức các sự kiện thể thao để thu hút khách du lịch;
 
+4. Xây dựng và tổ chức các chương trình nghệ thuật biểu diễn truyền thống và đương đại; kết nối hệ thống bảo tàng, nhà hát với hoạt động du lịch; khai thác trò chơi dân gian, lễ hội truyền thống hấp dẫn khách du lịch; xây dựng các công viên chủ đề, trung tâm giải trí;
+
+5. Cung cấp các dịch vụ y tế, chăm sóc sức khỏe, chăm sóc sắc đẹp trên cơ sở khai thác giá trị y học cổ truyền, y học hiện đại;
+>>>>>>> 13e520d (clean data)
+
+6. Cung cấp các dịch vụ có liên quan khác theo nhu cầu của khách du lịch và phù hợp với quy định của pháp luật.
+
+### Điều 56. Công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ khách du lịch
+
+<<<<<<< HEAD
 1. Tế chức, cá nhân kinh doanh dịch vụ du lịch khác được tự nguyện đăng
 ký công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuân phục vụ
 khách du lịch với cơ quan nhà nước có thẩm quyền.
+=======
+1. Tổ chức, cá nhân kinh doanh dịch vụ du lịch khác được tự nguyện đăng ký công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ khách du lịch với cơ quan nhà nước có thẩm quyền.
+>>>>>>> 13e520d (clean data)
 
 2. Hồ sơ đăng ký công nhận bao gồm
 
+<<<<<<< HEAD
 a) Don dé nghị theo mẫu do Bộ trưởng Bộ Văn hóa, Thẻ thao và Du lịch
 quy định
 
@@ -1409,9 +1843,23 @@ nhận, phải trả lời bằng văn bản và nêu rõ lý do.
 
 4. Phí thẩm định công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu
 chuẩn phục vụ khách du lịch được thực hiện theo quy định của pháp luật về phí
+=======
+a) Đơn đề nghị theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-## Trang 26
+b) Bản thuyết minh đáp ứng các tiêu chuẩn phục vụ khách du lịch.
 
+3. Trình tự, thủ tục, thẩm quyền công nhận được quy định như sau:
+
+a) Tổ chức, cá nhân kinh doanh dịch vụ du lịch khác nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh nơi đặt cơ sở kinh doanh;
+
+b) Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh thẩm định và công nhận; trường hợp không công nhận, phải trả lời bằng văn bản và nêu rõ lý do.
+
+4. Phí thẩm định công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ khách du lịch được thực hiện theo quy định của pháp luật về phí và lệ phí.
+>>>>>>> 13e520d (clean data)
+
+5. Quyết định công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ khách du lịch có thời hạn 03 năm. Sau khi hết thời hạn, tổ chức, cá nhân kinh doanh dịch vụ du lịch khác có nhu cầu đăng ký công nhận lại cơ sở kinh doanh dịch vụ du lịch đạt tiêu chuẩn phục vụ khách du lịch thực hiện theo quy định tại các khoản 2, 3 và 4 Điều này.
+
+<<<<<<< HEAD
 và lệ phi.
 
 5. Quyết định công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu
@@ -1437,24 +1885,37 @@ lịch khác.
 
 2. Được ưu tiên tham gia các hoạt động xúc tiền du lịch do cơ quan quản ly
 nha nước về du lịch ở trung ương và địa phương tổ chức.
+=======
+6. Cơ quan chuyên môn về du lịch cấp tỉnh có trách nhiệm tổ chức thanh tra, kiểm tra chất lượng cơ sở kinh doanh dịch vụ du lịch khác đã được công nhận đạt tiêu chuẩn phục vụ khách du lịch trên địa bàn; thu hồi quyết định công nhận trong trường hợp cơ sở kinh doanh dịch vụ du lịch không bảo đảm các tiêu chuẩn phục vụ khách du lịch theo quy định của pháp luật.
 
-3. Được treo biển hiệu đạt tiêu chuẩn phục vụ khách du lịch và sử dụng
-danh hiệu này để quảng cáo, thu hút khách du lịch.
+7. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành tiêu chuẩn và mẫu biển hiệu đạt tiêu chuẩn phục vụ khách du lịch cho cơ sở kinh doanh dịch vụ du lịch khác.
 
-4. Phải bảo đảm điều kiện kinh doanh, tiêu chuẩn phục vụ khách du lịch
-theo quy định của Luật này và quy định khác của pháp luật có liên quan trong
-suốt quá trình kinh doanh.
+### Điều 57. Quyền và nghĩa vụ của cơ sở kinh doanh dịch vụ du lịch khác được công nhận đạt tiêu chuẩn phục vụ khách du lịch
 
-Chương VI
-HƯỚNG DAN VIÊN DU LICH
+1. Được đưa vào cơ sở dữ liệu xúc tiến du lịch quốc gia.
 
-Điều 58. Hướng dẫn viên du lịch, thẻ hướng dẫn viên du lịch
+2. Được ưu tiên tham gia các hoạt động xúc tiến du lịch do cơ quan quản lý nhà nước về du lịch ở trung ương và địa phương tổ chức.
+>>>>>>> 13e520d (clean data)
 
+3. Được treo biển hiệu đạt tiêu chuẩn phục vụ khách du lịch và sử dụng danh hiệu này để quảng cáo, thu hút khách du lịch.
+
+4. Phải bảo đảm điều kiện kinh doanh, tiêu chuẩn phục vụ khách du lịch theo quy định của Luật này và quy định khác của pháp luật có liên quan trong suốt quá trình kinh doanh.
+
+## Chương VI
+HƯỚNG DẪN VIÊN DU LỊCH
+
+### Điều 58. Hướng dẫn viên du lịch, thẻ hướng dẫn viên du lịch
+
+<<<<<<< HEAD
 1 Hướng dẫn viên du lịch bao gồm hướng dẫn viên du lịch quốc tế, hướng
 dẫn viên du lịch nội địa và hướng dẫn viên du lịch tại điểm.
+=======
+1. Hướng dẫn viên du lịch bao gồm hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch tại điểm.
+>>>>>>> 13e520d (clean data)
 
 2. Phạm vi hành nghề của hướng dẫn viên du lịch được quy định như sau
 
+<<<<<<< HEAD
 a) Hướng dẫn viên du lịch quốc tế được hướng dẫn cho khách du lịch nội
 địa, khách du lịch quôc tê đên Việt Nam trong phạm vi toàn quốc va đưa khách
 du lịch ra nước ngoài
@@ -1468,29 +1929,38 @@ trong phạm vi khu du lịch, điểm du lịch.
 ## Trang 27
 
 3. Điều kiện hành nghề của hướng dẫn viên du lịch bao gồm
+=======
+a) Hướng dẫn viên du lịch quốc tế được hướng dẫn cho khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam trong phạm vi toàn quốc và đưa khách du lịch ra nước ngoài;
+
+b) Hướng dẫn viên du lịch nội địa được hướng dẫn cho khách du lịch nội địa là công dân Việt Nam trong phạm vi toàn quốc;
+
+c) Hướng dẫn viên du lịch tại điểm được hướng dẫn cho khách du lịch trong phạm vi khu du lịch, điểm du lịch.
+>>>>>>> 13e520d (clean data)
 
 a) Có thẻ hướng dẫn viên du lịch
 
+<<<<<<< HEAD
 b) Có hợp đồng, lao động với doanh nghiệp kinh doanh dịch vụ lữ hành,
 doanh nghiệp cung cấp dịch vụ hướng dan du lịch hoặc là hội viên của tổ chức
 xã hội - nghề nghiệp về hướng dẫn du lịch đôi với hướng dẫn viên du lịch quốc
 tế và hướng dẫn viên du lịch nội địa
+=======
+b) Có hợp đồng lao động với doanh nghiệp kinh doanh dịch vụ lữ hành, doanh nghiệp cung cấp dịch vụ hướng dẫn du lịch hoặc là hội viên của tổ chức xã hội - nghề nghiệp về hướng dẫn du lịch đối với hướng dẫn viên du lịch quốc tế và hướng dẫn viên du lịch nội địa;
+>>>>>>> 13e520d (clean data)
 
-c) Có hợp đồng hướng dẫn với doanh nghiệp kinh doanh dịch vụ lữ hành
-hoặc văn bản phân công hướng dẫn theo chương trình du lịch; đối với hướng
-dẫn viên du lịch tại điểm, phải có phân công của tổ chức, cá nhân quản ly khu du
-lịch, điểm du lịch.
+c) Có hợp đồng hướng dẫn với doanh nghiệp kinh doanh dịch vụ lữ hành hoặc văn bản phân công hướng dẫn theo chương trình du lịch; đối với hướng dẫn viên du lịch tại điểm, phải có phân công của tổ chức, cá nhân quản lý khu du lịch, điểm du lịch.
 
-4. Thẻ hướng dẫn viên du lịch bao gồm thẻ hướng dẫn viên du lịch quốc tế,
-thẻ hướng dẫn viên du lịch nội địa và thẻ hướng dẫn viên du lịch tại điểm.
+4. Thẻ hướng dẫn viên du lịch bao gồm thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa và thẻ hướng dẫn viên du lịch tại điểm.
 
-Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa
-có thời hạn 05 năm.
+Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm.
 
-5. Phí thẩm định cấp thẻ hướng dẫn viên du lịch được thực hiện theo quy
-định của pháp luật vê phí và lệ phí.
+5. Phí thẩm định cấp thẻ hướng dẫn viên du lịch được thực hiện theo quy định của pháp luật về phí và lệ phí.
 
+<<<<<<< HEAD
 Điều 59. Điều kiện cấp thẻ hướng dẫn viên du lịch
+=======
+### Điều 59. Điều kiện cấp thẻ hướng dẫn viên du lịch
+>>>>>>> 13e520d (clean data)
 
 1. Điều kiện cấp thẻ hướng dẫn viên du lịch nội địa bao gồm
 
@@ -1500,17 +1970,21 @@ b) Có năng lực hành vi dân sự đầy đủ
 
 c) Không mắc bệnh truyền nhiễm, không sử dụng chất ma túy
 
-d) Tốt nghiệp trung cấp trở lên chuyên ngành hướng dẫn du lịch; trường
-hợp tôt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ
-hướng dẫn du lịch nội địa.
+d) Tốt nghiệp trung cấp trở lên chuyên ngành hướng dẫn du lịch; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ hướng dẫn du lịch nội địa.
 
 2. Điều kiện cấp thẻ hướng dẫn viên du lịch quốc tế bao gồm
 
+<<<<<<< HEAD
 a) Điều kiện quy định tại các điểm a, b vac khoản 1 Điều này
 
 b) Tốt nghiệp Cao đẳng trở lên chuyên ngành hướng dẫn du lịch; trường
 hợp tốt nghiệp cao đăng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ
 hướng dẫn du lịch quốc té
+=======
+a) Điều kiện quy định tại các điểm a, b và c khoản 1 Điều này;
+
+b) Tốt nghiệp cao đẳng trở lên chuyên ngành hướng dẫn du lịch; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ hướng dẫn du lịch quốc tế;
+>>>>>>> 13e520d (clean data)
 
 c) Sử dụng thành thạo ngoại ngữ đăng ký hành nghề.
 
@@ -1518,18 +1992,23 @@ c) Sử dụng thành thạo ngoại ngữ đăng ký hành nghề.
 
 a) Điều kiện quy định tại các điểm a, b và c khoản 1 Điều này
 
+<<<<<<< HEAD
 b) Đạt yêu cầu kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm do cơ quan
 chuyên môn về du lịch cấp tỉnh tổ chức.
 
 4. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chỉ tiết về mẫu thẻ,
 nội dung đào tạo, bồi dưỡng, tổ chức thi, cap chứng chỉ nghiệp vụ hướng dẫn du
+=======
+b) Đạt yêu cầu kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm do cơ quan chuyên môn về du lịch cấp tỉnh tổ chức.
 
-## Trang 28
+4. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về mẫu thẻ, nội dung đào tạo, bồi dưỡng, tổ chức thi, cấp chứng chỉ nghiệp vụ hướng dẫn du lịch; nội dung kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm; tiêu chuẩn thành thạo ngoại ngữ.
+>>>>>>> 13e520d (clean data)
 
-ap os
-lịch; nội dung kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm; tiêu chuẩn thành
-thạo ngoại ngữ.
+### Điều 60. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa
 
+1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa bao gồm:
+
+<<<<<<< HEAD
 Điều 60. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên
 du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa
 
@@ -1546,9 +2025,23 @@ quy định tại điểm d khoản 1 hoặc điểm b và điểm c khoản 2 �
 
 8) Giấy chứng nhận sức khỏe do cơ sở khám bệnh, chữa bệnh có tham
 quyền cấp trong thời hạn không quá 06 tháng tính đến thời điểm nộp hỗ sơ
+=======
+a) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-đ) 02 ảnh chân dung màu cỡ 3 cm x 4 cm.
+b) Sơ yếu lý lịch có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;
 
+c) Bản sao có chứng thực các văn bằng, chứng chỉ tương ứng với điều kiện quy định tại điểm d khoản 1 hoặc điểm b và điểm c khoản 2 Điều 59 của Luật này;
+
+d) Giấy chứng nhận sức khỏe do cơ sở khám bệnh, chữa bệnh có thẩm quyền cấp trong thời hạn không quá 06 tháng tính đến thời điểm nộp hồ sơ;
+
+đ) 02 ảnh chân dung màu cỡ 3cm x 4cm.
+
+2. Trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa được quy định như sau:
+>>>>>>> 13e520d (clean data)
+
+a) Người đề nghị cấp thẻ hướng dẫn viên du lịch nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh;
+
+<<<<<<< HEAD
 2. Trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ
 hướng dẫn viên du lịch nội địa được quy định như sau
 
@@ -1561,9 +2054,15 @@ nghị; trường hợp từ chi, phải trả lời bang van bản và nêu rõ
 
 Điều 61. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên
 du lịch tại điểm
+=======
+b) Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh cấp thẻ hướng dẫn viên du lịch cho người đề nghị; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+### Điều 61. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch tại điểm
+>>>>>>> 13e520d (clean data)
 
 1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm bao gồm
 
+<<<<<<< HEAD
 a) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ
 Van hóa, Thể thao và Du lịch quy định
 
@@ -1581,9 +2080,23 @@ b) Người đề nghị cấp thẻ hướng dẫn viên du lịch tại điể
 c) Cơ quan chuyên môn về du lịch cấp tỉnh tổ chức kiểm tra và cấp thẻ
 hướng dẫn viên du lịch tại điểm đối với người đã đạt yêu cầu kiểm tra nghiệp vụ
 trong thời hạn 10 ngày kể từ ngày có kết quả kiểm tra.
+=======
+a) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-## Trang 29
+b) Giấy tờ quy định tại các điểm b, d và đ khoản 1 Điều 60 của Luật này.
 
+2. Trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch tại điểm được quy định như sau:
+
+a) Cơ quan chuyên môn về du lịch cấp tỉnh định kỳ hằng năm công bố kế hoạch tổ chức kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm;
+
+b) Người đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh;
+
+c) Cơ quan chuyên môn về du lịch cấp tỉnh tổ chức kiểm tra và cấp thẻ hướng dẫn viên du lịch tại điểm đối với người đã đạt yêu cầu kiểm tra nghiệp vụ trong thời hạn 10 ngày kể từ ngày có kết quả kiểm tra.
+>>>>>>> 13e520d (clean data)
+
+### Điều 62. Cấp đổi thẻ hướng dẫn viên du lịch
+
+<<<<<<< HEAD
 Điều 62. Cấp dai thé hướng dẫn viên du lịch
 
 1. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa làm thủ
@@ -1593,9 +2106,17 @@ tục dé nghị cấp đổi thẻ hướng dẫn viên du lịch khi thẻ h�
 
 a) Đơn đề nghị cấp đối thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng
 Bộ Văn hóa, Thể thao và Du lịch quy định
+=======
+1. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa làm thủ tục đề nghị cấp đổi thẻ hướng dẫn viên du lịch khi thẻ hết hạn sử dụng.
+
+2. Hồ sơ đề nghị cấp đổi thẻ hướng dẫn viên du lịch bao gồm:
+
+a) Đơn đề nghị cấp đổi thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
+>>>>>>> 13e520d (clean data)
 
 b) Giấy tờ quy định tại các điểm b, d và đ khoản 1 Điều 60 của Luật này
 
+<<<<<<< HEAD
 c) Bản sao có chứng thực giấy chứng nhận đã qua khóa cập nhật kiến thức
 cho hướng dẫn viên du lịch do cơ quan nhà nước có thẩm quyền cấp
 
@@ -1605,45 +2126,62 @@ d) Thẻ hướng dẫn viên du lịch đã được cấp.
 
 a) Người đề nghị cấp đổi thẻ hướng dẫn viên du lịch nộp 01 bộ hồ sơ đến
 cơ quan nhà nước có thẩm quyền cấp thẻ
+=======
+c) Bản sao có chứng thực giấy chứng nhận đã qua khóa cập nhật kiến thức cho hướng dẫn viên du lịch do cơ quan nhà nước có thẩm quyền cấp;
 
-b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà
-nước có thẩm quyền cấp thẻ có trách nhiệm cấp đổi thẻ hướng dẫn viên du lịch
-cho người đề nghị; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+d) Thẻ hướng dẫn viên du lịch đã được cấp.
 
-4. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chỉ tiết về khóa
-cập nhật kiến thức, giấy chứng nhận khóa cập nhật kiến thức cho hướng dan
-viên du lịch quốc tế, hướng dẫn viên du lịch nội địa.
+3. Trình tự, thủ tục cấp đổi thẻ hướng dẫn viên du lịch được quy định như sau:
 
-Điều 63. Cấp lại thé hướng dẫn viên du lịch
+a) Người đề nghị cấp đổi thẻ hướng dẫn viên du lịch nộp 01 bộ hồ sơ đến cơ quan nhà nước có thẩm quyền cấp thẻ;
+>>>>>>> 13e520d (clean data)
 
-1. Thẻ hướng dẫn viên du lịch được cấp lại trong trường hợp bị mắt, bị hư
-hỏng hoặc thay đổi thông tin trên thẻ. Thời hạn của thé hướng dẫn viên du lịch
-được cấp lại bằng thời hạn còn lại của thẻ đã được cấp.
+b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền cấp thẻ có trách nhiệm cấp đổi thẻ hướng dẫn viên du lịch cho người đề nghị; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+4. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về khóa cập nhật kiến thức, giấy chứng nhận khóa cập nhật kiến thức cho hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa.
+
+### Điều 63. Cấp lại thẻ hướng dẫn viên du lịch
+
+1. Thẻ hướng dẫn viên du lịch được cấp lại trong trường hợp bị mất, bị hư hỏng hoặc thay đổi thông tin trên thẻ. Thời hạn của thẻ hướng dẫn viên du lịch được cấp lại bằng thời hạn còn lại của thẻ đã được cấp.
 
 2. Hồ sơ đề nghị cấp lại thẻ hướng dẫn viên du lịch bao gồm
 
+<<<<<<< HEAD
 a) Don đề nghị cấp lại thẻ hướng dan viên du lịch theo mẫu do Bộ trưởng
 Bộ Văn hóa, Thể thao va Du lịch quy định
 
 b) 02 ảnh chân dung màu cỡ 3 cm x 4 cm
+=======
+a) Đơn đề nghị cấp lại thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-c) Ban sao có chứng thực giấy tờ liên quan đến nội dung thay đổi trong
-trường hợp cấp lại thẻ do thay đổi thông tin trên thẻ hướng dẫn viên du lịch.
+b) 02 ảnh chân dung màu cỡ 3cm x 4cm;
+>>>>>>> 13e520d (clean data)
+
+c) Bản sao có chứng thực giấy tờ liên quan đến nội dung thay đổi trong trường hợp cấp lại thẻ do thay đổi thông tin trên thẻ hướng dẫn viên du lịch.
 
 3. Trình tự, thủ tục cấp lại thẻ hướng dẫn viên du lịch được quy định như sau
 
+<<<<<<< HEAD
 a) Người dé nghị cấp lại thé hướng dẫn viên du lịch nộp 01 bộ hd sơ đến cơ
 quan nhà nước có thảm quyền cấp thẻ
+=======
+a) Người đề nghị cấp lại thẻ hướng dẫn viên du lịch nộp 01 bộ hồ sơ đến cơ quan nhà nước có thẩm quyền cấp thẻ;
+>>>>>>> 13e520d (clean data)
 
-b) Trong thời hạn 10 ngày kế từ ngày nhận được hồ sơ hợp lệ, cơ quan nha
+b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền cấp thẻ cấp lại thẻ hướng dẫn viên du lịch cho người đề nghị; trường hợp từ chối phải trả lời bằng văn bản và nêu rõ lý do.
 
-## Trang 30
+### Điều 64. Thu hồi thẻ hướng dẫn viên du lịch
 
+<<<<<<< HEAD
 nước có thẩm quyển cấp thẻ cấp lại thẻ hướng dẫn viên du lịch cho người đề
 nghị; trường hợp từ chối phải trả lời bằng văn bản và nêu rõ lý do.
+=======
+1. Thẻ hướng dẫn viên du lịch bị thu hồi trong trường hợp hướng dẫn viên du lịch có một trong các hành vi sau đây:
+>>>>>>> 13e520d (clean data)
 
-Điều 64. Thu hồi thẻ hướng dẫn viên du lịch
+a) Làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh;
 
+<<<<<<< HEAD
 1. Thẻ hướng dẫn viên du lịch bị thu héi trong trường hợp hướng dẫn viên
 du lịch có một trong các hành vi sau đây
 
@@ -1653,9 +2191,19 @@ b) Cho cá nhân khác sử dụng thê hướng dẫn viên du lịch để hà
 
 c) Không bao đảm điều kiện hành nghề, điều kiện cấp thẻ hướng dẫn viên
 du lịch theo quy định của Luật này
+=======
+b) Cho cá nhân khác sử dụng thẻ hướng dẫn viên du lịch để hành nghề;
 
-d) Giả mạo hồ sơ cấp, cấp đôi, cấp lại thẻ hướng dẫn viên du lịch.
+c) Không bảo đảm điều kiện hành nghề, điều kiện cấp thẻ hướng dẫn viên du lịch theo quy định của Luật này;
 
+d) Giả mạo hồ sơ cấp, cấp đổi, cấp lại thẻ hướng dẫn viên du lịch.
+
+2. Cơ quan nhà nước có thẩm quyền cấp thẻ hướng dẫn viên du lịch quyết định thu hồi thẻ hướng dẫn viên du lịch và công bố công khai trên trang thông tin điện tử quản lý hướng dẫn viên du lịch của Tổng cục Du lịch và cơ quan thu hồi thẻ.
+>>>>>>> 13e520d (clean data)
+
+3. Hướng dẫn viên du lịch đã bị thu hồi thẻ chỉ được đề nghị cơ quan nhà nước có thẩm quyền cấp thẻ hướng dẫn viên du lịch sau 12 tháng kể từ ngày bị thu hồi thẻ.
+
+<<<<<<< HEAD
 2. Cơ quan nhà nước có thẩm quyền cấp thẻ hướng dẫn viên du lịch quyết
 định thu hồi thẻ hướng dan viên du lịch và công bô công khai trên trang thông
 tin điện tử quản lý hướng dẫn viên du lịch của Tổng cục Du lịch và cơ quan thu
@@ -1666,6 +2214,9 @@ nước có thầm quyên cấp thẻ hướng dẫn viên du lịch sau 12 thá
 thu hôi thẻ.
 
 Điều 65. Quyền và nghĩa vụ của hướng dẫn viên du lịch
+=======
+### Điều 65. Quyền và nghĩa vụ của hướng dẫn viên du lịch
+>>>>>>> 13e520d (clean data)
 
 1. Hướng dẫn viên du lịch có quyền sau đây
 
@@ -1673,32 +2224,51 @@ a) Tham gia tổ chức xã hội - nghề nghiệp về hướng dẫn du lịc
 
 b) Nhận tiền lương và khoản thù lao khác theo hợp đồng
 
+<<<<<<< HEAD
 c) Tham gia các khóa bồi dưỡng kiến thức, chuyên môn, nghiệp vụ, kỹ
 năng hành nghề hướng dẫn du lịch
 
 đ) Trong trường hợp khẩn cấp hoặc bất khả kháng, được quyền thay đổi
 chương trình du lịch, điêu chỉnh tiêu chuẩn, dịch vụ của khách du lịch.
+=======
+c) Tham gia các khóa bồi dưỡng kiến thức, chuyên môn, nghiệp vụ, kỹ năng hành nghề hướng dẫn du lịch;
+
+d) Trong trường hợp khẩn cấp hoặc bất khả kháng, được quyền thay đổi chương trình du lịch, điều chỉnh tiêu chuẩn, dịch vụ của khách du lịch.
+>>>>>>> 13e520d (clean data)
 
 2. Hướng dẫn viên du lịch có nghĩa vụ sau đây
 
+<<<<<<< HEAD
 a) Hướng dẫn khách du lịch theo nhiệm vụ được giao hoặc theo hợp đồng
 hướng dân
 
 b) Tuân thủ, hướng dẫn khách du lịch tuân thủ pháp luật Việt Nam, pháp
 luật nơi đến du lịch, nội quy nơi đến tham quan; tôn trọng phong tục, tập quán
 của địa phương
+=======
+a) Hướng dẫn khách du lịch theo nhiệm vụ được giao hoặc theo hợp đồng hướng dẫn;
 
-. c) Thông tin cho khách du lịch về chương trình du lịch, dịch vụ và các
+b) Tuân thủ, hướng dẫn khách du lịch tuân thủ pháp luật Việt Nam, pháp luật nơi đến du lịch, nội quy nơi đến tham quan; tôn trọng phong tục, tập quán của địa phương;
+>>>>>>> 13e520d (clean data)
 
+c) Thông tin cho khách du lịch về chương trình du lịch, dịch vụ và các quyền, lợi ích hợp pháp của khách du lịch;
+
+<<<<<<< HEAD
 quyền, lợi ích hợp pháp của khách du lịch
 
 d) Hướng dẫn khách du lịch theo đúng chương trình du lịch, có thái độ văn
 minh, tận tinh và chu đáo với khách du lịch; báo cáo người phụ trách kinh doanh
 dịch vụ lữ hành quyết định thay đổi chương trình du lịch trong trường hợp khách
 du lịch có yêu câu
+=======
+d) Hướng dẫn khách du lịch theo đúng chương trình du lịch, có thái độ văn minh, tận tình và chu đáo với khách du lịch; báo cáo người phụ trách kinh doanh dịch vụ lữ hành quyết định thay đổi chương trình du lịch trong trường hợp khách du lịch có yêu cầu;
 
-## Trang 31
+đ) Có trách nhiệm hỗ trợ trong việc bảo đảm an toàn tính mạng, sức khỏe, tài sản của khách du lịch;
+>>>>>>> 13e520d (clean data)
 
+e) Tham gia khóa cập nhật kiến thức theo quy định tại khoản 4 Điều 62 của Luật này;
+
+<<<<<<< HEAD
 đ) Có trách nhiệm hỗ trợ trong việc bảo đảm an toàn tính mạng, sức khỏe,
 tài sản của khách du lịch
 
@@ -1712,13 +2282,23 @@ mang theo giấy tờ phân công nhiệm vụ của doanh nghiệp tổ chức 
 du lịch và chương trình du lịch bang tiêng Việt trong khi hành nghề. Trường hợp
 hướng dẫn khách du lịch quoc tế thì hướng dân viên du lịch phải mang theo
 chương trình du lịch bằng tiếng Việt và tieng nước ngoài.
+=======
+g) Đeo thẻ hướng dẫn viên du lịch trong khi hành nghề hướng dẫn du lịch;
 
-Điều 66. Trách nhiệm quản lý hướng dẫn viên du lịch
+h) Hướng dẫn viên du lịch quốc tế và hướng dẫn viên du lịch nội địa phải mang theo giấy tờ phân công nhiệm vụ của doanh nghiệp tổ chức chương trình du lịch và chương trình du lịch bằng tiếng Việt trong khi hành nghề. Trường hợp hướng dẫn khách du lịch quốc tế thì hướng dẫn viên du lịch phải mang theo chương trình du lịch bằng tiếng Việt và tiếng nước ngoài.
 
-1. Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm thanh tra, kiểm tra hoạt
-động cấp thẻ hướng dan viên du lịch, hoạt động đào tạo, bôi dưỡng nghiệp vụ
-hướng dẫn du lịch và hoạt động hướng dẫn du lịch trên phạm vi toàn quốc.
+### Điều 66. Trách nhiệm quản lý hướng dẫn viên du lịch
 
+1. Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm thanh tra, kiểm tra hoạt động cấp thẻ hướng dẫn viên du lịch, hoạt động đào tạo, bồi dưỡng nghiệp vụ hướng dẫn du lịch và hoạt động hướng dẫn du lịch trên phạm vi toàn quốc.
+
+2. Cơ quan chuyên môn về du lịch cấp tỉnh có trách nhiệm thanh tra, kiểm tra hoạt động đào tạo, bồi dưỡng nghiệp vụ hướng dẫn du lịch và hoạt động hướng dẫn du lịch trên địa bàn.
+>>>>>>> 13e520d (clean data)
+
+3. Doanh nghiệp kinh doanh dịch vụ lữ hành, doanh nghiệp cung cấp dịch vụ hướng dẫn du lịch có trách nhiệm sau đây:
+
+a) Kiểm tra, giám sát hoạt động của hướng dẫn viên du lịch trong việc tuân thủ pháp luật và hợp đồng đã ký với doanh nghiệp;
+
+<<<<<<< HEAD
 2. Cơ quan chuyên môn về du lịch cấp tỉnh có trách nhiệm thanh tra, kiểm
 tra hoạt động đào tạo, bôi dưỡng nghiệp vụ hướng dẫn du lịch và hoạt động
 hướng dẫn du lịch trên địa bản.
@@ -1743,9 +2323,20 @@ người, bản sắc văn hóa dân tộc nhằm tăng cường thu hút khách
 2. Xây dựng, phát triển thương hiệu du lịch quốc gia, vùng, địa phương,
 doanh nghiệp; nghiên cứu thị trường du lịch, xây dựng, quảng bá sản phẩm du
 lich phù hợp với thị hiệu của khách du lịch.
+=======
+b) Bồi dưỡng kiến thức, chuyên môn, nghiệp vụ, kỹ năng hành nghề hướng dẫn du lịch.
 
-## Trang 32
+## Chương VII
+XÚC TIẾN DU LỊCH, QUỸ HỖ TRỢ PHÁT TRIỂN DU LỊCH
 
+### Mục 1. XÚC TIẾN DU LỊCH
+
+### Điều 67. Nội dung xúc tiến du lịch
+>>>>>>> 13e520d (clean data)
+
+1. Quảng bá, giới thiệu về đất nước, con người Việt Nam, di sản văn hóa, di tích lịch sử - văn hóa, danh lam thắng cảnh, công trình lao động sáng tạo của con người, bản sắc văn hóa dân tộc nhằm tăng cường thu hút khách du lịch.
+
+<<<<<<< HEAD
 3. Tuyén truyền nâng cao nhận thức xã hội về du lịch, góp phần bảo đảm
 môi trường du lịch an ninh, an toàn, lành mạnh, văn minh, phát huy truyền thông
 mến khách của dân tộc.
@@ -1755,11 +2346,19 @@ ha tầng, cơ sở vật chat kỹ thuật du lịch; đa dạng hóa và nâng
 vụ du lịch.
 
 Điều 68. Hoạt động xúc tiến du lịch
+=======
+2. Xây dựng, phát triển thương hiệu du lịch quốc gia, vùng, địa phương, doanh nghiệp; nghiên cứu thị trường du lịch, xây dựng, quảng bá sản phẩm du lịch phù hợp với thị hiếu của khách du lịch.
 
-1. Bộ Văn hóa, Thể thao và Du lịch xây dựng và tổ chức thực hiện chiến
-lược, kế hoạch, chương trình xúc tiền du lịch quốc gia; điêu phôi các hoạt động
-xúc tiến du lịch liên vùng, liên tỉnh.
+3. Tuyên truyền nâng cao nhận thức xã hội về du lịch, góp phần bảo đảm môi trường du lịch an ninh, an toàn, lành mạnh, văn minh, phát huy truyền thống mến khách của dân tộc.
 
+4. Vận động, tìm kiếm cơ hội, tập trung nguồn lực đầu tư phát triển kết cấu hạ tầng, cơ sở vật chất kỹ thuật du lịch; đa dạng hóa và nâng cao chất lượng dịch vụ du lịch.
+
+### Điều 68. Hoạt động xúc tiến du lịch
+>>>>>>> 13e520d (clean data)
+
+1. Bộ Văn hóa, Thể thao và Du lịch xây dựng và tổ chức thực hiện chiến lược, kế hoạch, chương trình xúc tiến du lịch quốc gia; điều phối các hoạt động xúc tiến du lịch liên vùng, liên tỉnh.
+
+<<<<<<< HEAD
 2. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các cấp, trong phạm vi nhiệm
 vụ, quyền hạn của mình, xây dựng và to chức thực hiện kế hoạch, chương trình
 xúc tiên du lịch theo lĩnh vực và địa bản quản lý phù hợp với chiên lược, kê
@@ -1771,13 +2370,17 @@ xúc tiến du lịch trong nước và nước ngoài phù hợp với chiên l
 chương trình xúc tiến du lịch quôc gia, thành lập văn phòng xúc tiên du lịch tại
 nước ngoài. Chỉ phí hoạt động xúc tiến du lịch của doanh nghiệp được hạch toán
 vào chi phí của doanh nghiệp.
+=======
+2. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, xây dựng và tổ chức thực hiện kế hoạch, chương trình xúc tiến du lịch theo lĩnh vực và địa bàn quản lý phù hợp với chiến lược, kế hoạch, chương trình xúc tiến du lịch quốc gia.
 
-Điều 69. Thành lập văn phòng đại diện tại Việt Nam của cơ quan du
-lịch nước ngoài, tỗ chức du lịch quốc tế và khu vực
+3. Tổ chức xã hội - nghề nghiệp về du lịch, doanh nghiệp, tổ chức và cá nhân liên quan chủ động xây dựng và tổ chức thực hiện kế hoạch, chương trình xúc tiến du lịch trong nước và nước ngoài phù hợp với chiến lược, kế hoạch, chương trình xúc tiến du lịch quốc gia, thành lập văn phòng xúc tiến du lịch tại nước ngoài. Chi phí hoạt động xúc tiến du lịch của doanh nghiệp được hạch toán vào chi phí của doanh nghiệp.
+>>>>>>> 13e520d (clean data)
 
-1. Cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực được
-thành lập văn phòng đại diện tại Việt Nam.
+### Điều 69. Thành lập văn phòng đại diện tại Việt Nam của cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực
 
+1. Cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực được thành lập văn phòng đại diện tại Việt Nam.
+
+<<<<<<< HEAD
 2. Hồ sơ dé nghị thành lập văn phòng đại diện phải được hợp pháp hóa lãnh
 sự, bao gôm
 
@@ -1796,79 +2399,95 @@ a) Người đứng đầu văn phòng đại diện nộp 01 bộ hồ sơ đ�
 Thể thao và Du lịch
 b) Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, Bộ Văn hóa
 Thể thao và Du lịch thẩm định, trình Thủ tướng Chính phủ xem xét, quyết định
+=======
+2. Hồ sơ đề nghị thành lập văn phòng đại diện phải được hợp pháp hóa lãnh sự, bao gồm:
 
-## Trang 33
+a) Đơn đề nghị thành lập văn phòng đại diện theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
+b) Quyết định thành lập cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực;
+
+c) Quyết định thành lập văn phòng đại diện của cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực;
+
+d) Quyết định bổ nhiệm người đứng đầu văn phòng đại diện.
+>>>>>>> 13e520d (clean data)
+
+3. Trình tự, thủ tục thành lập văn phòng đại diện tại Việt Nam được quy định như sau:
+
+<<<<<<< HEAD
 c) Trong thời hạn 05 ngày lam việc kể từ ngày nhận được ý kiến của Thủ
 tướng Chính phủ, Bộ Văn hóa, Thể thao và Du lịch thông báo bằng văn bản cho
 người đứng dau văn phòng đại diện.
+=======
+a) Người đứng đầu văn phòng đại diện nộp 01 bộ hồ sơ đến Bộ Văn hóa, Thể thao và Du lịch;
 
-Mục 2
-QUY HO TRỢ PHÁT TRIEN DU LICH
+b) Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, Bộ Văn hóa Thể thao và Du lịch thẩm định, trình Thủ tướng Chính phủ xem xét, quyết định;
+>>>>>>> 13e520d (clean data)
 
+c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của Thủ tướng Chính phủ, Bộ Văn hóa, Thể thao và Du lịch thông báo bằng văn bản cho người đứng đầu văn phòng đại diện.
+
+<<<<<<< HEAD
 Điều 70. Thành lập Quỹ hỗ trợ phát triển du lịch
+=======
+### Mục 2. QUỸ HỖ TRỢ PHÁT TRIỂN DU LỊCH
+>>>>>>> 13e520d (clean data)
 
-1. Quỹ hỗ trợ phát triển đu lịch là quỹ tài chính nhà nước ngoài ngân sách,
-có tư cách pháp nhân, có con dau, tài khoản riêng, do Thủ tướng Chính phủ
-thành lập, phê duyệt Điều lệ tổ chức và hoạt động.
+### Điều 70. Thành lập Quỹ hỗ trợ phát triển du lịch
 
-2. Quỹ hỗ trợ phát triển du lịch được miễn nộp thuế và các khoản nộp ngân
-sách nhà nước theo quy định của pháp luật.
+1. Quỹ hỗ trợ phát triển du lịch là quỹ tài chính nhà nước ngoài ngân sách, có tư cách pháp nhân, có con dấu, tài khoản riêng, do Thủ tướng Chính phủ thành lập, phê duyệt Điều lệ tổ chức và hoạt động.
+
+2. Quỹ hỗ trợ phát triển du lịch được miễn nộp thuế và các khoản nộp ngân sách nhà nước theo quy định của pháp luật.
 
 3. Quỹ hỗ trợ phát triển du lịch được hình thành từ các nguồn sau đây
 
 a) Vốn điều lệ do ngân sách nhà nước cấp
 
+<<<<<<< HEAD
 b) Ngân sách nhà nước bd sung hằng năm một phần trích từ nguồn thu phí
 tham quan, phí cấp thị thực và các giây tờ có liên quan đến xuất cảnh, nhập cảnh
 Việt Nam cho người nước ngoài
 
 c) Nguồn tai trợ, đóng góp tự nguyện, hợp pháp của doanh nghiệp, tổ chức,
 cá nhân trong nước và nước ngoài
+=======
+b) Ngân sách nhà nước bổ sung hằng năm một phần trích từ nguồn thu phí tham quan, phí cấp thị thực và các giấy tờ có liên quan đến xuất cảnh, nhập cảnh Việt Nam cho người nước ngoài;
+
+c) Nguồn tài trợ, đóng góp tự nguyện, hợp pháp của doanh nghiệp, tổ chức, cá nhân trong nước và nước ngoài;
+>>>>>>> 13e520d (clean data)
 
 d) Các nguồn thu hợp pháp khác theo quy định của pháp luật.
 
-4. Chính phủ quy định chỉ tiết khoản 3 Điều này,
+4. Chính phủ quy định chi tiết khoản 3 Điều này.
 
-Điều 71. Mục dich của Quỹ hỗ trợ phát triển du lịch
+### Điều 71. Mục đích của Quỹ hỗ trợ phát triển du lịch
 
 1. Xúc tiến du lịch trong nước và nước ngoài.
 
 2. Hỗ trợ nghiên cứu thị trường và phát triển sản phẩm du lịch.
 
-3, Hỗ trợ đào tạo, bồi dưỡng phát triển nguồn nhân lực du lịch.
+3. Hỗ trợ đào tạo, bồi dưỡng phát triển nguồn nhân lực du lịch.
 
 4. Hỗ trợ hoạt động truyền thông du lịch trong cộng đồng.
 
-Điều 72. Nguyên tắc hoạt động của Quỹ hỗ trợ phát triển du lịch
+### Điều 72. Nguyên tắc hoạt động của Quỹ hỗ trợ phát triển du lịch
 
-1. Không vì mục đích lợi nhuận; bảo toàn vốn điều lệ và tự bù dap chi phí
-quản ly.
+1. Không vì mục đích lợi nhuận; bảo toàn vốn điều lệ và tự bù đắp chi phí quản lý.
 
-2. Thực hiện thu, chỉ, quyết toán, công khai tài chính, tài sản và công tác kế
-toán theo quy định của pháp luật.
+2. Thực hiện thu, chi, quyết toán, công khai tài chính, tài sản và công tác kế toán theo quy định của pháp luật.
 
-3. Chịu sự kiểm tra, thanh tra, kiểm toán của cơ quan quản lý nhà nước về
-tài chính và kiểm toán nhà nước về các hoạt động tài chính của Quỹ hỗ trợ phát
-triển du lịch.
+3. Chịu sự kiểm tra, thanh tra, kiểm toán của cơ quan quản lý nhà nước về tài chính và kiểm toán nhà nước về các hoạt động tài chính của Quỹ hỗ trợ phát triển du lịch.
 
-4. Bảo đảm công khai, minh bạch, tiết kiệm, hiệu quả, sử dụng đúng mục
-đích và phù hợp với quy định của pháp luật.
+4. Bảo đảm công khai, minh bạch, tiết kiệm, hiệu quả, sử dụng đúng mục đích và phù hợp với quy định của pháp luật.
 
-## Trang 34
+5. Số dư kinh phí năm trước của Quỹ hỗ trợ phát triển du lịch được chuyển sang năm sau để tiếp tục sử dụng.
 
-34 7
+## Chương VIII
+QUẢN LÝ NHÀ NƯỚC VỀ DU LỊCH
 
-5. Số dư kinh phí năm trước của Quỹ hỗ trợ phát triển đu lịch được chuyển
-sang năm sau đề tiệp tục sử dung.
-
-Chương VIII
-QUAN LY NHA NUGC VE DU LICH
-
-Điều 73. Trách nhiệm quản ly nhà nước về du lịch của Chính phủ
+### Điều 73. Trách nhiệm quản lý nhà nước về du lịch của Chính phủ
 
 1. Chính phủ thống nhất quản lý nhà nước về du lịch.
 
+<<<<<<< HEAD
 2. Bộ Văn hóa, Thể thao và Du lịch là cơ quan đầu mối giúp Chính phủ
 thực hiện quản lý nhà nước về du lịch và có nhiệm vụ, quyên hạn sau đây
 
@@ -1876,9 +2495,15 @@ a) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành v�
 chức thực hiện văn bản quy phạm pháp luật về du lịch; chiến lược, quy hoạch,
 kế hoạch, chính sách phát triển du lịch; danh mục các địa điểm tiềm năng phát
 triển khu du lịch quốc gia
+=======
+2. Bộ Văn hóa, Thể thao và Du lịch là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về du lịch và có nhiệm vụ, quyền hạn sau đây:
 
-b) Điều phối, liên kết các hoạt động du lịch liên quốc gia, liên vùng, liên tỉnh,
+a) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về du lịch; chiến lược, quy hoạch, kế hoạch, chính sách phát triển du lịch; danh mục các địa điểm tiềm năng phát triển khu du lịch quốc gia;
+>>>>>>> 13e520d (clean data)
 
+b) Điều phối, liên kết các hoạt động du lịch liên quốc gia, liên vùng, liên tỉnh;
+
+<<<<<<< HEAD
 c) Xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về du lịch
 xây dựng cơ sở đữ liệu quản lý về đu lịch
 
@@ -1899,32 +2524,46 @@ viên du lịch và các văn bản chứng nhận khác về hoạt động du 
 
 i) Xã hội hóa hoạt động đầu tư, phát triển sản phẩm du lịch, xúc tiến du
 lich, dao tạo, bồi dưỡng nguồn nhân lực du lịch
+=======
+c) Xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về du lịch; xây dựng cơ sở dữ liệu quản lý về du lịch;
 
-k) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý ví phạm pháp
-luật về du lịch.
+d) Phối hợp với các cơ quan có liên quan, tổ chức xã hội - nghề nghiệp về du lịch phổ biến, giáo dục pháp luật về du lịch;
 
-Điều 74. Trách nhiệm quản lý nhà nước về du lịch của Bộ, cơ quan
-ngang Bộ
+đ) Tổ chức, quản lý hoạt động đào tạo, bồi dưỡng nguồn nhân lực du lịch; nghiên cứu, ứng dụng khoa học và công nghệ trong lĩnh vực du lịch; hướng dẫn về giao dịch điện tử trong lĩnh vực du lịch;
 
-1. Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của
-mình, có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch trong việc
-thực hiện quản lý nhà nước về du lịch.
+e) Tổ chức điều tra, đánh giá tài nguyên du lịch;
 
-## Trang 35
+g) Thực hiện hợp tác quốc tế về du lịch; hoạt động xúc tiến du lịch ở trong nước và nước ngoài;
 
+h) Quản lý, tổ chức thực hiện việc cấp, thu hồi giấy phép, thẻ hướng dẫn viên du lịch và các văn bản chứng nhận khác về hoạt động du lịch;
+
+i) Xã hội hóa hoạt động đầu tư, phát triển sản phẩm du lịch, xúc tiến du lịch, đào tạo, bồi dưỡng nguồn nhân lực du lịch;
+>>>>>>> 13e520d (clean data)
+
+k) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về du lịch.
+
+### Điều 74. Trách nhiệm quản lý nhà nước về du lịch của Bộ, cơ quan ngang Bộ
+
+1. Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch trong việc thực hiện quản lý nhà nước về du lịch.
+
+2. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách ưu đãi, hỗ trợ đầu tư trong lĩnh vực du lịch; huy động nguồn lực, thu hút đầu tư phát triển du lịch; lồng ghép các nội dung liên quan đến phát triển du lịch trong các chiến lược, chương trình, quy hoạch, kế hoạch phát triển kinh tế - xã hội.
+
+<<<<<<< HEAD
 2. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Văn hóa, Thể thao và
 Du lịch, cơ quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước
 có thẫm quyền ban hành chính sách ưu đãi, hễ trợ đầu tư trong lĩnh vực du lịch
 huy động nguồn lực, thu hút đầu tư phát triển du lịch; lồng ghép các nội dung
 liên quan đến phát trién du lịch trong các chiến lược, chương trình, quy hoạch,
 kế hoạch phát triển kinh tế - xã hội.
+=======
+3. Bộ Tài chính chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách về tài chính, thuế và hải quan nhằm tạo điều kiện phát triển du lịch; bảo đảm nguồn lực tài chính cho các hoạt động xúc tiến du lịch quốc gia.
 
-3. Bộ Tài chính chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ
-quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước có thâm
-quyền ban hành chính sách về tài chính, thuế và hải quan nhằm tạo điều kiện
-phát triển du lịch; bảo đảm nguồn lực tài chính cho các hoạt động xúc tién du
-lịch quốc gia.
+4. Bộ Công Thương chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách khuyến khích sản xuất, cung cấp hàng hóa, đồ lưu niệm, hàng thủ công, dịch vụ chất lượng cao để phát triển du lịch, xây dựng hệ thống cửa hàng miễn thuế phục vụ khách du lịch tại một số địa bàn du lịch trọng điểm; lồng ghép xúc tiến du lịch trong xúc tiến thương mại.
+>>>>>>> 13e520d (clean data)
 
+5. Bộ Ngoại giao chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ quan nhà nước có liên quan tuyên truyền, quảng bá hình ảnh, đất nước, con người Việt Nam; tham mưu chính sách về thị thực phục vụ phát triển du lịch.
+
+<<<<<<< HEAD
 4. Bộ Công Thương chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch,
 cơ quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước có thẩm
 quyền ban hành chính sách khuyến khích sản xuất, cung cấp hàng hóa, đồ lưu
@@ -1942,9 +2581,15 @@ dân các cấp
 1; Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình,
 thực hiện quản lý nhà nước về du lịch tại địa phương; cụ thể hóa chiến lược, quy
 hoạch, kế hoạch, chính sách phát triển du lịch phù hợp với thực tế tại địa phương.
+=======
+### Điều 75. Trách nhiệm quản lý nhà nước về du lịch của Ủy ban nhân dân các cấp
+
+1. Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về du lịch tại địa phương; cụ thể hóa chiến lược, quy hoạch, kế hoạch, chính sách phát triển du lịch phù hợp với thực tế tại địa phương.
+>>>>>>> 13e520d (clean data)
 
 2. Ủy ban nhân dân các cấp có nhiệm vụ, quyền hạn sau đây
 
+<<<<<<< HEAD
 a) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành các
 chính sách wu đãi, thu hút đầu tư để khai thác tiềm năng, thế mạnh về du lịch
 của địa phương; hỗ trợ phát triển du lịch cộng đồng
@@ -1979,37 +2624,68 @@ Phí và lệ phí số 97/2015/QH13 như sau
 
 3.1 | Phí thẩm định công nhận hạng cơ sở lưu trú du lịch, cơ sở | Bộ Tài chính
 kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ
+=======
+a) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành các chính sách ưu đãi, thu hút đầu tư để khai thác tiềm năng, thế mạnh về du lịch của địa phương; hỗ trợ phát triển du lịch cộng đồng;
 
-khách du lịch.
+b) Quản lý tài nguyên du lịch, khu du lịch, điểm du lịch, hoạt động kinh doanh du lịch và hướng dẫn du lịch trên địa bàn;
 
+c) Bảo đảm an ninh, trật tự, an toàn xã hội, môi trường, an toàn thực phẩm tại khu du lịch, điểm du lịch, nơi tập trung nhiều khách du lịch;
+
+d) Tuyên truyền, nâng cao nhận thức của người dân để bảo đảm môi trường du lịch thân thiện, lành mạnh và văn minh;
+
+đ) Tổ chức bố trí nơi dừng, đỗ cho các phương tiện giao thông đã được cấp biển hiệu phương tiện vận tải khách du lịch để tiếp cận điểm tham quan du lịch, cơ sở lưu trú du lịch; tổ chức rà soát, lắp đặt biển báo, biển chỉ dẫn vào khu du lịch, điểm du lịch;
+
+e) Tổ chức tiếp nhận và giải quyết kiến nghị của khách du lịch;
+
+g) Thực hiện các nhiệm vụ khác theo quy định của Luật này.
+
+## Chương IX
+ĐIỀU KHOẢN THI HÀNH
+
+### Điều 76. Sửa đổi, bổ sung Danh mục phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 Sửa đổi, bổ sung - Phí thuộc lĩnh vực văn hóa, thể thao, du lịch trong Danh mục phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 như sau:
+>>>>>>> 13e520d (clean data)
+
+3.1 Phí thẩm định công nhận hạng cơ sở lưu trú du lịch, cơ sở kinh doanh dịch vụ du lịch khác đạt ti êu chuẩn phục vụ khách du lịch.Bộ Tài chính
+3.2 Phí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy phép kinh doanh dịch vụ lữ hành nội địa.Bộ Tài chính
+
+<<<<<<< HEAD
 3.2 | Phí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành | Bộ Tài chính
 quốc tế, Giấy phép kinh doanh dịch vụ lữ hành nội địa.
 
 Điều 77. Hiệu lực thi hành
+=======
+### Điều 77. Hiệu lực thi hành
+>>>>>>> 13e520d (clean data)
 
 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2018.
 
-2. Luật Du lịch số 44/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu
-lực thi hành.
+2. Luật Du lịch số 44/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
+<<<<<<< HEAD
 Điều 78. Quy định chuyển tiếp
+=======
+### Điều 78. Quy định chuyển tiếp
+>>>>>>> 13e520d (clean data)
 
-1. Doanh nghiệp đã được cấp Giấy phép kinh doanh dịch vụ lữ hành quốc
-tế trước ngày Luật này có hiệu lực thi hành không phải làm thủ tục đổi giấy
-phép, nhưng phải bảo đảm đáp ứng đủ các điều kiện kinh doanh theo quy định
-của Luật này trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành.
+1. Doanh nghiệp đã được cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế trước ngày Luật này có hiệu lực thi hành không phải làm thủ tục đổi giấy phép, nhưng phải bảo đảm đáp ứng đủ các điều kiện kinh doanh theo quy định của Luật này trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành.
 
+<<<<<<< HEAD
 2. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa phải làm thủ tục đề
 nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa trong thời hạn 12 tháng
 kể từ ngày Luật này có hiệu lực thi hành. Sau thời hạn trên, nếu không có giấy
 phép thì doanh nghiệp không được kinh doanh dịch vụ lữ hành nội địa.
+=======
+2. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa phải làm thủ tục đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành. Sau thời hạn trên, nếu không có giấy phép thì doanh nghiệp không được kinh doanh dịch vụ lữ hành nội địa.
+>>>>>>> 13e520d (clean data)
 
-3. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa đã được
-cấp thẻ hướng dẫn viên du lịch trước ngày Luật này có hiệu lực thi hành được tiếp
-tục hành nghề cho đến hết thời hạn ghi trên thẻ.
+3. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa đã được cấp thẻ hướng dẫn viên du lịch trước ngày Luật này có hiệu lực thi hành được tiếp tục hành nghề cho đến hết thời hạn ghi trên thẻ.
 
+<<<<<<< HEAD
 ## Trang 37
 
 4. Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan nhà nước có thẩm quyền trước ngày Luật này có hiệu lực được tiếp tục sử dụng hạng đã được công nhận cho đến hết thời hạn theo quyết định.
 
 Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017.
+=======
+4. Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan nhà nước có thẩm quyền trước ngày Luật này có hiệu lực được tiếp tục sử dụng hạng đã được công nhận cho đến hết thời hạn theo quyết định.
+>>>>>>> 13e520d (clean data)

@@ -4,11 +4,17 @@
 
 **Crawled:** 2026-09-20T05:22:13.609942+00:00
 
+**Standardization:** clean-v2
+
 ---
 
+<<<<<<< HEAD
 ## Nội dung
 
 Food tour Hà Nội là trải nghiệm tuyệt vời cho một ngày cuối tuần đầy năng động và tràn ngập những điều thú vị. Đây cũng là cơ hội lý tưởng để du khách tham quan và khám phá văn hóa địa phương.
+=======
+## Food tour Hà Nội là trải nghiệm tuyệt vời cho một ngày cuối tuần đầy năng động và tràn ngập những điều thú vị. Đây cũng là cơ hội lý tưởng để du khách tham quan và khám phá văn hóa địa phương.
+>>>>>>> 13e520d (clean data)
 
 Nếu bạn đang lên kế hoạch cho một chuyến **du lịch Hà Nội** thì đừng quên dành thời gian để thưởng thức **món ngon Hà Nội**. Còn chần chờ gì mà không set ngay một kèo **food tour Hà Nội** cùng bạn bè. Đây không chỉ là kỷ niệm đáng nhớ mà còn là cơ hội để trải nghiệm nền văn hóa ẩm thực phong phú đất kinh kỳ.
 ## 1. Food tour phố cổ Hà Nội - thưởng thức ẩm thực 36 phố phường

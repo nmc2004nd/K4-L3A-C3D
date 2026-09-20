@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-20T05:25:29.325321+00:00
 
+**Standardization:** clean-v2
+
 ---
 
 Ẩm thực được xem là yếu tố quan trọng góp phần không nhỏ trong việc thu hút du khách đến trải nghiệm, thưởng thức. Theo đó, ngành du lịch thành phố Đà Nẵng đã nỗ lực làm mới, nâng tầm các món ăn cũng như nâng cao chất lượng phục vụ du khách nhằm góp phần quảng bá ẩm thực như là sản phẩm đặc sắc để thu hút khách trong nước và quốc tế.

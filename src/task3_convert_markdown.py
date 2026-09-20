@@ -5,8 +5,10 @@ import re
 import shutil
 import subprocess
 import tempfile
+import unicodedata
 from pathlib import Path
 from typing import Final
+from urllib.parse import urlsplit
 
 
 ROOT_DIR = Path(__file__).parent.parent
@@ -14,28 +16,244 @@ LANDING_DIR = ROOT_DIR / "data" / "landing"
 OUTPUT_DIR = ROOT_DIR / "data" / "standardized"
 MIN_CONTENT_LENGTH: Final = 200
 MIN_PDF_TEXT_LENGTH: Final = 500
+STANDARDIZATION_VERSION: Final = "clean-v2"
+
+_LEGAL_OCR_REPLACEMENTS: Final = {
+    "phát tr iển": "phát triển",
+    "bảo t ồ n": "bảo tồn",
+    "bản s ắ c": "bản sắc",
+    "tr ong": "trong",
+    "tr iệu": "triệu",
+    "ch o": "cho",
+    "đ ờ i": "đời",
+    "Xâ y": "Xây",
+    "tha o": "thao",
+    "đ ề": "đề",
+    "xu ấ t": "xuất",
+    "h ỗ": "hỗ",
+    "đ ầ u": "đầu",
+    "c ầ u": "cầu",
+    "th ẩm": "thẩm",
+    "c ông": "công",
+    "nh ận": "nhận",
+    "tr ú": "trú",
+    "l ịch": "lịch",
+    "kh ác": "khác",
+    "đ ạt": "đạt",
+    "chu ẩn": "chuẩn",
+    "ph ép": "phép",
+    "d ịch": "dịch",
+    "h ành": "hành",
+    "qu ốc": "quốc",
+    "n ội": "nội",
+    "B ộ": "Bộ",
+    "T ài": "Tài",
+}
 
 LEGAL_METADATA: Final = {
     "luat_du_lich_09_2017_qh14": {
         "title": "Luật Du lịch số 09/2017/QH14",
         "url": "https://vanban.chinhphu.vn/?docid=190290&pageid=27160",
+        "transcription_url": "https://luatvietnam.vn/van-hoa/luat-du-lich-2017-luat-so-09-2017-qh14-115518-d1.html",
     },
     "nghi_dinh_168_2017_nd_cp_huong_dan_luat_du_lich": {
         "title": "Nghị định 168/2017/NĐ-CP quy định chi tiết Luật Du lịch",
         "url": "https://vanban.chinhphu.vn/?docid=193059&pageid=27160",
+        "transcription_url": "https://luatvietnam.vn/van-hoa/nghi-dinh-168-2017-nd-cp-quy-dinh-chi-tiet-mot-so-dieu-cua-luat-du-lich-160217-d1.html",
     },
     "quyet_dinh_147_qd_ttg_chien_luoc_phat_trien_du_lich_2030": {
         "title": "Quyết định 147/QĐ-TTg về Chiến lược phát triển du lịch đến 2030",
         "url": "https://vanban.chinhphu.vn/?docid=198927&pageid=27160",
+        "transcription_url": "https://luatvietnam.vn/van-hoa/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-viet-nam-den-nam-2030-180149-d1.html",
     },
 }
 
 
 def _clean_text(text: str) -> str:
-    text = text.replace("\x0c", "\n\n")
+    text = unicodedata.normalize("NFC", text)
+    text = text.replace("\ufeff", "").replace("\xa0", " ").replace("\x0c", "\n\n")
+    text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", text)
     text = re.sub(r"[ \t]+\n", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def _strip_markdown_media(text: str) -> str:
+    """Remove crawler media noise while retaining useful linked text."""
+    text = re.sub(r"(?m)^\s*!\[[^\]]*\]\([^\n)]*\).*?$", "", text)
+    # A few crawlers emit inline icons rather than a dedicated image line.
+    text = re.sub(r"!\[[^\]]*\]\([^\n)]*\)", "", text)
+    text = re.sub(r"\[([^\]\n]+)\]\([^\n)]*\)", r"\1", text)
+    return text
+
+
+def _heading_depth(line: str) -> int:
+    match = re.match(r"^#\s+(\d+(?:\.\d+)*)\.?(?:\s|$)", line)
+    return min(4, 1 + match.group(1).count(".")) if match else 1
+
+
+def _normalise_article_headings(text: str) -> str:
+    """Keep one document H1 and make headings inside the article hierarchical."""
+    output: list[str] = []
+    for line in text.splitlines():
+        match = re.match(r"^(#{1,6})\s*(.*?)\s*$", line)
+        if not match:
+            output.append(line)
+            continue
+        source_depth = len(match.group(1))
+        label = match.group(2).strip()
+        if not label:
+            continue
+        target_depth = max(2, source_depth)
+        if source_depth == 1:
+            target_depth = _heading_depth(f"# {label}") + 1
+        output.append(f"{'#' * target_depth} {label}")
+    return "\n".join(output)
+
+
+def _slice_between_lines(
+    text: str,
+    *,
+    start_pattern: str | None = None,
+    end_patterns: tuple[str, ...] = (),
+) -> str:
+    lines = text.splitlines()
+    start = 0
+    if start_pattern:
+        matcher = re.compile(start_pattern, re.IGNORECASE)
+        for index, line in enumerate(lines):
+            if matcher.search(line.strip()):
+                start = index + 1
+                break
+
+    end = len(lines)
+    end_matchers = [re.compile(pattern, re.IGNORECASE) for pattern in end_patterns]
+    for index in range(start, len(lines)):
+        if any(pattern.search(lines[index].strip()) for pattern in end_matchers):
+            end = index
+            break
+    return "\n".join(lines[start:end])
+
+
+def _clean_news_markdown(markdown: str, title: str, url: str) -> str:
+    """Extract article content and remove menus, ads, widgets and repeated title."""
+    text = _clean_text(markdown)
+    host = urlsplit(url).netloc.lower().removeprefix("www.")
+
+    if host == "vinpearl.com":
+        text = _slice_between_lines(
+            text,
+            start_pattern=r"^#\s+",
+            end_patterns=(r"^Đọc tiếp\s*$", r"^Chia sẻ tin qua:\s*$"),
+        )
+        text = re.sub(
+            r"(?ms)^Sau khi bổ sung đầy năng lượng,.*?^Booking vé[^\n]*\n?",
+            "",
+            text,
+        )
+    elif host == "traveloka.com":
+        text = _slice_between_lines(
+            text,
+            start_pattern=r"^#\s+",
+            end_patterns=(
+                r"^Xem thêm:\s*$",
+                r"^Tags:\s*$",
+                r"^###\s+(?:Trong bài viết này|Table of Content)\s*$",
+            ),
+        )
+        # Author and reading-time labels precede the actual lead paragraph.
+        text = re.sub(
+            r"\A\s*[^\n]+\n\s*(?:Dưới\s+\d+\s+phút đọc|Đọc trong khoảng\s+\d+\s+phút)\s*\n",
+            "",
+            text,
+            flags=re.IGNORECASE,
+        )
+        # Booking widgets embedded between two article sections are not evidence.
+        text = re.sub(
+            r"(?ms)^#\s+Vé máy bay đi[^\n]*\n.*?(?=^#\s+\d+(?:\.\d+)*\b)",
+            "",
+            text,
+        )
+    else:
+        # Most article crawls contain a single H1 after breadcrumbs/category labels.
+        if re.search(r"(?m)^#\s+", text):
+            text = _slice_between_lines(
+                text,
+                start_pattern=r"^#\s+",
+                end_patterns=(r"^#{3,6}\s+Content\b",),
+            )
+
+    text = _strip_markdown_media(text)
+    text = re.sub(r"(?m)^Posted on .*$", "", text)
+    text = re.sub(r"(?m)^\d{2}/\d{2}/\d{4}(?:\s+[\d.]+)?\s*$", "", text)
+    text = re.sub(r"(?m)^(?:\d{1,2}|Th\d{1,2})\s*$", "", text)
+    text = re.sub(r"(?m)^\s*[•·]\s*", "- ", text)
+    text = re.sub(
+        r"(?ms)^- Thoải mái di chuyển cùng Duy Khang Limousine:.*?^Xem thêm\s*:.*$",
+        "",
+        text,
+    )
+    text = re.sub(
+        r"(?m)^Hãy lên kế hoạch ngay.*Duy Khang Limousine.*$",
+        "",
+        text,
+    )
+    text = re.sub(r"(?m)\s+Hãy đặt vé máy bay.*$", "", text)
+    text = re.sub(r"(?ms)^Để có được chuyến đi Thanh Hóa.*\Z", "", text)
+    text = re.sub(r"(?m) Dù bạn lên kế hoạch nghỉ dưỡng.*$", "", text)
+    text = _normalise_article_headings(text)
+    text = _clean_text(text)
+    if len(text) < MIN_CONTENT_LENGTH:
+        raise ValueError(f"Nội dung sau làm sạch quá ngắn: {title}")
+    return text
+
+
+def _clean_legal_markdown(text: str) -> str:
+    """Remove OCR/page artefacts without guessing or rewriting legal wording."""
+    text = _clean_text(text)
+    text = re.sub(r"(?m)^Đang theo dõi\s*$", "", text)
+    text = re.sub(r"(?m)^.*Theo quy định tại\s*:.*$", "", text)
+    text = re.sub(r"(?m)^.*áp dụng từ ngày 01/7/2025 đến hết ngày 28/02/2027\.?$", "", text)
+    text = re.sub(
+        r"(?m)^Mức ký quỹ .*Nghị định 94/2021/NĐ-CP.*$|^Theo quy định tại Nghị định 94/2021/NĐ-CP:.*$",
+        "",
+        text,
+    )
+    text = _strip_markdown_media(text)
+    text = text.replace("**", "").replace("_", "")
+    # The signed PDFs repeat artificial page labels and OCR page numbers. They
+    # hurt retrieval and can split one sentence into unrelated chunks.
+    text = re.sub(
+        r"(?m)^## Trang \d+\s*\n(?:\s*[:;]?\s*\d{1,3}\s*[».:]?\s*\n)?",
+        "",
+        text,
+    )
+
+    # Discard signature metadata and damaged mastheads before the legal text.
+    preamble = re.search(r"(?mi)^Căn cứ\b", text)
+    if preamble:
+        text = text[preamble.start():]
+
+    # Recipient/signature blocks and scanned annex templates are high-noise
+    # administrative matter; the substantive articles end before these lines.
+    ending = re.search(
+        r"(?mi)^N(?:ơ|o)i nhận:|^;?\s*CHỦ TỊCH QUỐC HỘI\b|^Lu\s+ật\s+n\s+ày\s+đư\s+ợc\b",
+        text,
+    )
+    if ending:
+        text = text[:ending.start()]
+
+    text = re.sub(r"(?m)^\s*[:;=_<>¬†„'‘’`~.-]{1,12}\s*$", "", text)
+    text = re.sub(r"(?m)^\s*\d{1,2}\s*$", "", text)
+    text = re.sub(r"(?m)^\s*[„_]\s*(?=\d+[.,]\s*)", "", text)
+    text = re.sub(r"(?m)^(Ch(?:ư|u)ơng\s+[IVXLCDM]+)\s*$", r"## \1", text)
+    text = re.sub(r"(?m)^(Mục\s+\d+\.?[^\n]*)$", r"### \1", text)
+    text = re.sub(r"(?m)^(Điều\s+\d+[a-zA-Z]?\.[^\n]*)$", r"### \1", text)
+    text = re.sub(r"(?m)^([IVXLCDM]+\.\s+[A-ZÀ-Ỹ][A-ZÀ-Ỹ\s,–-]+)$", r"## \1", text)
+    text = re.sub(r"(?m)^(#{2,4}\s+Điều\s+\d+[a-zA-Z]?\.)\s*", r"\1 ", text)
+    for damaged, corrected in _LEGAL_OCR_REPLACEMENTS.items():
+        text = text.replace(damaged, corrected)
+    return _clean_text(text)
 
 
 def _write_atomic(path: Path, content: str) -> None:
@@ -136,7 +354,7 @@ def _convert_legal_document(path: Path) -> str:
         content = _ocr_pdf(path)
     if len(content) < MIN_CONTENT_LENGTH:
         raise ValueError(f"Không trích xuất được nội dung từ {path.name}")
-    return content
+    return _clean_legal_markdown(content)
 
 
 def convert_legal_docs() -> list[Path]:
@@ -165,6 +383,7 @@ def convert_legal_docs() -> list[Path]:
             {
                 "title": source.stem.replace("_", " ").title(),
                 "url": None,
+                "transcription_url": None,
             },
         )
         body = _convert_legal_document(source)
@@ -172,6 +391,12 @@ def convert_legal_docs() -> list[Path]:
             f"# {metadata['title']}\n\n"
             f"**Source file:** {source.name}\n\n"
             f"**Source URL:** {metadata['url'] or 'Không có'}\n\n"
+            + (
+                f"**Text transcription:** {metadata['transcription_url']}\n\n"
+                if metadata.get("transcription_url")
+                else ""
+            )
+            + f"**Standardization:** {STANDARDIZATION_VERSION}\n\n"
             "---\n\n"
         )
         _write_atomic(output, header + body)
@@ -214,12 +439,18 @@ def convert_news_articles() -> list[Path]:
         except json.JSONDecodeError as error:
             raise ValueError(f"JSON không hợp lệ: {source.name}") from error
         data = _validate_news(raw_data, source)
+        body = _clean_news_markdown(
+            data["content_markdown"],
+            data["title"],
+            data["url"],
+        )
         markdown = (
             f"# {data['title']}\n\n"
             f"**Source:** {data['url']}\n\n"
             f"**Crawled:** {data['date_crawled']}\n\n"
+            f"**Standardization:** {STANDARDIZATION_VERSION}\n\n"
             "---\n\n"
-            f"{data['content_markdown'].strip()}\n"
+            f"{body}\n"
         )
         _write_atomic(output, markdown)
         print(f"Đã lưu: {output.relative_to(ROOT_DIR)}")

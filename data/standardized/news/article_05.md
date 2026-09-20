@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-20T05:25:27.223644+00:00
 
+**Standardization:** clean-v2
+
 ---
 
 Ẩm thực miền non nước Cao Bằng vừa phong phú, đa dạng lại hài hòa và tinh tế đã tạo ra dấu ấn riêng biệt trong tâm trí du khách. Với xu thế phát triển du lịch chung, ẩm thực Cao Bằng hứa hẹn sẽ là một sản phẩm du lịch hấp dẫn đối với du khách.

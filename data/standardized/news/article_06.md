@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-20T05:19:23.899517+00:00
 
+**Standardization:** clean-v2
+
 ---
 
 Thường được ví von là “viên ngọc xanh” của núi rừng Đông Bắc, Cao Bằng là mảnh đất giàu thống lịch sử, điểm đến hấp dẫn cho các chuyến du lịch trải nghiệm. Ngoài vô vàn thắng cảnh trời ban thì ẩm thực chính là yếu tố níu chân du khách. Ẩm thực Cao Bằng là sự kết hợp độc đáo của các loại sản vật địa phương, mang dấu ấn hương vị riêng của đồng bào các dân tộc thiểu số.
@@ -148,4 +150,8 @@ Nằm trong top đặc sản Cao Bằng, thịt bò gác bếp là món mà bạ
 
 Thịt bò gác bếp là món ngon phải thử trong chuyến foodtour Cao Bằng. @anhhongnk76
 
+<<<<<<< HEAD
 Ẩm thực Cao Bằng luôn biết cách để “gây thương nhớ” cho du khách bằng hương vị độc đáo của mình. Sau những giờ rong ruổi khám phá, du khách đừng quên dành thời gian khám phá các món ăn đặc sản nơi đây.
+=======
+Ẩm thực Cao Bằng luôn biết cách để “gây thương nhớ” cho du khách bằng hương vị độc đáo của mình. Sau những giờ rong ruổi khám phá, bạn đừng quên dành thời gian để khám phá các món ăn đặc sản nơi đây nhé!
+>>>>>>> 13e520d (clean data)

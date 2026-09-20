@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-20T05:19:25.506581+00:00
 
+**Standardization:** clean-v2
+
 ---
 
 Thanh Hóa nổi tiếng là vùng đất “địa linh nhân kiệt” với rất nhiều chiến tích lịch sử của ông cha. Đồng thời, nơi này còn có cảnh vật thiên nhiên khá đa dạng, độc đáo. Vì vậy, Thanh Hóa luôn thu hút một lượng khách du lịch nhất định hằng năm. Ngoài ra, những món ăn đặc sản tại xứ Thanh cũng là yếu tố tạo nên sự thu hút với khách du lịch khi đến đây.
@@ -48,7 +50,11 @@ Hiện nay các khu chợ Thanh Hóa có bày bán Chè Lam rất nhiều với 
 
 Món chè lam ngon ngọt nhâm nhi cùng tách trà nóng @internet
 
+<<<<<<< HEAD
 ## 4. Chẻo nhệch
+=======
+## 3. Chẻo nhệch
+>>>>>>> 13e520d (clean data)
 
 Chẻo nhệch là tên của một món gỏi nổi tiếng tại khu vực Thanh Hóa có nguồn gốc từ Nga Sơn. Chẻo được làm ra từ phần xương cá giã nhuyễn, sau đó đem đi chưng cùng mẻ chua để tạo nên thành phẩm có màu đỏ và sánh đặc.
 

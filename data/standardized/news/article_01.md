@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-20T05:19:16.687440+00:00
 
+**Standardization:** clean-v2
+
 ---
 
 Hà Nội mùa này đẹp lắm em ơi! Không chỉ níu chân du khách bởi những con phố rợp bóng cây sấu già, những góc hồ Tây lộng gió hay bề dày lịch sử ngàn năm văn hiến, Thủ đô còn là một Thiên đường ẩm thực đích thực. Ẩm thực Hà Nội từ lâu đã trở thành một phần không thể tách rời trong hành trình khám phá của du khách bốn phương.
@@ -90,7 +92,10 @@ Bên cạnh việc thưởng thức tại các quán ăn quen thuộc, du khách
 - Tối: Thưởng thức bia hơi Tạ Hiện hoặc các món lẩu, nướng quanh Phố Cổ.
 
 - Chuẩn bị tiền mặt lẻ: Các quán ăn vặt vỉa hè hay ngõ ngách lâu đời vẫn ưu tiên thanh toán bằng tiền mặt để phục vụ du khách nhanh chóng hơn.
+<<<<<<< HEAD
 
 ## Lời Kết
 
 Ẩm thực Hà Nội không chỉ nằm ở hương vị của món ăn, mà còn là câu chuyện về văn hóa, sự tinh tế trong cách chế biến và tình cảm của người bán hàng qua nhiều thế hệ.
+=======
+>>>>>>> 13e520d (clean data)
